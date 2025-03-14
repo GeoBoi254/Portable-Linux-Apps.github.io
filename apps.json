@@ -2685,11 +2685,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/dragdrop.png"
   },
   {
-    "packageName": "dragoman",
-    "description": "GUI for polyglot...",
-    "icon": "https://portable-linux-apps.github.io/icons/dragoman.png"
-  },
-  {
     "packageName": "dragula",
     "description": "Free Stock Images on Steroids...",
     "icon": "https://portable-linux-apps.github.io/icons/dragula.png"
@@ -11845,11 +11840,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/ungoogled-chromium.png"
   },
   {
-    "packageName": "unified-communications",
-    "description": "Unified Communication from Mundio Mobiles...",
-    "icon": "https://portable-linux-apps.github.io/icons/unified-communications.png"
-  },
-  {
     "packageName": "unishellect",
     "description": "JSON parser file and menu customizez Hyper-inspired...",
     "icon": "https://portable-linux-apps.github.io/icons/unishellect.png"
@@ -11938,11 +11928,6 @@
     "packageName": "upscayl",
     "description": "Free and Open Source AI Image Upscaler...",
     "icon": "https://portable-linux-apps.github.io/icons/upscayl.png"
-  },
-  {
-    "packageName": "upterm",
-    "description": "A terminal emulator for the 21st century...",
-    "icon": "https://portable-linux-apps.github.io/icons/upterm.png"
   },
   {
     "packageName": "urbanterror",
