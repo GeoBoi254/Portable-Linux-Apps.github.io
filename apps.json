@@ -1230,11 +1230,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/boxxy.png"
   },
   {
-    "packageName": "brackets",
-    "description": "Brackets-Electron...",
-    "icon": "https://portable-linux-apps.github.io/icons/brackets.png"
-  },
-  {
     "packageName": "brainverse",
     "description": "Electronic Lab Notebook for Reproducible Neuro Imaging Research...",
     "icon": "https://portable-linux-apps.github.io/icons/brainverse.png"
@@ -2463,11 +2458,6 @@
     "packageName": "defichain-app",
     "description": "DefiChain Wallet AppImage...",
     "icon": "https://portable-linux-apps.github.io/icons/defichain-app.png"
-  },
-  {
-    "packageName": "delir",
-    "description": "Web Technology driven VFX Application...",
-    "icon": "https://portable-linux-apps.github.io/icons/delir.png"
   },
   {
     "packageName": "deltachat-desktop",
@@ -4608,11 +4598,6 @@
     "packageName": "groot",
     "description": "Graphical Editor to create BehaviorTrees...",
     "icon": "https://portable-linux-apps.github.io/icons/groot.png"
-  },
-  {
-    "packageName": "grx",
-    "description": "Fastest Web Gerber Renderer...",
-    "icon": "https://portable-linux-apps.github.io/icons/grx.png"
   },
   {
     "packageName": "gsequencer",
