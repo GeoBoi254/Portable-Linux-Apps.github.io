@@ -10800,11 +10800,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/sudachi.png"
   },
   {
-    "packageName": "sugarizer",
-    "description": "A taste of Sugar on any device...",
-    "icon": "https://portable-linux-apps.github.io/icons/sugarizer.png"
-  },
-  {
     "packageName": "sultanpos",
     "description": "Simple POS for minimarket...",
     "icon": "https://portable-linux-apps.github.io/icons/sultanpos.png"
