@@ -6945,11 +6945,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/moyu.png"
   },
   {
-    "packageName": "mozaic",
-    "description": "Massive Online Zeus Artificial Intelligence Competition platform...",
-    "icon": "https://portable-linux-apps.github.io/icons/mozaic.png"
-  },
-  {
     "packageName": "mp3-tagger",
     "description": "An Electron app to edit metadata of mp3 files...",
     "icon": "https://portable-linux-apps.github.io/icons/mp3-tagger.png"
@@ -10133,11 +10128,6 @@
     "packageName": "sipgate-softphone",
     "description": "The sipgate softphone is developed directly by sipgate...",
     "icon": "https://portable-linux-apps.github.io/icons/sipgate-softphone.png"
-  },
-  {
-    "packageName": "siril",
-    "description": "Astronomical image pre-processing program...",
-    "icon": "https://portable-linux-apps.github.io/icons/siril.png"
   },
   {
     "packageName": "siyuan",
