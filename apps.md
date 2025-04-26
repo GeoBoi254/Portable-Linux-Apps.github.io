@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2494** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2493** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2493,7 +2493,6 @@
 | <img loading="lazy" src="icons/wnr.png" width="48" height="48"> | [***wnr***](apps/wnr.md) | *Work/Rest Timer. Stricter. Prettier. More features.*..[ *read more* ](apps/wnr.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wnr) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wnr) |
 | <img loading="lazy" src="icons/woke.png" width="48" height="48"> | [***woke***](apps/woke.md) | *A REST client with grand ambitions and limited scope.*..[ *read more* ](apps/woke.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/woke) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/woke) |
 | <img loading="lazy" src="icons/wolai.png" width="48" height="48"> | [***wolai***](apps/wolai.md) | *A new form of document/note/information system, in chinese.*..[ *read more* ](apps/wolai.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wolai) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wolai) |
-| <img loading="lazy" src="icons/wonderpen.png" width="48" height="48"> | [***wonderpen***](apps/wonderpen.md) | *A professional writing app with markdown support.*..[ *read more* ](apps/wonderpen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wonderpen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wonderpen) |
 | <img loading="lazy" src="icons/wonderwall.png" width="48" height="48"> | [***wonderwall***](apps/wonderwall.md) | *Wallpaper manager for Linux.*..[ *read more* ](apps/wonderwall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wonderwall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wonderwall) |
 | <img loading="lazy" src="icons/woocommerce-pos.png" width="48" height="48"> | [***woocommerce-pos***](apps/woocommerce-pos.md) | *Electron Desktop App for WooCommerce POS*..[ *read more* ](apps/woocommerce-pos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/woocommerce-pos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/woocommerce-pos) |
 | <img loading="lazy" src="icons/woof-doom.png" width="48" height="48"> | [***woof-doom***](apps/woof-doom.md) | *Woof! is a continuation of the Boom/MBF bloodline of Doom source ports.*..[ *read more* ](apps/woof-doom.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/woof-doom) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/woof-doom) |
