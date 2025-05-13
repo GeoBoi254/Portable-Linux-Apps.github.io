@@ -1240,33 +1240,18 @@
     "icon": "https://portable-linux-apps.github.io/icons/brainwaves.png"
   },
   {
-    "packageName": "brave-appimage",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"stable\" release...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-appimage.png"
-  },
-  {
     "packageName": "brave",
-    "description": "A privacy oriented Web Browser based on Chromium, this is the official \"stable\" release...",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"stable\" release...",
     "icon": "https://portable-linux-apps.github.io/icons/brave.png"
   },
   {
-    "packageName": "brave-beta-appimage",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"beta\" release...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-beta-appimage.png"
-  },
-  {
     "packageName": "brave-beta",
-    "description": "A privacy oriented Web Browser based on Chromium, this is the official \"beta\" release...",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"beta\" release...",
     "icon": "https://portable-linux-apps.github.io/icons/brave-beta.png"
   },
   {
-    "packageName": "brave-nightly-appimage",
-    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"nightly\" release...",
-    "icon": "https://portable-linux-apps.github.io/icons/brave-nightly-appimage.png"
-  },
-  {
     "packageName": "brave-nightly",
-    "description": "A privacy oriented Web Browser based on Chromium, this is the official \"nightly\" release...",
+    "description": "Unofficial, a privacy oriented Web Browser based on Chromium, this is the \"nightly\" release...",
     "icon": "https://portable-linux-apps.github.io/icons/brave-nightly.png"
   },
   {
@@ -8605,11 +8590,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/podium.png"
   },
   {
-    "packageName": "podman-appimage",
-    "description": "AppImage of podman...",
-    "icon": "https://portable-linux-apps.github.io/icons/podman-appimage.png"
-  },
-  {
     "packageName": "podman-desktop-companion",
     "description": "Podman command line interface...",
     "icon": "https://portable-linux-apps.github.io/icons/podman-desktop-companion.png"
@@ -12123,11 +12103,6 @@
     "packageName": "watchit",
     "description": "Open movies everywhere...",
     "icon": "https://portable-linux-apps.github.io/icons/watchit.png"
-  },
-  {
-    "packageName": "waterfox-appimage",
-    "description": "Browse the World Wide Web, current version...",
-    "icon": "https://portable-linux-apps.github.io/icons/waterfox-appimage.png"
   },
   {
     "packageName": "waterfox",
