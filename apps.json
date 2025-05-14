@@ -11285,11 +11285,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/timenaut.png"
   },
   {
-    "packageName": "timer",
-    "description": "Time recurring events...",
-    "icon": "https://portable-linux-apps.github.io/icons/timer.png"
-  },
-  {
     "packageName": "tipitaka-pali-reader",
     "description": "A Pali Reading app made in Flutter...",
     "icon": "https://portable-linux-apps.github.io/icons/tipitaka-pali-reader.png"

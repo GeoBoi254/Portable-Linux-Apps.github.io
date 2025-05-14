@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2498** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
+#### Here are listed all **2497** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **79** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2286,7 +2286,6 @@
 | <img loading="lazy" src="icons/tilinggenerator.png" width="48" height="48"> | [***tilinggenerator***](apps/tilinggenerator.md) | *Generator of regular and irregular tilings.*..[ *read more* ](apps/tilinggenerator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tilinggenerator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tilinggenerator) |
 | <img loading="lazy" src="icons/timely.png" width="48" height="48"> | [***timely***](apps/timely.md) | *The release branch for Timely electron apps.*..[ *read more* ](apps/timely.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/timely) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/timely) |
 | <img loading="lazy" src="icons/timenaut.png" width="48" height="48"> | [***timenaut***](apps/timenaut.md) | *Desktop time tracking application.*..[ *read more* ](apps/timenaut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/timenaut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/timenaut) |
-| <img loading="lazy" src="icons/timer.png" width="48" height="48"> | [***timer***](apps/timer.md) | *Time recurring events.*..[ *read more* ](apps/timer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/timer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/timer) |
 | <img loading="lazy" src="icons/tipitaka-pali-reader.png" width="48" height="48"> | [***tipitaka-pali-reader***](apps/tipitaka-pali-reader.md) | *A Pali Reading app made in Flutter.*..[ *read more* ](apps/tipitaka-pali-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tipitaka-pali-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tipitaka-pali-reader) |
 | <img loading="lazy" src="icons/tlock.png" width="48" height="48"> | [***tlock***](apps/tlock.md) | *Two-Factor Authentication Tokens Manager in Terminal.*..[ *read more* ](apps/tlock.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tlock) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tlock) |
 | <img loading="lazy" src="icons/tmon.png" width="48" height="48"> | [***tmon***](apps/tmon.md) | *A simple CLI tool for monitoring/reporting CPU temperatures.*..[ *read more* ](apps/tmon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tmon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tmon) |
