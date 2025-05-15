@@ -2965,19 +2965,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/elzabrowser.png"
   },
   {
-    "packageName": "emacs-nox-daily",
-    "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-nox-daily.png"
-  },
-  {
     "packageName": "emacs-nox",
     "description": "Unofficial. FOSS text editor for complete programming language...",
     "icon": "https://portable-linux-apps.github.io/icons/emacs-nox.png"
-  },
-  {
-    "packageName": "emacs-pgtk-daily",
-    "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-pgtk-daily.png"
   },
   {
     "packageName": "emacs-pgtk",
@@ -2988,11 +2978,6 @@
     "packageName": "emacs",
     "description": "Unofficial. FOSS text editor for complete programming language...",
     "icon": "https://portable-linux-apps.github.io/icons/emacs.png"
-  },
-  {
-    "packageName": "emacs-x11-daily",
-    "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-x11-daily.png"
   },
   {
     "packageName": "emacs-x11",
