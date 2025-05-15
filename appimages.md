@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2091** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2092** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1933,6 +1933,7 @@
 | <img loading="lazy" src="icons/upnotes.png" width="48" height="48"> | [***upnotes***](apps/upnotes.md) | *A notes app for software developers.*..[ *read more* ](apps/upnotes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/upnotes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/upnotes) |
 | <img loading="lazy" src="icons/upnote.png" width="48" height="48"> | [***upnote***](apps/upnote.md) | *Stay focused and productive with a clean and clutter-free note space.*..[ *read more* ](apps/upnote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/upnote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/upnote) |
 | <img loading="lazy" src="icons/upscayl.png" width="48" height="48"> | [***upscayl***](apps/upscayl.md) | *Free and Open Source AI Image Upscaler.*..[ *read more* ](apps/upscayl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/upscayl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/upscayl) |
+| <img loading="lazy" src="icons/urbanterror.png" width="48" height="48"> | [***urbanterror***](apps/urbanterror.md) | *A team-based tactical game shooter based on the Quake 3 Engine.*..[ *read more* ](apps/urbanterror.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/urbanterror) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/urbanterror) |
 | <img loading="lazy" src="icons/utilso.png" width="48" height="48"> | [***utilso***](apps/utilso.md) | *Regex Tester, JWT Verify, Image Converter, Format JSON, Decode...*..[ *read more* ](apps/utilso.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/utilso) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/utilso) |
 | <img loading="lazy" src="icons/uyou.png" width="48" height="48"> | [***uyou***](apps/uyou.md) | *This is a todo list with electron.*..[ *read more* ](apps/uyou.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/uyou) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/uyou) |
 | <img loading="lazy" src="icons/v2ray-desktop.png" width="48" height="48"> | [***v2ray-desktop***](apps/v2ray-desktop.md) | *V2Ray GUI client for Linux.*..[ *read more* ](apps/v2ray-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/v2ray-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/v2ray-desktop) |
