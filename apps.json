@@ -2970,19 +2970,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/emacs-nox.png"
   },
   {
-    "packageName": "emacs-pgtk",
-    "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-pgtk.png"
-  },
-  {
     "packageName": "emacs",
     "description": "Unofficial. FOSS text editor for complete programming language...",
     "icon": "https://portable-linux-apps.github.io/icons/emacs.png"
-  },
-  {
-    "packageName": "emacs-x11",
-    "description": "Unofficial. FOSS text editor for complete programming language...",
-    "icon": "https://portable-linux-apps.github.io/icons/emacs-x11.png"
   },
   {
     "packageName": "embedded-ide",
