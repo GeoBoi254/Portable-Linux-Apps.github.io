@@ -115,6 +115,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/affine-canary.png"
   },
   {
+    "packageName": "affinity",
+    "description": "Affinity is a suite of professional graphic design, photo editing, and desktop publishing software. It's a common alternative to software from the Adobe Suite such as for Adobe Photoshop, Adobe Illustrator, Adobe InDesign...",
+    "icon": "https://portable-linux-apps.github.io/icons/affinity.png"
+  },
+  {
     "packageName": "agregore",
     "description": "A minimal browser for the distributed web, Desktop version...",
     "icon": "https://portable-linux-apps.github.io/icons/agregore.png"
@@ -4203,6 +4208,11 @@
     "packageName": "gh-eco",
     "description": "gh cli extension to explore the ecosystem...",
     "icon": "https://portable-linux-apps.github.io/icons/gh-eco.png"
+  },
+  {
+    "packageName": "gharmonize",
+    "description": "A cross-platform media conversion app with a built-in YouTube downloader and Spotify downloader, powered by yt-dlp and ffmpeg — now featuring FPS adaptation support for AC3, EAC3, and AAC codecs...",
+    "icon": "https://portable-linux-apps.github.io/icons/gharmonize.png"
   },
   {
     "packageName": "ghdl",
@@ -10145,6 +10155,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/secops.png"
   },
   {
+    "packageName": "secrets",
+    "description": "Unofficial AppImage of the Secrets keepass and 2FA password manager...",
+    "icon": "https://portable-linux-apps.github.io/icons/secrets.png"
+  },
+  {
     "packageName": "seedit",
     "description": "A GUI for plebbit similar to old.reddit...",
     "icon": "https://portable-linux-apps.github.io/icons/seedit.png"
@@ -10698,6 +10713,11 @@
     "packageName": "spark-wallet",
     "description": "A wallet GUI for c-lightning, accessible over web/mobile/pc...",
     "icon": "https://portable-linux-apps.github.io/icons/spark-wallet.png"
+  },
+  {
+    "packageName": "speak-to-ai",
+    "description": "Speak to AI - native Linux voice-to-text app...",
+    "icon": "https://portable-linux-apps.github.io/icons/speak-to-ai.png"
   },
   {
     "packageName": "speaky-miniplayer",
@@ -12933,6 +12953,11 @@
     "packageName": "xplorer",
     "description": "Xplorer, a customizable, modern file manager...",
     "icon": "https://portable-linux-apps.github.io/icons/xplorer.png"
+  },
+  {
+    "packageName": "xtomarkdown",
+    "description": "A cross-platform GUI application for converting documents to Markdown...",
+    "icon": "https://portable-linux-apps.github.io/icons/xtomarkdown.png"
   },
   {
     "packageName": "xtuber",
