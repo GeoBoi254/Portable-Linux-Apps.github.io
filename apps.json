@@ -9640,6 +9640,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rclone-ui.png"
   },
   {
+    "packageName": "rcloneview",
+    "description": "The ultimate GUI for Cloud Data Sync and File Management. Effortlessly browse, organize, transfer files across your cloud storages...",
+    "icon": "https://portable-linux-apps.github.io/icons/rcloneview.png"
+  },
+  {
     "packageName": "reactotron",
     "description": "Reactotron desktop mode engage...",
     "icon": "https://portable-linux-apps.github.io/icons/reactotron.png"
@@ -11103,11 +11108,6 @@
     "packageName": "sumoco",
     "description": "Simple Unified Model for Orthopaedics...",
     "icon": "https://portable-linux-apps.github.io/icons/sumoco.png"
-  },
-  {
-    "packageName": "sunamu",
-    "description": "Show your currently playing song in a stylish way...",
-    "icon": "https://portable-linux-apps.github.io/icons/sunamu.png"
   },
   {
     "packageName": "sunny",
