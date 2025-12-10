@@ -1915,6 +1915,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clownmdemu.png"
   },
   {
+    "packageName": "cmux",
+    "description": "Cmux/ManaflowX is an X feed for coding agents that lets you run + compare Claude Code, Codex CLI, Amp, Gemini CLI, Cursor CLI, Opencode, and other coding agent CLIs in parallel across multiple tasks...",
+    "icon": "https://portable-linux-apps.github.io/icons/cmux.png"
+  },
+  {
     "packageName": "cncjs",
     "description": "CNC Milling Controller...",
     "icon": "https://portable-linux-apps.github.io/icons/cncjs.png"
@@ -2693,6 +2698,11 @@
     "packageName": "dingtalk",
     "description": "DingTalk desktop version based on electron...",
     "icon": "https://portable-linux-apps.github.io/icons/dingtalk.png"
+  },
+  {
+    "packageName": "dinosaurplanetrecompiled",
+    "description": "A static recompilation/native port of the game Dinosaur Planet...",
+    "icon": "https://portable-linux-apps.github.io/icons/dinosaurplanetrecompiled.png"
   },
   {
     "packageName": "disass",
@@ -11823,6 +11833,11 @@
     "packageName": "tidal-hifi",
     "description": "The web version of listen.tidal.com running in electron...",
     "icon": "https://portable-linux-apps.github.io/icons/tidal-hifi.png"
+  },
+  {
+    "packageName": "tidybit",
+    "description": "TidyBit is a simple handy tool that can organize messy collection of files and move them to a chosen folder...",
+    "icon": "https://portable-linux-apps.github.io/icons/tidybit.png"
   },
   {
     "packageName": "tilde-podcast",
