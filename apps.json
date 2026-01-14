@@ -1980,6 +1980,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/codebook-lsp.png"
   },
   {
+    "packageName": "codexmonitor",
+    "description": "An app to monitor the (Codex) situation...",
+    "icon": "https://portable-linux-apps.github.io/icons/codexmonitor.png"
+  },
+  {
     "packageName": "coinstac",
     "description": "Collaborative Informatics and Neuroimaging Suite Toolkit...",
     "icon": "https://portable-linux-apps.github.io/icons/coinstac.png"
@@ -9325,6 +9330,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/printerclient.png"
   },
   {
+    "packageName": "printventory",
+    "description": "The ultimate tool for managing your 3D printing collection with ease. Sort, tag, and track your models in one place...",
+    "icon": "https://portable-linux-apps.github.io/icons/printventory.png"
+  },
+  {
     "packageName": "prisma-studio",
     "description": "The easiest way to explore and manipulate your data...",
     "icon": "https://portable-linux-apps.github.io/icons/prisma-studio.png"
@@ -12693,11 +12703,6 @@
     "packageName": "viu",
     "description": "Terminal image viewer with native support for iTerm and Kitty...",
     "icon": "https://portable-linux-apps.github.io/icons/viu.png"
-  },
-  {
-    "packageName": "vivadesigner",
-    "description": "VivaDesigner is an extremely easy-to-use AI-based design, publishing, layout, typesetting and illustration program that meets the highest design and typographic requirements...",
-    "icon": "https://portable-linux-apps.github.io/icons/vivadesigner.png"
   },
   {
     "packageName": "vivaldi-snapshot",
