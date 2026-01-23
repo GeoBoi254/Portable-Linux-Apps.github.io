@@ -381,7 +381,7 @@
   },
   {
     "packageName": "animeko",
-    "description": "A one-stop platform for finding, following, and watching anime, featuring danmaku (bullet comments) and cloud-based collection synchronization (Bangumi), offline caching, BitTorrent, and cloud-based danmaku filtering. 100% Kotlin or Compose Multiplatform...",
+    "description": "A one-stop platform for finding, following, and watching anime, featuring danmaku (bullet comments) and cloud-based collection synchronization (Bangumi), offline caching, BitTorrent, and cloud-based danmaku filtering...",
     "icon": "https://portable-linux-apps.github.io/icons/animeko.png"
   },
   {
@@ -5018,11 +5018,6 @@
     "packageName": "gpt-anywhere",
     "description": "Use GPT anywhere with just one shortcut...",
     "icon": "https://portable-linux-apps.github.io/icons/gpt-anywhere.png"
-  },
-  {
-    "packageName": "gptfusion",
-    "description": "GPT Aggregator is a cross-platform chat tool that aggregates multiple GPT chatbots. It supports multiple free GPT images, allows for custom image import, and supports multiple platforms such as PoE and Wenxin Yiyan...",
-    "icon": "https://portable-linux-apps.github.io/icons/gptfusion.png"
   },
   {
     "packageName": "gpu-screen-recorder",
