@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **225** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **224** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -42,7 +42,6 @@
 | <img loading="lazy" src="icons/amfora.png" width="48" height="48"> | [***amfora***](apps/amfora.md) | *A fancy terminal browser for the Gemini protocol.*..[ *read more* ](apps/amfora.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/amfora) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/amfora) |
 | <img loading="lazy" src="icons/android-tools.png" width="48" height="48"> | [***android-tools***](apps/android-tools.md) | *Unofficial AppImage for the Android Platform tools, adb, fastboot, etc.*..[ *read more* ](apps/android-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/android-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/android-tools) |
 | <img loading="lazy" src="icons/ani-cli.png" width="48" height="48"> | [***ani-cli***](apps/ani-cli.md) | *A cli tool to browse and play anime.*..[ *read more* ](apps/ani-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ani-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ani-cli) |
-| <img loading="lazy" src="icons/any-code.png" width="48" height="48"> | [***any-code***](apps/any-code.md) | *Any Code 是一个为 AI 驱动的代码开发工作流量身打造的专业桌面应用，支持 Claude Code CLI、OpenAI Codex 和 Google Gemini CLI 三大 AI 引擎。.*..[ *read more* ](apps/any-code.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/any-code) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/any-code) |
 | <img loading="lazy" src="icons/appimagelauncher.png" width="48" height="48"> | [***appimagelauncher***](apps/appimagelauncher.md) | *CLI helper for running and integrating AppImages.*..[ *read more* ](apps/appimagelauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimagelauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimagelauncher) |
 | <img loading="lazy" src="icons/appimg.png" width="48" height="48"> | [***appimg***](apps/appimg.md) | *Appimg is a lightweight command-line tool that helps you manage AppImage files on Linux.*..[ *read more* ](apps/appimg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appimg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appimg) |
 | <img loading="lazy" src="icons/aptly.png" width="48" height="48"> | [***aptly***](apps/aptly.md) | *Debian repository management CLI tool.*..[ *read more* ](apps/aptly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aptly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aptly) |
