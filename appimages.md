@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2306** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2307** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1147,6 +1147,7 @@
 | <img loading="lazy" src="icons/lyricistant.png" width="48" height="48"> | [***lyricistant***](apps/lyricistant.md) | *A helpful writing assistant for lyricists.*..[ *read more* ](apps/lyricistant.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lyricistant) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lyricistant) |
 | <img loading="lazy" src="icons/m.png" width="48" height="48"> | [***m***](apps/m.md) | *Data oriented programming language for game developers.*..[ *read more* ](apps/m.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/m) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/m) |
 | <img loading="lazy" src="icons/magento2-upgrade-gui.png" width="48" height="48"> | [***magento2-upgrade-gui***](apps/magento2-upgrade-gui.md) | *Magento 2 Upgrade GUI.*..[ *read more* ](apps/magento2-upgrade-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/magento2-upgrade-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/magento2-upgrade-gui) |
+| <img loading="lazy" src="icons/mages.png" width="48" height="48"> | [***mages***](apps/mages.md) | *Multiplatform Matrix chat client (experimental CMP+rust app).*..[ *read more* ](apps/mages.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mages) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mages) |
 | <img loading="lazy" src="icons/magicfountain.png" width="48" height="48"> | [***magicfountain***](apps/magicfountain.md) | *A novel and screenwriting program.*..[ *read more* ](apps/magicfountain.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/magicfountain) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/magicfountain) |
 | <img loading="lazy" src="icons/makagiga.png" width="48" height="48"> | [***makagiga***](apps/makagiga.md) | *To-do manager, notepad, RSS reader and much more.*..[ *read more* ](apps/makagiga.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/makagiga) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/makagiga) |
 | <img loading="lazy" src="icons/makhber.png" width="48" height="48"> | [***makhber***](apps/makhber.md) | *Makhber is a free application for Visualization and Analysis of Scientific Data.*..[ *read more* ](apps/makhber.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/makhber) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/makhber) |
