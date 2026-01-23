@@ -105,6 +105,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/advanced-rest-client.png"
   },
   {
+    "packageName": "aegisub",
+    "description": "Cross-platform advanced subtitle editor, with new feature branches. Read the README on the feature branch. Cross-platform advanced subtitle editor Cross-platform advanced subtitle editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/aegisub.png"
+  },
+  {
     "packageName": "afetch",
     "description": "A CLI system information tool written in Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/afetch.png"
@@ -240,6 +245,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/allusion.png"
   },
   {
+    "packageName": "alma",
+    "description": "Elegant AI Provider Orchestration. A beautiful desktop application that unifies your AI experience. Seamlessly switch between OpenAI, Anthropic, Google Gemini, and custom providers...",
+    "icon": "https://portable-linux-apps.github.io/icons/alma.png"
+  },
+  {
     "packageName": "alpine-flatimage",
     "description": "A hybrid of Flatpak sandboxing with AppImage portability...",
     "icon": "https://portable-linux-apps.github.io/icons/alpine-flatimage.png"
@@ -263,6 +273,11 @@
     "packageName": "altitude",
     "description": "The Altitude wallet by Linda Project Inc...",
     "icon": "https://portable-linux-apps.github.io/icons/altitude.png"
+  },
+  {
+    "packageName": "altrady",
+    "description": "Altrady Crypto Trading Terminal...",
+    "icon": "https://portable-linux-apps.github.io/icons/altrady.png"
   },
   {
     "packageName": "altus",
@@ -298,6 +313,11 @@
     "packageName": "amfora",
     "description": "A fancy terminal browser for the Gemini protocol...",
     "icon": "https://portable-linux-apps.github.io/icons/amfora.png"
+  },
+  {
+    "packageName": "amplitude-soundboard",
+    "description": "A sleek, cross-platform soundboard, available...",
+    "icon": "https://portable-linux-apps.github.io/icons/amplitude-soundboard.png"
   },
   {
     "packageName": "amusiz",
@@ -360,6 +380,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/animecoin.png"
   },
   {
+    "packageName": "animeko",
+    "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform...",
+    "icon": "https://portable-linux-apps.github.io/icons/animeko.png"
+  },
+  {
     "packageName": "animos",
     "description": "Anime-streaming desktop application without any ads...",
     "icon": "https://portable-linux-apps.github.io/icons/animos.png"
@@ -413,6 +438,11 @@
     "packageName": "antimicrox",
     "description": "Use a gamepad to control a variety of programs...",
     "icon": "https://portable-linux-apps.github.io/icons/antimicrox.png"
+  },
+  {
+    "packageName": "any-code",
+    "description": "Any Code 是一个为 AI 驱动的代码开发工作流量身打造的专业桌面应用，支持 Claude Code CLI、OpenAI Codex 和 Google Gemini CLI 三大 AI 引擎。...",
+    "icon": "https://portable-linux-apps.github.io/icons/any-code.png"
   },
   {
     "packageName": "anydesk",
@@ -850,6 +880,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/baijimangaviewer.png"
   },
   {
+    "packageName": "balatro-multiplayer",
+    "description": "A Multiplayer Mod for Balatro...",
+    "icon": "https://portable-linux-apps.github.io/icons/balatro-multiplayer.png"
+  },
+  {
     "packageName": "bambustudio",
     "description": "PC Software for BambuLab's 3D printers...",
     "icon": "https://portable-linux-apps.github.io/icons/bambustudio.png"
@@ -1040,9 +1075,19 @@
     "icon": "https://portable-linux-apps.github.io/icons/biblemultithelife.png"
   },
   {
+    "packageName": "biblia-sacra",
+    "description": "A multi language bible app, with emphasis on Latin...",
+    "icon": "https://portable-linux-apps.github.io/icons/biblia-sacra.png"
+  },
+  {
     "packageName": "bidirectional",
     "description": "Write Arabic text on apps that don't support the bidirectional text...",
     "icon": "https://portable-linux-apps.github.io/icons/bidirectional.png"
+  },
+  {
+    "packageName": "bili-liveluckdraw",
+    "description": "一个B站直播抽奖工具，通过获取弹幕关键词进行抽奖，使用Electron + React + Vite构建...",
+    "icon": "https://portable-linux-apps.github.io/icons/bili-liveluckdraw.png"
   },
   {
     "packageName": "bilibili",
@@ -1420,6 +1465,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/bscanfftwebcam.png"
   },
   {
+    "packageName": "bsky",
+    "description": "A desktop app of bsky.app...",
+    "icon": "https://portable-linux-apps.github.io/icons/bsky.png"
+  },
+  {
     "packageName": "btop",
     "description": "A command line utility to monitor system resources, like Htop...",
     "icon": "https://portable-linux-apps.github.io/icons/btop.png"
@@ -1515,6 +1565,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cacoco.png"
   },
   {
+    "packageName": "cadassistant",
+    "description": "Offline 3D CAD viewer and converter, free for personal and commercial use...",
+    "icon": "https://portable-linux-apps.github.io/icons/cadassistant.png"
+  },
+  {
     "packageName": "cadmus",
     "description": "Pulse Audio real-time noise suppression plugin...",
     "icon": "https://portable-linux-apps.github.io/icons/cadmus.png"
@@ -1598,6 +1653,11 @@
     "packageName": "cartridges",
     "description": "Unofficial. Game launcher, which helps you visualize your game collection and easily launch games...",
     "icon": "https://portable-linux-apps.github.io/icons/cartridges.png"
+  },
+  {
+    "packageName": "cashonize",
+    "description": "A cross-platform Bitcoin Cash Wallet...",
+    "icon": "https://portable-linux-apps.github.io/icons/cashonize.png"
   },
   {
     "packageName": "cask",
@@ -1885,6 +1945,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clapper.png"
   },
   {
+    "packageName": "clash-nyanpasu",
+    "description": "A Clash GUI based on tauri...",
+    "icon": "https://portable-linux-apps.github.io/icons/clash-nyanpasu.png"
+  },
+  {
     "packageName": "clash-verge",
     "description": "A multiplatform Clash GUI based on tauri...",
     "icon": "https://portable-linux-apps.github.io/icons/clash-verge.png"
@@ -1988,6 +2053,11 @@
     "packageName": "code",
     "description": "Visual Studio, VSCode, Original Editor to build/debug web/cloud apps...",
     "icon": "https://portable-linux-apps.github.io/icons/code.png"
+  },
+  {
+    "packageName": "code-expert-sync",
+    "description": "Allows syncing of Code Expert projects to a local file system...",
+    "icon": "https://portable-linux-apps.github.io/icons/code-expert-sync.png"
   },
   {
     "packageName": "code-notes",
@@ -2405,6 +2475,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/cryptr.png"
   },
   {
+    "packageName": "cs-demo-manager",
+    "description": "Companion application for your Counter-Strike demos...",
+    "icon": "https://portable-linux-apps.github.io/icons/cs-demo-manager.png"
+  },
+  {
     "packageName": "cscrypto",
     "description": "A crypto app...",
     "icon": "https://portable-linux-apps.github.io/icons/cscrypto.png"
@@ -2473,6 +2548,11 @@
     "packageName": "cutter",
     "description": "Free and Open Source Reverse Engineering Platform...",
     "icon": "https://portable-linux-apps.github.io/icons/cutter.png"
+  },
+  {
+    "packageName": "cvrx",
+    "description": "A standalone companion app for ChilloutVR that expands the user experience! A standalone companion app for ChilloutVR that expands the user experience! A standalone companion app for ChilloutVR that expands the user experience!...",
+    "icon": "https://portable-linux-apps.github.io/icons/cvrx.png"
   },
   {
     "packageName": "czkawka",
@@ -6553,6 +6633,11 @@
     "packageName": "librepcb",
     "description": "Design Schematics and PCBs...",
     "icon": "https://portable-linux-apps.github.io/icons/librepcb.png"
+  },
+  {
+    "packageName": "librescore",
+    "description": "The open source (GPLv3), serverless (IPFS-based), offline-first, and totally free alternative to musescore.com..",
+    "icon": "https://portable-linux-apps.github.io/icons/librescore.png"
   },
   {
     "packageName": "libresprite",
