@@ -4735,9 +4735,9 @@
     "icon": "https://portable-linux-apps.github.io/icons/githoard.png"
   },
   {
-    "packageName": "github-desktop",
-    "description": "Electron-based GitHub app...",
-    "icon": "https://portable-linux-apps.github.io/icons/github-desktop.png"
+    "packageName": "github-desktop-plus",
+    "description": "Electron-based GitHub Desktop fork with advanced functionality and Bitbucket, GitLab integration...",
+    "icon": "https://portable-linux-apps.github.io/icons/github-desktop-plus.png"
   },
   {
     "packageName": "gitify",
@@ -9848,6 +9848,11 @@
     "packageName": "proxyman",
     "description": "Modern and Delightful HTTP Debugging Proxy...",
     "icon": "https://portable-linux-apps.github.io/icons/proxyman.png"
+  },
+  {
+    "packageName": "proxypal",
+    "description": "A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. Wraps CLIProxyAPI with a clean UI for managing connections and tracking usage...",
+    "icon": "https://portable-linux-apps.github.io/icons/proxypal.png"
   },
   {
     "packageName": "prusa-slicer",
