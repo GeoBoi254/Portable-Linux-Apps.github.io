@@ -3045,6 +3045,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dorion.png"
   },
   {
+    "packageName": "dosbox-x",
+    "description": "Unofficial, DOSBox-X is a cross-platform DOS emulator for running many MS-DOS games...",
+    "icon": "https://portable-linux-apps.github.io/icons/dosbox-x.png"
+  },
+  {
     "packageName": "dosemu",
     "description": "Run DOS programs under linux...",
     "icon": "https://portable-linux-apps.github.io/icons/dosemu.png"
@@ -3443,6 +3448,11 @@
     "packageName": "element",
     "description": "A feature-rich client for Matrix.org...",
     "icon": "https://portable-linux-apps.github.io/icons/element.png"
+  },
+  {
+    "packageName": "element-desktop",
+    "description": "Unofficial, glossy Matrix collaboration client for desktop...",
+    "icon": "https://portable-linux-apps.github.io/icons/element-desktop.png"
   },
   {
     "packageName": "elementary-code",
@@ -8285,6 +8295,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/nest-desktop.png"
   },
   {
+    "packageName": "nestopia",
+    "description": "Unofficial, Cross-platform Nestopia NES emulator core with a GUI...",
+    "icon": "https://portable-linux-apps.github.io/icons/nestopia.png"
+  },
+  {
     "packageName": "netbeans",
     "description": "Apache NetBeans installers...",
     "icon": "https://portable-linux-apps.github.io/icons/netbeans.png"
@@ -10995,6 +11010,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/rustdesk.png"
   },
   {
+    "packageName": "rustdesk-enhanced",
+    "description": "Unofficial, AppImage of remote desktop app which is able to work on any linux distro...",
+    "icon": "https://portable-linux-apps.github.io/icons/rustdesk-enhanced.png"
+  },
+  {
     "packageName": "rustdict",
     "description": "A dictionary CLI tool in Rust inspired by BetaPictoris's dict...",
     "icon": "https://portable-linux-apps.github.io/icons/rustdict.png"
@@ -11763,6 +11783,11 @@
     "packageName": "sonic-mania-decompilation",
     "description": "A complete decompilation of Sonic Mania (2017)...",
     "icon": "https://portable-linux-apps.github.io/icons/sonic-mania-decompilation.png"
+  },
+  {
+    "packageName": "sonic3air",
+    "description": "Unofficial, Source and data to build Sonic 3 A.I.R. (Angel Island Revisited) and the Oxygen Engine...",
+    "icon": "https://portable-linux-apps.github.io/icons/sonic3air.png"
   },
   {
     "packageName": "sonicvisualiser",
