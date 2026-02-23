@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2449** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2450** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2121,6 +2121,7 @@
 | <img loading="lazy" src="icons/t.viewer.png" width="48" height="48"> | [***t.viewer***](apps/t.viewer.md) | *Cross Platform Tizen Log Viewer.*..[ *read more* ](apps/t.viewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/t.viewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/t.viewer) |
 | <img loading="lazy" src="icons/tabby.png" width="48" height="48"> | [***tabby***](apps/tabby.md) | *A terminal for a more modern age*..[ *read more* ](apps/tabby.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tabby) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tabby) |
 | <img loading="lazy" src="icons/tablo-tools.png" width="48" height="48"> | [***tablo-tools***](apps/tablo-tools.md) | *Tools to Bulk Delete and Export from Tablo DVR.*..[ *read more* ](apps/tablo-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tablo-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tablo-tools) |
+| <img loading="lazy" src="icons/tabularis.png" width="48" height="48"> | [***tabularis***](apps/tabularis.md) | *A lightweight, developer-focused database management tool.*..[ *read more* ](apps/tabularis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tabularis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tabularis) |
 | <img loading="lazy" src="icons/tag-editor.png" width="48" height="48"> | [***tag-editor***](apps/tag-editor.md) | *Tag Editor, supports MP4, ID3, Vorbis, Opus, FLAC and Matroska.*..[ *read more* ](apps/tag-editor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tag-editor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tag-editor) |
 | <img loading="lazy" src="icons/tagger.png" width="48" height="48"> | [***tagger***](apps/tagger.md) | *Unofficial. Simple audio tagger with support for various audio formats.*..[ *read more* ](apps/tagger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagger) |
 | <img loading="lazy" src="icons/tagspaces.png" width="48" height="48"> | [***tagspaces***](apps/tagspaces.md) | *An offline, open source, document manager with tagging support.*..[ *read more* ](apps/tagspaces.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tagspaces) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tagspaces) |

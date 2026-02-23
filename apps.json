@@ -4855,6 +4855,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/git-good.png"
   },
   {
+    "packageName": "git-side",
+    "description": "A Git subcommand that versions files and directories that should not live in the main repository, using a per-project bare repository invisible to Git...",
+    "icon": "https://portable-linux-apps.github.io/icons/git-side.png"
+  },
+  {
     "packageName": "gitbutler",
     "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte...",
     "icon": "https://portable-linux-apps.github.io/icons/gitbutler.png"
@@ -12513,6 +12518,11 @@
     "packageName": "tablo-tools",
     "description": "Tools to Bulk Delete and Export from Tablo DVR...",
     "icon": "https://portable-linux-apps.github.io/icons/tablo-tools.png"
+  },
+  {
+    "packageName": "tabularis",
+    "description": "A lightweight, developer-focused database management tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/tabularis.png"
   },
   {
     "packageName": "tag-editor",
