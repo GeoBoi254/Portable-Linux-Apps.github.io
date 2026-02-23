@@ -8315,6 +8315,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/newton-adventure.png"
   },
   {
+    "packageName": "nexis",
+    "description": "Linux & macOS system optimizer and monitor. Qt6 fork of Stacer with GPU monitoring, dark/light themes, and active maintenance...",
+    "icon": "https://portable-linux-apps.github.io/icons/nexis.png"
+  },
+  {
     "packageName": "nextcloud",
     "description": "Client-server software for creating & using file hosting services...",
     "icon": "https://portable-linux-apps.github.io/icons/nextcloud.png"
@@ -11633,11 +11638,6 @@
     "packageName": "smallbasic",
     "description": "A fast and easy to learn BASIC language interpreter...",
     "icon": "https://portable-linux-apps.github.io/icons/smallbasic.png"
-  },
-  {
-    "packageName": "smartgit",
-    "description": "A Git-Client...",
-    "icon": "https://portable-linux-apps.github.io/icons/smartgit.png"
   },
   {
     "packageName": "smartservogui",
