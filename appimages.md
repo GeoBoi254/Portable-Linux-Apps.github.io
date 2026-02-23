@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2450** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2449** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -1779,7 +1779,6 @@
 | <img loading="lazy" src="icons/rasterdraw.png" width="48" height="48"> | [***rasterdraw***](apps/rasterdraw.md) | *Simple shape drawn using rasterisation.*..[ *read more* ](apps/rasterdraw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rasterdraw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rasterdraw) |
 | <img loading="lazy" src="icons/rasterview.png" width="48" height="48"> | [***rasterview***](apps/rasterview.md) | *Raster Viewer for CUPS-Raster, Apple-Raster and PWG-Raster.*..[ *read more* ](apps/rasterview.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rasterview) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rasterview) |
 | <img loading="lazy" src="icons/rats-search.png" width="48" height="48"> | [***rats-search***](apps/rats-search.md) | *P2P BitTorrent search engine.*..[ *read more* ](apps/rats-search.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rats-search) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rats-search) |
-| <img loading="lazy" src="icons/raven-reader.png" width="48" height="48"> | [***raven-reader***](apps/raven-reader.md) | *Simple Desktop RSS Reader made using VueJS.*..[ *read more* ](apps/raven-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/raven-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/raven-reader) |
 | <img loading="lazy" src="icons/rawtherapee.png" width="48" height="48"> | [***rawtherapee***](apps/rawtherapee.md) | *An advanced raw photo development program.*..[ *read more* ](apps/rawtherapee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rawtherapee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rawtherapee) |
 | <img loading="lazy" src="icons/rbdl-toolkit.png" width="48" height="48"> | [***rbdl-toolkit***](apps/rbdl-toolkit.md) | *Application for visualizing and working with rbdl models.*..[ *read more* ](apps/rbdl-toolkit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rbdl-toolkit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rbdl-toolkit) |
 | <img loading="lazy" src="icons/rbdoom-3.png" width="48" height="48"> | [***rbdoom-3***](apps/rbdoom-3.md) | *Doom 3 BFG Edition source port with updated DX12/Vulkan renderer.*..[ *read more* ](apps/rbdoom-3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rbdoom-3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rbdoom-3) |

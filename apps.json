@@ -10595,11 +10595,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/rats-search.png"
   },
   {
-    "packageName": "raven-reader",
-    "description": "Simple Desktop RSS Reader made using VueJS...",
-    "icon": "https://portable-linux-apps.github.io/icons/raven-reader.png"
-  },
-  {
     "packageName": "rawtherapee",
     "description": "An advanced raw photo development program...",
     "icon": "https://portable-linux-apps.github.io/icons/rawtherapee.png"
