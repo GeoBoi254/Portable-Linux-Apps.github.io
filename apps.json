@@ -3000,6 +3000,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/dl-desktop.png"
   },
   {
+    "packageName": "dns-changer",
+    "description": "An open-source DNS Changer app...",
+    "icon": "https://portable-linux-apps.github.io/icons/dns-changer.png"
+  },
+  {
     "packageName": "dockstation",
     "description": "Developing with Docker has never been so easy and convenient...",
     "icon": "https://portable-linux-apps.github.io/icons/dockstation.png"
@@ -5913,6 +5918,11 @@
     "packageName": "irccloud-desktop",
     "description": "IRCCloud Desktop Client...",
     "icon": "https://portable-linux-apps.github.io/icons/irccloud-desktop.png"
+  },
+  {
+    "packageName": "ireader",
+    "description": "Privacy-focused, open source novel reader app...",
+    "icon": "https://portable-linux-apps.github.io/icons/ireader.png"
   },
   {
     "packageName": "irscrutinizer",
@@ -9418,6 +9428,11 @@
     "packageName": "pdmaner",
     "description": "A relational database modeling tool...",
     "icon": "https://portable-linux-apps.github.io/icons/pdmaner.png"
+  },
+  {
+    "packageName": "pearpass",
+    "description": "An open-source, privacy-first password manager with peer-to-peer syncing and end-to-end encryption...",
+    "icon": "https://portable-linux-apps.github.io/icons/pearpass.png"
   },
   {
     "packageName": "peazip",
