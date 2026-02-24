@@ -7080,6 +7080,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/linuxaircombat.png"
   },
   {
+    "packageName": "linuxdeploy",
+    "description": "AppDir creation and maintenance tool. Featuring flexible plugin system...",
+    "icon": "https://portable-linux-apps.github.io/icons/linuxdeploy.png"
+  },
+  {
     "packageName": "linuxdeployqt",
     "description": "Convert a linux program to an AppDir or an AppImage...",
     "icon": "https://portable-linux-apps.github.io/icons/linuxdeployqt.png"
