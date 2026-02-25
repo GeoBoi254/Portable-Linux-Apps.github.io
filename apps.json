@@ -14400,6 +14400,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/yam.png"
   },
   {
+    "packageName": "yamata-launcher",
+    "description": "A multi-platform game launcher designed to unify game catalogs, downloads, and libraries from multiple ecosystems into a single, extensible application...",
+    "icon": "https://portable-linux-apps.github.io/icons/yamata-launcher.png"
+  },
+  {
     "packageName": "yana",
     "description": "Note-taking app with nested documents, text search/editor, code.....",
     "icon": "https://portable-linux-apps.github.io/icons/yana.png"

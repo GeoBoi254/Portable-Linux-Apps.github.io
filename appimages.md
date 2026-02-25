@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2454** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2455** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2440,6 +2440,7 @@
 | <img loading="lazy" src="icons/yakit.png" width="48" height="48"> | [***yakit***](apps/yakit.md) | *Cyber Security ALL-IN-ONE Platform.*..[ *read more* ](apps/yakit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yakit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yakit) |
 | <img loading="lazy" src="icons/yakit-legacy.png" width="48" height="48"> | [***yakit-legacy***](apps/yakit-legacy.md) | *Cyber Security ALL-IN-ONE Platform (legacy).*..[ *read more* ](apps/yakit-legacy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yakit-legacy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yakit-legacy) |
 | <img loading="lazy" src="icons/yam.png" width="48" height="48"> | [***yam***](apps/yam.md) | *Unofficial Game Updater for the F95Zone platform.*..[ *read more* ](apps/yam.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yam) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yam) |
+| <img loading="lazy" src="icons/yamata-launcher.png" width="48" height="48"> | [***yamata-launcher***](apps/yamata-launcher.md) | *A multi-platform game launcher designed to unify game catalogs, downloads, and libraries from multiple ecosystems into a single, extensible application.*..[ *read more* ](apps/yamata-launcher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yamata-launcher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yamata-launcher) |
 | <img loading="lazy" src="icons/yana.png" width="48" height="48"> | [***yana***](apps/yana.md) | *Note-taking app with nested documents, text search/editor, code...*..[ *read more* ](apps/yana.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yana) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yana) |
 | <img loading="lazy" src="icons/yandex-browser.png" width="48" height="48"> | [***yandex-browser***](apps/yandex-browser.md) | *Unofficial Yandex Browser AppImage, Stable.*..[ *read more* ](apps/yandex-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yandex-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yandex-browser) |
 | <img loading="lazy" src="icons/yandex-browser-beta.png" width="48" height="48"> | [***yandex-browser-beta***](apps/yandex-browser-beta.md) | *Unofficial Yandex Browser AppImage, Beta.*..[ *read more* ](apps/yandex-browser-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yandex-browser-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yandex-browser-beta) |
