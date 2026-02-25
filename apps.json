@@ -2660,11 +2660,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/darktable.png"
   },
   {
-    "packageName": "darktable-nightly",
-    "description": "Photography workflow app and raw developer, nightly...",
-    "icon": "https://portable-linux-apps.github.io/icons/darktable-nightly.png"
-  },
-  {
     "packageName": "dashy-app",
     "description": "Dashboard creation application...",
     "icon": "https://portable-linux-apps.github.io/icons/dashy-app.png"
