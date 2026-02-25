@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2453** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2454** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -644,6 +644,7 @@
 | <img loading="lazy" src="icons/ente-photos.png" width="48" height="48"> | [***ente-photos***](apps/ente-photos.md) | *Binary releases of the Ente Photos desktop app.*..[ *read more* ](apps/ente-photos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ente-photos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ente-photos) |
 | <img loading="lazy" src="icons/enve.png" width="48" height="48"> | [***enve***](apps/enve.md) | *Create 2D Animations.*..[ *read more* ](apps/enve.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/enve) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/enve) |
 | <img loading="lazy" src="icons/envkey.png" width="48" height="48"> | [***envkey***](apps/envkey.md) | *EnvKey’s cross-platform native app.*..[ *read more* ](apps/envkey.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/envkey) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/envkey) |
+| <img loading="lazy" src="icons/eog-gtk3.png" width="48" height="48"> | [***eog-gtk3***](apps/eog-gtk3.md) | *Unofficial. Image Viewer, version 3.38.2, for all GNOME4+ haters.*..[ *read more* ](apps/eog-gtk3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eog-gtk3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eog-gtk3) |
 | <img loading="lazy" src="icons/eosvc.png" width="48" height="48"> | [***eosvc***](apps/eosvc.md) | *Application for management of self-employeed people.*..[ *read more* ](apps/eosvc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eosvc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eosvc) |
 | <img loading="lazy" src="icons/eplee.png" width="48" height="48"> | [***eplee***](apps/eplee.md) | *Sweet, simple epub reader.*..[ *read more* ](apps/eplee.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eplee) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eplee) |
 | <img loading="lazy" src="icons/epsxe.png" width="48" height="48"> | [***epsxe***](apps/epsxe.md) | *Unofficial, enhanced PSX emulator.*..[ *read more* ](apps/epsxe.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/epsxe) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/epsxe) |
