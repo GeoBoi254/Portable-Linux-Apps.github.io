@@ -9020,6 +9020,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/openshot.png"
   },
   {
+    "packageName": "openstickies",
+    "description": "Sticky notes for your desktop. Simple, fast, private. Drop files, paste screenshots, set reminders, keep things visible where you work...",
+    "icon": "https://portable-linux-apps.github.io/icons/openstickies.png"
+  },
+  {
     "packageName": "openstream-music",
     "description": "The OpenStream Music source...",
     "icon": "https://portable-linux-apps.github.io/icons/openstream-music.png"
