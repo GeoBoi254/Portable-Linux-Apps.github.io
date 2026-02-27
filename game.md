@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **279** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **278** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -307,7 +307,6 @@
 | <img loading="lazy" src="icons/steamcad.png" width="48" height="48"> | [***steamcad***](apps/steamcad.md) | *2D CAD especially designed to draw steam locomotives.*..[ *read more* ](apps/steamcad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steamcad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steamcad) |
 | <img loading="lazy" src="icons/steamdepotdownloadergui.png" width="48" height="48"> | [***steamdepotdownloadergui***](apps/steamdepotdownloadergui.md) | *Easily download older versions of games from Steam.*..[ *read more* ](apps/steamdepotdownloadergui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steamdepotdownloadergui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steamdepotdownloadergui) |
 | <img loading="lazy" src="icons/stunt-car-remake.png" width="48" height="48"> | [***stunt-car-remake***](apps/stunt-car-remake.md) | *Remake of the old game Stunt Car Racer.*..[ *read more* ](apps/stunt-car-remake.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/stunt-car-remake) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/stunt-car-remake) |
-| <img loading="lazy" src="icons/sudachi.png" width="48" height="48"> | [***sudachi***](apps/sudachi.md) | *Unofficial. Nintendo Switch emulator.*..[ *read more* ](apps/sudachi.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sudachi) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sudachi) |
 | <img loading="lazy" src="icons/sunshine.png" width="48" height="48"> | [***sunshine***](apps/sunshine.md) | *Sunshine is a Gamestream host for Moonlight.*..[ *read more* ](apps/sunshine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sunshine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sunshine) |
 | <img loading="lazy" src="icons/supermodel.png" width="48" height="48"> | [***supermodel***](apps/supermodel.md) | *Sega Model 3 arcade emulator.*..[ *read more* ](apps/supermodel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supermodel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supermodel) |
 | <img loading="lazy" src="icons/supertux.png" width="48" height="48"> | [***supertux***](apps/supertux.md) | *Classic 2D jump'n run sidescroller game inspired to Super Mario.*..[ *read more* ](apps/supertux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/supertux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/supertux) |

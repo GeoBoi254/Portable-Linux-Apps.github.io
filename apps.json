@@ -12275,11 +12275,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/subtitler.png"
   },
   {
-    "packageName": "sudachi",
-    "description": "Unofficial. Nintendo Switch emulator...",
-    "icon": "https://portable-linux-apps.github.io/icons/sudachi.png"
-  },
-  {
     "packageName": "sultanpos",
     "description": "Simple POS for minimarket...",
     "icon": "https://portable-linux-apps.github.io/icons/sultanpos.png"
