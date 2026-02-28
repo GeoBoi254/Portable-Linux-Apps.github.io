@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2453** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2454** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -748,6 +748,7 @@
 | <img loading="lazy" src="icons/flightgear-airports.png" width="48" height="48"> | [***flightgear-airports***](apps/flightgear-airports.md) | *A software to design Flightgear groundnets.*..[ *read more* ](apps/flightgear-airports.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flightgear-airports) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flightgear-airports) |
 | <img loading="lazy" src="icons/flippy-qualitative-testbench.png" width="48" height="48"> | [***flippy-qualitative-testbench***](apps/flippy-qualitative-testbench.md) | *Music sheet reader.*..[ *read more* ](apps/flippy-qualitative-testbench.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flippy-qualitative-testbench) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flippy-qualitative-testbench) |
 | <img loading="lazy" src="icons/floorp.png" width="48" height="48"> | [***floorp***](apps/floorp.md) | *Floorp Web Browser, the most Advanced and Fastest Firefox derivative.*..[ *read more* ](apps/floorp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/floorp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/floorp) |
+| <img loading="lazy" src="icons/flow-browser.png" width="48" height="48"> | [***flow-browser***](apps/flow-browser.md) | *A modern, privacy-focused browser with a minimalistic design.*..[ *read more* ](apps/flow-browser.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flow-browser) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flow-browser) |
 | <img loading="lazy" src="icons/flowinity.png" width="48" height="48"> | [***flowinity***](apps/flowinity.md) | *The versatile all-in-one online platform, for everyone.*..[ *read more* ](apps/flowinity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flowinity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flowinity) |
 | <img loading="lazy" src="icons/fluent-reader.png" width="48" height="48"> | [***fluent-reader***](apps/fluent-reader.md) | *Modern desktop RSS reader.*..[ *read more* ](apps/fluent-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fluent-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fluent-reader) |
 | <img loading="lazy" src="icons/fluxer.png" width="48" height="48"> | [***fluxer***](apps/fluxer.md) | *A free and open source instant messaging and VoIP platform built for friends, groups, and communities.*..[ *read more* ](apps/fluxer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fluxer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fluxer) |
