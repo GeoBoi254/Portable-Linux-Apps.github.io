@@ -8575,11 +8575,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/nsz.png"
   },
   {
-    "packageName": "nteract",
-    "description": "An open-source organization...",
-    "icon": "https://portable-linux-apps.github.io/icons/nteract.png"
-  },
-  {
     "packageName": "ntfydesktop",
     "description": "A desktop client for ntfy. Allows you to subscribe to topics from any ntfy server and recieve notifications natively on the desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/ntfydesktop.png"
