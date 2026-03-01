@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2454** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2455** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -544,6 +544,7 @@
 | <img loading="lazy" src="icons/discord-bot-client.png" width="48" height="48"> | [***discord-bot-client***](apps/discord-bot-client.md) | *A patched version of discord, with bot login & Vencord support.*..[ *read more* ](apps/discord-bot-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord-bot-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord-bot-client) |
 | <img loading="lazy" src="icons/discord-qt.png" width="48" height="48"> | [***discord-qt***](apps/discord-qt.md) | *Unofficial. Discord client powered by Node.JS and Qt Widgets.*..[ *read more* ](apps/discord-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/discord-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/discord-qt) |
 | <img loading="lazy" src="icons/diskfmt.png" width="48" height="48"> | [***diskfmt***](apps/diskfmt.md) | *A disk formatting utility for linux that is similar to the windows format utility.*..[ *read more* ](apps/diskfmt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/diskfmt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/diskfmt) |
+| <img loading="lazy" src="icons/dlman.png" width="48" height="48"> | [***dlman***](apps/dlman.md) | *Free & fast modern download manager built with Rust for speed and reliability.*..[ *read more* ](apps/dlman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dlman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dlman) |
 | <img loading="lazy" src="icons/dns-changer.png" width="48" height="48"> | [***dns-changer***](apps/dns-changer.md) | *An open-source DNS Changer app.*..[ *read more* ](apps/dns-changer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dns-changer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dns-changer) |
 | <img loading="lazy" src="icons/dockstation.png" width="48" height="48"> | [***dockstation***](apps/dockstation.md) | *Developing with Docker has never been so easy and convenient.*..[ *read more* ](apps/dockstation.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dockstation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dockstation) |
 | <img loading="lazy" src="icons/dolphin-emu.png" width="48" height="48"> | [***dolphin-emu***](apps/dolphin-emu.md) | *Unofficial, GameCube/Nintento Wii emulator with improvements.*..[ *read more* ](apps/dolphin-emu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dolphin-emu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dolphin-emu) |

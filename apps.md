@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **2867** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **2868** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -627,6 +627,7 @@
 | <img loading="lazy" src="icons/diskonaut.png" width="48" height="48"> | [***diskonaut***](apps/diskonaut.md) | *Terminal disk space navigator.*..[ *read more* ](apps/diskonaut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/diskonaut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/diskonaut) |
 | <img loading="lazy" src="icons/dissent.png" width="48" height="48"> | [***dissent***](apps/dissent.md) | *Tiny native Discord app.*..[ *read more* ](apps/dissent.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dissent) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dissent) |
 | <img loading="lazy" src="icons/dl-desktop.png" width="48" height="48"> | [***dl-desktop***](apps/dl-desktop.md) | *Desktop client for the Duolingo language learning application.*..[ *read more* ](apps/dl-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dl-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dl-desktop) |
+| <img loading="lazy" src="icons/dlman.png" width="48" height="48"> | [***dlman***](apps/dlman.md) | *Free & fast modern download manager built with Rust for speed and reliability.*..[ *read more* ](apps/dlman.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dlman) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dlman) |
 | <img loading="lazy" src="icons/dns-changer.png" width="48" height="48"> | [***dns-changer***](apps/dns-changer.md) | *An open-source DNS Changer app.*..[ *read more* ](apps/dns-changer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dns-changer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dns-changer) |
 | <img loading="lazy" src="icons/dockstation.png" width="48" height="48"> | [***dockstation***](apps/dockstation.md) | *Developing with Docker has never been so easy and convenient.*..[ *read more* ](apps/dockstation.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dockstation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dockstation) |
 | <img loading="lazy" src="icons/doggo.png" width="48" height="48"> | [***doggo***](apps/doggo.md) | *Command-line DNS Client for Humans. Written in Golang*..[ *read more* ](apps/doggo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/doggo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/doggo) |
