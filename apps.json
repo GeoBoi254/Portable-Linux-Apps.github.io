@@ -1490,6 +1490,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/breaktimer.png"
   },
   {
+    "packageName": "briar",
+    "description": "Briar Desktop. Censorship-resistant peer-to-peer messaging that bypasses centralized servers. Connect via Bluetooth, Wi-Fi or Tor, with privacy built-in...",
+    "icon": "https://portable-linux-apps.github.io/icons/briar.png"
+  },
+  {
     "packageName": "brickstore",
     "description": "An offline BrickLink inventory management tool...",
     "icon": "https://portable-linux-apps.github.io/icons/brickstore.png"
@@ -1578,6 +1583,11 @@
     "packageName": "bulkurlopener",
     "description": "Desktop version of the Bulk URL Opener extension...",
     "icon": "https://portable-linux-apps.github.io/icons/bulkurlopener.png"
+  },
+  {
+    "packageName": "bulky",
+    "description": "Unofficial, an XApp used to rename multiple files and directories...",
+    "icon": "https://portable-linux-apps.github.io/icons/bulky.png"
   },
   {
     "packageName": "bunnyfetch",
@@ -13423,6 +13433,11 @@
     "packageName": "transmissionic",
     "description": "Remote for Transmission Daemon...",
     "icon": "https://portable-linux-apps.github.io/icons/transmissionic.png"
+  },
+  {
+    "packageName": "trelby",
+    "description": "Unofficial, Trelby is simple, fast and elegantly laid out to make screenwriting simple...",
+    "icon": "https://portable-linux-apps.github.io/icons/trelby.png"
   },
   {
     "packageName": "trenchbroom",
