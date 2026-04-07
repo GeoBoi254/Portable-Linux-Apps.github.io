@@ -11880,9 +11880,14 @@
     "icon": "https://portable-linux-apps.github.io/icons/sf-tube.png"
   },
   {
-    "packageName": "sfbrename",
+    "packageName": "sfbrename-cli",
     "description": "Bulk file renamer...",
-    "icon": "https://portable-linux-apps.github.io/icons/sfbrename.png"
+    "icon": "https://portable-linux-apps.github.io/icons/sfbrename-cli.png"
+  },
+  {
+    "packageName": "sfbrename-gtk",
+    "description": "Bulk file renamer...",
+    "icon": "https://portable-linux-apps.github.io/icons/sfbrename-gtk.png"
   },
   {
     "packageName": "sfp",
