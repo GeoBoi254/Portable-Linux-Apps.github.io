@@ -5445,6 +5445,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/gradia.png"
   },
   {
+    "packageName": "gram-enhanced",
+    "description": "Unofficial, a powerful and modern source code editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/gram-enhanced.png"
+  },
+  {
     "packageName": "granatier",
     "description": "Bomberman clone. This script installs the full \"kdegames\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/granatier.png"
@@ -10530,6 +10535,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/prismlauncher.png"
   },
   {
+    "packageName": "prismlauncher-enhanced",
+    "description": "Unofficial, a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)...",
+    "icon": "https://portable-linux-apps.github.io/icons/prismlauncher-enhanced.png"
+  },
+  {
     "packageName": "prismlauncher-qt5",
     "description": "Launcher for Minecraft, manage multiple installations (Qt5 version)...",
     "icon": "https://portable-linux-apps.github.io/icons/prismlauncher-qt5.png"
@@ -10935,6 +10945,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/quamodbusclient.png"
   },
   {
+    "packageName": "quantumlauncher-enhanced",
+    "description": "Unofficial, a simple, powerful Minecraft launcher...",
+    "icon": "https://portable-linux-apps.github.io/icons/quantumlauncher-enhanced.png"
+  },
+  {
     "packageName": "quark",
     "description": "Sketchbook for rapid prototyping and development of your projects...",
     "icon": "https://portable-linux-apps.github.io/icons/quark.png"
@@ -11301,8 +11316,23 @@
   },
   {
     "packageName": "retroarch",
-    "description": "Frontend for emulators, game engines and media players...",
+    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
     "icon": "https://portable-linux-apps.github.io/icons/retroarch.png"
+  },
+  {
+    "packageName": "retroarch-nightly",
+    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
+    "icon": "https://portable-linux-apps.github.io/icons/retroarch-nightly.png"
+  },
+  {
+    "packageName": "retroarch-qt",
+    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
+    "icon": "https://portable-linux-apps.github.io/icons/retroarch-qt.png"
+  },
+  {
+    "packageName": "retroarch-qt-nightly",
+    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
+    "icon": "https://portable-linux-apps.github.io/icons/retroarch-qt-nightly.png"
   },
   {
     "packageName": "retrom",
