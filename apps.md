@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **3010** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **3011** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -443,6 +443,7 @@
 | <img loading="lazy" src="icons/ciyue.png" width="48" height="48"> | [***ciyue***](apps/ciyue.md) | *A simple mdict dictionary.*..[ *read more* ](apps/ciyue.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ciyue) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ciyue) |
 | <img loading="lazy" src="icons/clagrange.png" width="48" height="48"> | [***clagrange***](apps/clagrange.md) | *Lagrange is a cross-platform client for browsing Geminispace (CLI Version).*..[ *read more* ](apps/clagrange.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clagrange) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clagrange) |
 | <img loading="lazy" src="icons/clamtk.png" width="48" height="48"> | [***clamtk***](apps/clamtk.md) | *An easy to use, light-weight, on-demand virus scanner for Linux systems*..[ *read more* ](apps/clamtk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clamtk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clamtk) |
+| <img loading="lazy" src="icons/clamui.png" width="48" height="48"> | [***clamui***](apps/clamui.md) | *ClamAV Desktop application (GUI).*..[ *read more* ](apps/clamui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clamui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clamui) |
 | <img loading="lazy" src="icons/clapper.png" width="48" height="48"> | [***clapper***](apps/clapper.md) | *Unofficial. A modern media player designed for simplicity and ease of use.*..[ *read more* ](apps/clapper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clapper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clapper) |
 | <img loading="lazy" src="icons/clash-nyanpasu.png" width="48" height="48"> | [***clash-nyanpasu***](apps/clash-nyanpasu.md) | *A Clash GUI based on tauri.*..[ *read more* ](apps/clash-nyanpasu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clash-nyanpasu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clash-nyanpasu) |
 | <img loading="lazy" src="icons/clash-verge.png" width="48" height="48"> | [***clash-verge***](apps/clash-verge.md) | *A multiplatform Clash GUI based on tauri.*..[ *read more* ](apps/clash-verge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clash-verge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clash-verge) |

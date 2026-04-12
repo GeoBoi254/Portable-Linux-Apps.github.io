@@ -2075,6 +2075,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clamtk.png"
   },
   {
+    "packageName": "clamui",
+    "description": "ClamAV Desktop application (GUI)...",
+    "icon": "https://portable-linux-apps.github.io/icons/clamui.png"
+  },
+  {
     "packageName": "clapper",
     "description": "Unofficial. A modern media player designed for simplicity and ease of use...",
     "icon": "https://portable-linux-apps.github.io/icons/clapper.png"
