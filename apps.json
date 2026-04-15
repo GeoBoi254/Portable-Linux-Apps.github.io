@@ -8720,6 +8720,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/newton-adventure.png"
   },
   {
+    "packageName": "nexen",
+    "description": "Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS)...",
+    "icon": "https://portable-linux-apps.github.io/icons/nexen.png"
+  },
+  {
     "packageName": "nexis",
     "description": "Linux & macOS system optimizer and monitor. Qt6 fork of Stacer with GPU monitoring, dark/light themes, and active maintenance...",
     "icon": "https://portable-linux-apps.github.io/icons/nexis.png"
@@ -13713,6 +13718,11 @@
     "packageName": "transfernow",
     "description": "TransferNow is a simple, quick and secure free solution to send large files and big documents up to 250 GB per transfer. No registration required...",
     "icon": "https://portable-linux-apps.github.io/icons/transfernow.png"
+  },
+  {
+    "packageName": "transformer",
+    "description": "A command-line utility for splitting large files into chunks/pieces and merging them back together...",
+    "icon": "https://portable-linux-apps.github.io/icons/transformer.png"
   },
   {
     "packageName": "translatium",
