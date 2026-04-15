@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **3023** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **3022** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2341,7 +2341,6 @@
 | <img loading="lazy" src="icons/rsdkv3.png" width="48" height="48"> | [***rsdkv3***](apps/rsdkv3.md) | *Unofficial, a Full Decompilation of Sonic CD (2011) & Retro Engine v3.*..[ *read more* ](apps/rsdkv3.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rsdkv3) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rsdkv3) |
 | <img loading="lazy" src="icons/rsdkv4.png" width="48" height="48"> | [***rsdkv4***](apps/rsdkv4.md) | *Unofficial, a complete decompilation of Sonic 1 & Sonic 2 (2013) & Retro Engine v4.*..[ *read more* ](apps/rsdkv4.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rsdkv4) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rsdkv4) |
 | <img loading="lazy" src="icons/rssguard.png" width="48" height="48"> | [***rssguard***](apps/rssguard.md) | *Feed reader which supports RSS/ATOM/JSON, no-webengine version.*..[ *read more* ](apps/rssguard.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rssguard) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rssguard) |
-| <img loading="lazy" src="icons/rstudio.png" width="48" height="48"> | [***rstudio***](apps/rstudio.md) | *RStudio is an integrated development environment, IDE for R.*..[ *read more* ](apps/rstudio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rstudio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rstudio) |
 | <img loading="lazy" src="icons/rtneuron.png" width="48" height="48"> | [***rtneuron***](apps/rtneuron.md) | *Framework for geometrically detailed neuron simulations.*..[ *read more* ](apps/rtneuron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rtneuron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rtneuron) |
 | <img loading="lazy" src="icons/rubikscube.png" width="48" height="48"> | [***rubikscube***](apps/rubikscube.md) | *Rubik's cube in OpenGL.*..[ *read more* ](apps/rubikscube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rubikscube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rubikscube) |
 | <img loading="lazy" src="icons/rucola.png" width="48" height="48"> | [***rucola***](apps/rucola.md) | *Terminal-based markdown note manager.*..[ *read more* ](apps/rucola.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rucola) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rucola) |
