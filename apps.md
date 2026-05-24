@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed all **3121** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
+#### Here are listed all **3120** unique applications, AppImage packages and command line utilities managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture, plus **78** more entries and items to help you install apps more easily.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -13,7 +13,34 @@
   <span id="app-search-count" style="margin-left: 0.5em; font-style: italic; color: #666;"></span>
 </div>
 
-#### *Categories:* ***[AppImages](appimages.md)*** - ***[am-utils](am-utils.md)*** - ***[android](android.md)*** - ***[audio](audio.md)*** - ***[comic](comic.md)*** - ***[command-line](command-line.md)*** - ***[communication](communication.md)*** - ***[disk](disk.md)*** - ***[education](education.md)*** - ***[file-manager](file-manager.md)*** - ***[finance](finance.md)*** - ***[game](game.md)*** - ***[gnome](gnome.md)*** - ***[graphic](graphic.md)*** - ***[internet](internet.md)*** - ***[kde](kde.md)*** - ***[office](office.md)*** - ***[password](password.md)*** - ***[steam](steam.md)*** - ***[system-monitor](system-monitor.md)*** - ***[video](video.md)*** - ***[web-app](web-app.md)*** - ***[web-browser](web-browser.md)*** - ***[wine](wine.md)***
+#### *Categories*
+
+<div class="cat-grid">
+  <a class="cat-pill cat-pill--all" href="appimages.html">AppImages</a>
+  <a class="cat-pill" href="am-utils.html">am-utils</a>
+  <a class="cat-pill" href="android.html">android</a>
+  <a class="cat-pill" href="audio.html">audio</a>
+  <a class="cat-pill" href="comic.html">comic</a>
+  <a class="cat-pill" href="command-line.html">command-line</a>
+  <a class="cat-pill" href="communication.html">communication</a>
+  <a class="cat-pill" href="disk.html">disk</a>
+  <a class="cat-pill" href="education.html">education</a>
+  <a class="cat-pill" href="file-manager.html">file-manager</a>
+  <a class="cat-pill" href="finance.html">finance</a>
+  <a class="cat-pill" href="game.html">game</a>
+  <a class="cat-pill" href="gnome.html">gnome</a>
+  <a class="cat-pill" href="graphic.html">graphic</a>
+  <a class="cat-pill" href="internet.html">internet</a>
+  <a class="cat-pill" href="kde.html">kde</a>
+  <a class="cat-pill" href="office.html">office</a>
+  <a class="cat-pill" href="password.html">password</a>
+  <a class="cat-pill" href="steam.html">steam</a>
+  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
+  <a class="cat-pill" href="video.html">video</a>
+  <a class="cat-pill" href="web-app.html">web-app</a>
+  <a class="cat-pill" href="web-browser.html">web-browser</a>
+  <a class="cat-pill" href="wine.html">wine</a>
+</div>
 
 -----------------
 
@@ -2598,7 +2625,6 @@
 | <img loading="lazy" src="icons/spark-wallet.png" width="48" height="48"> | [***spark-wallet***](apps/spark-wallet.md) | *A wallet GUI for c-lightning, accessible over web/mobile/pc.*..[ *read more* ](apps/spark-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spark-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spark-wallet) |
 | <img loading="lazy" src="icons/speak-to-ai.png" width="48" height="48"> | [***speak-to-ai***](apps/speak-to-ai.md) | *Speak to AI - native Linux voice-to-text app.*..[ *read more* ](apps/speak-to-ai.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speak-to-ai) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speak-to-ai) |
 | <img loading="lazy" src="icons/speaky-miniplayer.png" width="48" height="48"> | [***speaky-miniplayer***](apps/speaky-miniplayer.md) | *A miniplayer with a synthetic radio speaker.*..[ *read more* ](apps/speaky-miniplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speaky-miniplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speaky-miniplayer) |
-| <img loading="lazy" src="icons/special-eureka.png" width="48" height="48"> | [***special-eureka***](apps/special-eureka.md) | *A desktop mangareader built in Tauri and React*..[ *read more* ](apps/special-eureka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/special-eureka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/special-eureka) |
 | <img loading="lazy" src="icons/speed-dreams.png" width="48" height="48"> | [***speed-dreams***](apps/speed-dreams.md) | *A Torcs fork, 3d motorsport simulation and race cars game.*..[ *read more* ](apps/speed-dreams.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speed-dreams) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speed-dreams) |
 | <img loading="lazy" src="icons/speedcrunch.png" width="48" height="48"> | [***speedcrunch***](apps/speedcrunch.md) | *Unofficial, a high-precision scientific calculator featuring a fast, keyboard-driven user interface.*..[ *read more* ](apps/speedcrunch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speedcrunch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speedcrunch) |
 | <img loading="lazy" src="icons/speedyloader.png" width="48" height="48"> | [***speedyloader***](apps/speedyloader.md) | *Speeduino universal firmware loader.*..[ *read more* ](apps/speedyloader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/speedyloader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/speedyloader) |

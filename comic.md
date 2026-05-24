@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **43** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **42** programs and **0** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -13,7 +13,34 @@
   <span id="app-search-count" style="margin-left: 0.5em; font-style: italic; color: #666;"></span>
 </div>
 
-#### *Categories:* ***[AppImages](appimages.md)*** - ***[am-utils](am-utils.md)*** - ***[android](android.md)*** - ***[audio](audio.md)*** - ***[comic](comic.md)*** - ***[command-line](command-line.md)*** - ***[communication](communication.md)*** - ***[disk](disk.md)*** - ***[education](education.md)*** - ***[file-manager](file-manager.md)*** - ***[finance](finance.md)*** - ***[game](game.md)*** - ***[gnome](gnome.md)*** - ***[graphic](graphic.md)*** - ***[internet](internet.md)*** - ***[kde](kde.md)*** - ***[office](office.md)*** - ***[password](password.md)*** - ***[steam](steam.md)*** - ***[system-monitor](system-monitor.md)*** - ***[video](video.md)*** - ***[web-app](web-app.md)*** - ***[web-browser](web-browser.md)*** - ***[wine](wine.md)***
+#### *Categories*
+
+<div class="cat-grid">
+  <a class="cat-pill cat-pill--all" href="appimages.html">AppImages</a>
+  <a class="cat-pill" href="am-utils.html">am-utils</a>
+  <a class="cat-pill" href="android.html">android</a>
+  <a class="cat-pill" href="audio.html">audio</a>
+  <a class="cat-pill" href="comic.html">comic</a>
+  <a class="cat-pill" href="command-line.html">command-line</a>
+  <a class="cat-pill" href="communication.html">communication</a>
+  <a class="cat-pill" href="disk.html">disk</a>
+  <a class="cat-pill" href="education.html">education</a>
+  <a class="cat-pill" href="file-manager.html">file-manager</a>
+  <a class="cat-pill" href="finance.html">finance</a>
+  <a class="cat-pill" href="game.html">game</a>
+  <a class="cat-pill" href="gnome.html">gnome</a>
+  <a class="cat-pill" href="graphic.html">graphic</a>
+  <a class="cat-pill" href="internet.html">internet</a>
+  <a class="cat-pill" href="kde.html">kde</a>
+  <a class="cat-pill" href="office.html">office</a>
+  <a class="cat-pill" href="password.html">password</a>
+  <a class="cat-pill" href="steam.html">steam</a>
+  <a class="cat-pill" href="system-monitor.html">system-monitor</a>
+  <a class="cat-pill" href="video.html">video</a>
+  <a class="cat-pill" href="web-app.html">web-app</a>
+  <a class="cat-pill" href="web-browser.html">web-browser</a>
+  <a class="cat-pill" href="wine.html">wine</a>
+</div>
 
 -----------------
 
@@ -62,7 +89,6 @@
 | <img loading="lazy" src="icons/seanime.png" width="48" height="48"> | [***seanime***](apps/seanime.md) | *Open-source media server with a web interface and desktop app for anime and manga.*..[ *read more* ](apps/seanime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/seanime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/seanime) |
 | <img loading="lazy" src="icons/shiru.png" width="48" height="48"> | [***shiru***](apps/shiru.md) | *A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required.*..[ *read more* ](apps/shiru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/shiru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/shiru) |
 | <img loading="lazy" src="icons/sigil.png" width="48" height="48"> | [***sigil***](apps/sigil.md) | *Sigil is a multi-platform EPUB ebook editor.*..[ *read more* ](apps/sigil.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sigil) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sigil) |
-| <img loading="lazy" src="icons/special-eureka.png" width="48" height="48"> | [***special-eureka***](apps/special-eureka.md) | *A desktop mangareader built in Tauri and React*..[ *read more* ](apps/special-eureka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/special-eureka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/special-eureka) |
 | <img loading="lazy" src="icons/toru.png" width="48" height="48"> | [***toru***](apps/toru.md) | *Bittorrent streaming CLI tool. Stream anime torrents real-time.*..[ *read more* ](apps/toru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/toru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/toru) |
 | <img loading="lazy" src="icons/unyo.png" width="48" height="48"> | [***unyo***](apps/unyo.md) | *Anime streaming and Manga reader desktop app without ads.*..[ *read more* ](apps/unyo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/unyo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/unyo) |
 | <img loading="lazy" src="icons/window-pet.png" width="48" height="48"> | [***window-pet***](apps/window-pet.md) | *Pet overlay app that lets you have adorable companion such as pets, anime characters on your screen.*..[ *read more* ](apps/window-pet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/window-pet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/window-pet) |
