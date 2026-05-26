@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **83** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **85** programs and **3** items for this category and managed by [AM](https://github.com/ivan-hc/AM) and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -67,7 +67,7 @@
 
 -----------------
 
-*NOTE, Installer scripts (blob/raw) are provided for reading only: do not run them manually! Use "AM" or "AppMan" instead.*
+***NOTE, Installer scripts (blob/raw) are provided for reading only: do not run them manually! Use "[AM](https://github.com/ivan-hc/AM)" or "[AppMan](https://github.com/ivan-hc/AppMan)" instead.***
 
 -----------------
 
@@ -122,6 +122,7 @@
 | <img loading="lazy" src="icons/miteiru.png" width="48" height="48"> | [***miteiru***](apps/miteiru.md) | *An open source Electron video player to learn Japanese.*..[ *read more* ](apps/miteiru.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/miteiru) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/miteiru) |
 | <img loading="lazy" src="icons/nblood.png" width="48" height="48"> | [***nblood***](apps/nblood.md) | *Unofficial, blood port based on EDuke32.*..[ *read more* ](apps/nblood.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nblood) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nblood) |
 | <img loading="lazy" src="icons/nootka.png" width="48" height="48"> | [***nootka***](apps/nootka.md) | *Application for learning musical score notation.*..[ *read more* ](apps/nootka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nootka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nootka) |
+| <img loading="lazy" src="icons/objcopy.png" width="48" height="48"> | [***objcopy***](apps/objcopy.md) | *Translate object files. This is part of "am-utils" suite.*..[ *read more* ](apps/objcopy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/objcopy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/objcopy) |
 | <img loading="lazy" src="icons/ocvwarp.png" width="48" height="48"> | [***ocvwarp***](apps/ocvwarp.md) | *Warping images and videos for planetarium fulldome display.*..[ *read more* ](apps/ocvwarp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ocvwarp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ocvwarp) |
 | <img loading="lazy" src="icons/onlyrefs.png" width="48" height="48"> | [***onlyrefs***](apps/onlyrefs.md) | *Organize all of your references, notes, bookmarks and more.*..[ *read more* ](apps/onlyrefs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onlyrefs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onlyrefs) |
 | <img loading="lazy" src="icons/open-ai-translator.png" width="48" height="48"> | [***open-ai-translator***](apps/open-ai-translator.md) | *Browser extension for translation based on ChatGPT API.*..[ *read more* ](apps/open-ai-translator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/open-ai-translator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/open-ai-translator) |
@@ -154,6 +155,7 @@
 | <img loading="lazy" src="icons/trans.png" width="48" height="48"> | [***trans***](apps/trans.md) | *CLI translator using Google/Bing/Yandex Translate, etc...*..[ *read more* ](apps/trans.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trans) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trans) |
 | <img loading="lazy" src="icons/translatium.png" width="48" height="48"> | [***translatium***](apps/translatium.md) | *Translate Any Languages like a Pro.*..[ *read more* ](apps/translatium.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/translatium) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/translatium) |
 | <img loading="lazy" src="icons/tweaksophia.png" width="48" height="48"> | [***tweaksophia***](apps/tweaksophia.md) | *An app to automatically renew the books of the SophiA system.*..[ *read more* ](apps/tweaksophia.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tweaksophia) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tweaksophia) |
+| <img loading="lazy" src="icons/ul.png" width="48" height="48"> | [***ul***](apps/ul.md) | *Translate underline sequences for terminals. This is part of "am-utils" suite.*..[ *read more* ](apps/ul.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ul) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ul) |
 | <img loading="lazy" src="icons/vocabsieve.png" width="48" height="48"> | [***vocabsieve***](apps/vocabsieve.md) | *Simple sentence mining tool for language learning.*..[ *read more* ](apps/vocabsieve.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vocabsieve) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vocabsieve) |
 | <img loading="lazy" src="icons/waydroid-helper.png" width="48" height="48"> | [***waydroid-helper***](apps/waydroid-helper.md) | *App that provides a user-friendly way to configure Waydroid and install extensions, including Magisk and ARM translation (android).*..[ *read more* ](apps/waydroid-helper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waydroid-helper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waydroid-helper) |
 | <img loading="lazy" src="icons/x-loc.png" width="48" height="48"> | [***x-loc***](apps/x-loc.md) | *Extra localizations/translations manager for Stardew Valley.*..[ *read more* ](apps/x-loc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/x-loc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/x-loc) |
@@ -163,7 +165,7 @@
 
 ---
 
-You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) 	to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io),  	or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' 	section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
+You can improve these pages via a [pull request](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/pulls) to this site's [GitHub repository](https://github.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io), or report any problems related to the installation scripts in the '[issue](https://github.com/ivan-hc/AM/issues)' section of the main database, at [https://github.com/ivan-hc/AM](https://github.com/ivan-hc/AM).
 
 ***PORTABLE-LINUX-APPS.github.io is my gift to the Linux community and was made with love for GNU/Linux and the Open Source philosophy.***
 
@@ -178,7 +180,7 @@ You can improve these pages via a [pull request](https://github.com/Portable-Lin
 - **Ivan-HC** *on* [**GitHub**](https://github.com/ivan-hc)
 - **AM-Ivan** *on* [**Reddit**](https://www.reddit.com/u/am-ivan)
 
-###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and 	[**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
+###### *You can support me and my work on [**ko-fi.com**](https://ko-fi.com/IvanAlexHC) and [**PayPal.me**](https://paypal.me/IvanAlexHC). Thank you!*
 
 --------
 
