@@ -16,11 +16,11 @@
 #### *Categories*
 
 <div class="cat-grid">
-  <a class="cat-pill" href="appimages.html">AppImages</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="am-utils.html">am-utils</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="android.html">android</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="appimages.html">AppImages</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -48,9 +48,13 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="kde.html">kde</a>
   <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="metapackages.html">metapackages</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="office.html">office</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="password.html">password</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="portable.html">Portable</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill cat-pill--all" href="steam.html">steam</a>
   <span class="cat-sep" aria-hidden="true">•</span>
