@@ -7225,6 +7225,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/kitsas.png"
   },
   {
+    "packageName": "kitshn",
+    "description": "An unofficial client for the self-hosted Tandoor recipe management software...",
+    "icon": "https://portable-linux-apps.github.io/icons/kitshn.png"
+  },
+  {
     "packageName": "kitty",
     "description": "Cross-platform, fast, feature-rich, GPU based terminal (also provides \"kitten\" CLI utility)...",
     "icon": "https://portable-linux-apps.github.io/icons/kitty.png"
