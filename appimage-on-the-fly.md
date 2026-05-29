@@ -1,4 +1,4 @@
-# WEB APP
+# APPIMAGE ON THE FLY
 
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
@@ -22,7 +22,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="am-utils.html">am-utils</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill" href="appimage-on-the-fly.html">appimage-on-the-fly</a>
+  <a class="cat-pill cat-pill--all" href="appimage-on-the-fly.html">appimage-on-the-fly</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="android.html">android</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -70,7 +70,7 @@
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="video.html">video</a>
   <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill cat-pill--all" href="web-app.html">web-app</a>
+  <a class="cat-pill" href="web-app.html">web-app</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="web-browser.html">web-browser</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -85,18 +85,18 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
-| <img loading="lazy" src="icons/bauh.png" width="48" height="48"> | [***bauh***](apps/bauh.md) | *GUI for managing AppImage, Arch/AUR, DEBs, Flatpak, Snap and webapps.*..[ *read more* ](apps/bauh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bauh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bauh) |
-| <img loading="lazy" src="icons/cowitness.png" width="48" height="48"> | [***cowitness***](apps/cowitness.md) | *A powerful web app testing tool that enhances the accuracy and efficiency of your testing efforts.*..[ *read more* ](apps/cowitness.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cowitness) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cowitness) |
-| <img loading="lazy" src="icons/firework.png" width="48" height="48"> | [***firework***](apps/firework.md) | *Easiest way to turn web applications and sites into desktop applications.*..[ *read more* ](apps/firework.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firework) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firework) |
-| <img loading="lazy" src="icons/godmode.png" width="48" height="48"> | [***godmode***](apps/godmode.md) | *AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.*..[ *read more* ](apps/godmode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode) |
-| <img loading="lazy" src="icons/iheartradio-webapp.png" width="48" height="48"> | [***iheartradio-webapp***](apps/iheartradio-webapp.md) | *Election WebApp for iHeartRadio.*..[ *read more* ](apps/iheartradio-webapp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/iheartradio-webapp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/iheartradio-webapp) |
-| <img loading="lazy" src="icons/kanon.png" width="48" height="48"> | [***kanon***](apps/kanon.md) | *Maturita GPJP designed for use with kanon web app.*..[ *read more* ](apps/kanon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kanon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kanon) |
-| <img loading="lazy" src="icons/keyrier-json.png" width="48" height="48"> | [***keyrier-json***](apps/keyrier-json.md) | *A CLI/library/webapp to perfom SQL queries on JSON & CSV.*..[ *read more* ](apps/keyrier-json.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/keyrier-json) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/keyrier-json) |
-| <img loading="lazy" src="icons/onshape.png" width="48" height="48"> | [***onshape***](apps/onshape.md) | *Onshape desktop app, web application shell.*..[ *read more* ](apps/onshape.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/onshape) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/onshape) |
-| <img loading="lazy" src="icons/responsively.png" width="48" height="48"> | [***responsively***](apps/responsively.md) | *A browser for developing responsive web apps.*..[ *read more* ](apps/responsively.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/responsively) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/responsively) |
-| <img loading="lazy" src="icons/spritemate4electron.png" width="48" height="48"> | [***spritemate4electron***](apps/spritemate4electron.md) | *A simple Electron-wrapper for Esshahn's awesome Spritemate-webapp.*..[ *read more* ](apps/spritemate4electron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/spritemate4electron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/spritemate4electron) |
-| <img loading="lazy" src="icons/station.png" width="48" height="48"> | [***station***](apps/station.md) | *A single place for all of your web applications.*..[ *read more* ](apps/station.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/station) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/station) |
-| <img loading="lazy" src="icons/todesktop.png" width="48" height="48"> | [***todesktop***](apps/todesktop.md) | *Take your web app codebase and transform it into a cross platform desktop app with native functionality.*..[ *read more* ](apps/todesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/todesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/todesktop) |
+| <img loading="lazy" src="icons/antigravity.png" width="48" height="48"> | [***antigravity***](apps/antigravity.md) | *Google Antigravity IDE.*..[ *read more* ](apps/antigravity.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/antigravity) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/antigravity) |
+| <img loading="lazy" src="icons/czkawka.png" width="48" height="48"> | [***czkawka***](apps/czkawka.md) | *App to find duplicates, empty folders, similar images etc.*..[ *read more* ](apps/czkawka.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/czkawka) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/czkawka) |
+| <img loading="lazy" src="icons/fdm.png" width="48" height="48"> | [***fdm***](apps/fdm.md) | *Free Download Manager, multiplatform powerful modern download accelerator and organizer.*..[ *read more* ](apps/fdm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fdm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fdm) |
+| <img loading="lazy" src="icons/krokiet.png" width="48" height="48"> | [***krokiet***](apps/krokiet.md) | *App to find duplicates, empty folders, similar images etc. The successor of czkawka.*..[ *read more* ](apps/krokiet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/krokiet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/krokiet) |
+| <img loading="lazy" src="icons/ntsc-rs.png" width="48" height="48"> | [***ntsc-rs***](apps/ntsc-rs.md) | *Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).*..[ *read more* ](apps/ntsc-rs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ntsc-rs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ntsc-rs) |
+| <img loading="lazy" src="icons/ollama.png" width="48" height="48"> | [***ollama***](apps/ollama.md) | *Get up and running with Llama 3, Mistral, Gemma, and other LLMs.*..[ *read more* ](apps/ollama.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ollama) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ollama) |
+| <img loading="lazy" src="icons/syncthing.png" width="48" height="48"> | [***syncthing***](apps/syncthing.md) | *Open Source Continuous File Synchronization.*..[ *read more* ](apps/syncthing.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthing) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthing) |
+| <img loading="lazy" src="icons/syncthingctl.png" width="48" height="48"> | [***syncthingctl***](apps/syncthingctl.md) | *Tray control application and Dolphin/Plasma integration for Syncthing.*..[ *read more* ](apps/syncthingctl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthingctl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthingctl) |
+| <img loading="lazy" src="icons/syncthingtray.png" width="48" height="48"> | [***syncthingtray***](apps/syncthingtray.md) | *Tray application and Dolphin/Plasma integration for Syncthing.*..[ *read more* ](apps/syncthingtray.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/syncthingtray) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/syncthingtray) |
+| <img loading="lazy" src="icons/terabox.png" width="48" height="48"> | [***terabox***](apps/terabox.md) | *Terabox is the simplest way to send your files around the world. Back up and Share photos, videos, docs, and other files of any size to cloud storage.*..[ *read more* ](apps/terabox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/terabox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/terabox) |
+| <img loading="lazy" src="icons/tixati.png" width="48" height="48"> | [***tixati***](apps/tixati.md) | *A New and Powerful P2P System 100% Free, Simple and Easy to Use Bittorrent Client.*..[ *read more* ](apps/tixati.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tixati) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tixati) |
+| <img loading="lazy" src="icons/windows95.png" width="48" height="48"> | [***windows95***](apps/windows95.md) | *Unofficial. Windows 95 in Electron.*..[ *read more* ](apps/windows95.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/windows95) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/windows95) |
 
 
 ---
