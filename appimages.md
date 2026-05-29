@@ -16,11 +16,13 @@
 #### *Categories*
 
 <div class="cat-grid">
+  <a class="cat-pill cat-pill--all" href="appimages.html">AppImages</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
+  <a class="cat-pill" href="ai.html">ai</a>
+  <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="am-utils.html">am-utils</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="android.html">android</a>
-  <span class="cat-sep" aria-hidden="true">•</span>
-  <a class="cat-pill cat-pill--all" href="appimages.html">AppImages</a>
   <span class="cat-sep" aria-hidden="true">•</span>
   <a class="cat-pill" href="audio.html">audio</a>
   <span class="cat-sep" aria-hidden="true">•</span>
@@ -439,7 +441,7 @@
 | <img loading="lazy" src="icons/classicimageviewer.png" width="48" height="48"> | [***classicimageviewer***](apps/classicimageviewer.md) | *A simple image viewer with some editing features.*..[ *read more* ](apps/classicimageviewer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classicimageviewer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classicimageviewer) |
 | <img loading="lazy" src="icons/classicube.png" width="48" height="48"> | [***classicube***](apps/classicube.md) | *Unofficial, Custom Minecraft Classic / ClassiCube client written in C from scratch*..[ *read more* ](apps/classicube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classicube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classicube) |
 | <img loading="lazy" src="icons/classipod.png" width="48" height="48"> | [***classipod***](apps/classipod.md) | *A local music player app designed to capture the nostalgic essence of the iconic iPod Classic.*..[ *read more* ](apps/classipod.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/classipod) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/classipod) |
-| <img loading="lazy" src="icons/claude-desktop.png" width="48" height="48"> | [***claude-desktop***](apps/claude-desktop.md) | *Claude Desktop for Debian-based Linux distributions.*..[ *read more* ](apps/claude-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/claude-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/claude-desktop) |
+| <img loading="lazy" src="icons/claude-desktop.png" width="48" height="48"> | [***claude-desktop***](apps/claude-desktop.md) | *Unofficial, Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work.*..[ *read more* ](apps/claude-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/claude-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/claude-desktop) |
 | <img loading="lazy" src="icons/cleepdesktop.png" width="48" height="48"> | [***cleepdesktop***](apps/cleepdesktop.md) | *Desktop application to manage your Cleep devices.*..[ *read more* ](apps/cleepdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cleepdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cleepdesktop) |
 | <img loading="lazy" src="icons/clementine.png" width="48" height="48"> | [***clementine***](apps/clementine.md) | *Unofficial AppImage of the Clementine music player.*..[ *read more* ](apps/clementine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clementine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clementine) |
 | <img loading="lazy" src="icons/clementineremote.png" width="48" height="48"> | [***clementineremote***](apps/clementineremote.md) | *Remote for Clementine Music Player.*..[ *read more* ](apps/clementineremote.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clementineremote) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clementineremote) |

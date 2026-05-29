@@ -2221,7 +2221,7 @@
   },
   {
     "packageName": "claude-desktop",
-    "description": "Claude Desktop for Debian-based Linux distributions...",
+    "description": "Unofficial, Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work...",
     "icon": "https://portable-linux-apps.github.io/icons/claude-desktop.png"
   },
   {
@@ -12006,7 +12006,7 @@
   },
   {
     "packageName": "rev",
-    "description": "No description available. This is part of \"am-utils\" suite...",
+    "description": "Reverse lines characterwise. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/rev.png"
   },
   {
