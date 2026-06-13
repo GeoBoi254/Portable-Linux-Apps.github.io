@@ -300,6 +300,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/altair.png"
   },
   {
+    "packageName": "altersend",
+    "description": "Send files directly between devices over the internet - no cloud, no servers, no size limits...",
+    "icon": "https://portable-linux-apps.github.io/icons/altersend.png"
+  },
+  {
     "packageName": "altitude",
     "description": "The Altitude wallet by Linda Project Inc...",
     "icon": "https://portable-linux-apps.github.io/icons/altitude.png"
@@ -1248,11 +1253,6 @@
     "packageName": "bibletime",
     "description": "Unofficial, a Bible study application based on the Sword library and Qt toolkit...",
     "icon": "https://portable-linux-apps.github.io/icons/bibletime.png"
-  },
-  {
-    "packageName": "biblia-sacra",
-    "description": "A multi language bible app, with emphasis on Latin...",
-    "icon": "https://portable-linux-apps.github.io/icons/biblia-sacra.png"
   },
   {
     "packageName": "bidirectional",
