@@ -9342,6 +9342,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "lingueez",
+    "description": "Vocabulary trainer...",
+    "icon": "https://portable-linux-apps.github.io/icons/lingueez.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "link",
     "description": "Call the link function to create a link to a file. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/link.png",
