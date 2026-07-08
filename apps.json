@@ -9780,6 +9780,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "ltx-desktop",
+    "description": "An open-source desktop app for generating videos with LTX models...",
+    "icon": "https://portable-linux-apps.github.io/icons/ltx-desktop.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "luanti",
     "description": "Multiplayer infinite-world block sandbox...",
     "icon": "https://portable-linux-apps.github.io/icons/luanti.png",
