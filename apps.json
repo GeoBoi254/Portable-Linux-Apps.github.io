@@ -19080,6 +19080,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "wechat",
+    "description": "WeChat is an instant messaging, social media app developed by Tecent...",
+    "icon": "https://portable-linux-apps.github.io/icons/wechat.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "weektodo",
     "description": "WeekToDo is a Free and Open Source Weekly Planner...",
     "icon": "https://portable-linux-apps.github.io/icons/weektodo.png",
