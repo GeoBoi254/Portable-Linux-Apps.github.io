@@ -6837,19 +6837,19 @@
     "packageName": "google-chrome",
     "description": "Unofficial, Web Browser, Stable version...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "google-chrome-beta",
     "description": "Unofficial, Web Browser, Beta version...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome-beta.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "google-chrome-dev",
     "description": "Unofficial, Web Browser, Unstable version...",
     "icon": "https://portable-linux-apps.github.io/icons/google-chrome-dev.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "google-docs",
