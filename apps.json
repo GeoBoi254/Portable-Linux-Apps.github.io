@@ -9606,6 +9606,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "lege",
+    "description": "A selective binarization and re-encoding program to prepare scanned books for pleasant reading on E-ink readers...",
+    "icon": "https://portable-linux-apps.github.io/icons/lege.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "legendary-kingdoms",
     "description": "Implementation of Legendary Kingdoms Gamebooks in C++...",
     "icon": "https://portable-linux-apps.github.io/icons/legendary-kingdoms.png",
@@ -13719,6 +13725,12 @@
     "packageName": "pkhex",
     "description": "Unofficial release of PKHeX, the Pokemon Save File Editor...",
     "icon": "https://portable-linux-apps.github.io/icons/pkhex.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "pla-site-tool",
+    "description": "Portable-Linux-Apps site generator...",
+    "icon": "https://portable-linux-apps.github.io/icons/pla-site-tool.png",
     "arch": ["x86_64"]
   },
   {
