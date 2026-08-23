@@ -2532,6 +2532,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "chaski-app",
+    "description": "A calmer way to read the web...",
+    "icon": "https://portable-linux-apps.github.io/icons/chaski-app.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "chat-gpt",
     "description": "Unofficial. ChatGPT Desktop Application...",
     "icon": "https://portable-linux-apps.github.io/icons/chat-gpt.png",
@@ -4647,6 +4653,12 @@
     "packageName": "eaglemode",
     "description": "Zoomable user interface with plugin applications...",
     "icon": "https://portable-linux-apps.github.io/icons/eaglemode.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "easier-pixel-dungeon",
+    "description": "Mod of Shattered Pixel Dungeon, an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use...",
+    "icon": "https://portable-linux-apps.github.io/icons/easier-pixel-dungeon.png",
     "arch": ["x86_64"]
   },
   {
@@ -11146,6 +11158,12 @@
     "description": "Unofficial, A free, open source, and cross-platform media player, Multiple-choices...",
     "icon": "https://portable-linux-apps.github.io/icons/mpv.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "mpz",
+    "description": "Folder player for big local music collections...",
+    "icon": "https://portable-linux-apps.github.io/icons/mpz.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "mqtt-explorer",
@@ -19576,6 +19594,12 @@
     "description": "App that provides a user-friendly way to configure Waydroid and install extensions, including Magisk and ARM translation (android)...",
     "icon": "https://portable-linux-apps.github.io/icons/waydroid-helper.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "waywallen",
+    "description": "A dynamic wallpaper manager for linux desktops...",
+    "icon": "https://portable-linux-apps.github.io/icons/waywallen.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "wazo-desktop",

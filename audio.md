@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **176** programs and **1** items for this category.
+#### Here are listed **177** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -185,6 +185,7 @@
 | <img loading="lazy" src="icons/moosync.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***moosync***](apps/moosync.md) | *Music player capable of playing local audio or from Youtube/Spotify.*..[ *read more* ](apps/moosync.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/moosync) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/moosync) |
 | <img loading="lazy" src="icons/mp3-tagger.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mp3-tagger***](apps/mp3-tagger.md) | *An Electron app to edit metadata of mp3 files.*..[ *read more* ](apps/mp3-tagger.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp3-tagger) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp3-tagger) |
 | <img loading="lazy" src="icons/mp4grep.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mp4grep***](apps/mp4grep.md) | *CLI for transcribing and searching audio/video files.*..[ *read more* ](apps/mp4grep.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp4grep) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp4grep) |
+| <img loading="lazy" src="icons/mpz.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***mpz***](apps/mpz.md) | *Folder player for big local music collections.*..[ *read more* ](apps/mpz.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mpz) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mpz) |
 | <img loading="lazy" src="icons/muffon.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***muffon***](apps/muffon.md) | *Music streaming browser,retrieves audio, video and metadata.*..[ *read more* ](apps/muffon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/muffon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/muffon) |
 | <img loading="lazy" src="icons/muse.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***muse***](apps/muse.md) | *A digital audio workstation with support for both Audio and MIDI.*..[ *read more* ](apps/muse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/muse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/muse) |
 | <img loading="lazy" src="icons/museeks.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***museeks***](apps/museeks.md) | *A simple, clean and cross-platform music player.*..[ *read more* ](apps/museeks.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/museeks) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/museeks) |
