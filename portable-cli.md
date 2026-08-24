@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **494** command line utilities: static and dynamic ELF binaries, or simple scripts.
+#### Here are listed **495** command line utilities: static and dynamic ELF binaries, or simple scripts.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -125,6 +125,7 @@
 | <img loading="lazy" src="icons/aretext.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***aretext***](apps/aretext.md) | *Minimalist text editor with vim-compatible key bindings.*..[ *read more* ](apps/aretext.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aretext) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aretext) |
 | <img loading="lazy" src="icons/as.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***as***](apps/as.md) | *GNU assembler.. This is part of "am-utils" suite.*..[ *read more* ](apps/as.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/as) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/as) |
 | <img loading="lazy" src="icons/atuin.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***atuin***](apps/atuin.md) | *Magical shell history.*..[ *read more* ](apps/atuin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/atuin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/atuin) |
+| <img loading="lazy" src="icons/atuin-server.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***atuin-server***](apps/atuin-server.md) | *Magical shell history (server).*..[ *read more* ](apps/atuin-server.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/atuin-server) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/atuin-server) |
 | <img loading="lazy" src="icons/b2sum.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***b2sum***](apps/b2sum.md) | *Check BLAKE2 message digest. This is part of "am-utils" suite.*..[ *read more* ](apps/b2sum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/b2sum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/b2sum) |
 | <img loading="lazy" src="icons/bandwhich.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bandwhich***](apps/bandwhich.md) | *Terminal bandwidth utilization tool.*..[ *read more* ](apps/bandwhich.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bandwhich) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bandwhich) |
 | <img loading="lazy" src="icons/base32.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***base32***](apps/base32.md) | *Base32 encode/decode data and print to standard. This is part of "am-utils" suite.*..[ *read more* ](apps/base32.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/base32) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/base32) |

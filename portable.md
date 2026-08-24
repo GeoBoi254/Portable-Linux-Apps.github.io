@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **584** portable programs NOT in AppImage format.
+#### Here are listed **585** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -128,6 +128,7 @@
 | <img loading="lazy" src="icons/aretext.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***aretext***](apps/aretext.md) | *Minimalist text editor with vim-compatible key bindings.*..[ *read more* ](apps/aretext.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aretext) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aretext) |
 | <img loading="lazy" src="icons/as.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***as***](apps/as.md) | *GNU assembler.. This is part of "am-utils" suite.*..[ *read more* ](apps/as.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/as) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/as) |
 | <img loading="lazy" src="icons/atuin.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***atuin***](apps/atuin.md) | *Magical shell history.*..[ *read more* ](apps/atuin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/atuin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/atuin) |
+| <img loading="lazy" src="icons/atuin-server.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***atuin-server***](apps/atuin-server.md) | *Magical shell history (server).*..[ *read more* ](apps/atuin-server.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/atuin-server) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/atuin-server) |
 | <img loading="lazy" src="icons/audiorelay.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***audiorelay***](apps/audiorelay.md) | *Stream audio between your devices. Turn your phone into a microphone or speakers for PC.*..[ *read more* ](apps/audiorelay.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/audiorelay) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/audiorelay) |
 | <img loading="lazy" src="icons/ayandict.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***ayandict***](apps/ayandict.md) | *Simple yet advanced multi-lingual cross-platform offline dictionary for desktop, using Qt and Go.*..[ *read more* ](apps/ayandict.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ayandict) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ayandict) |
 | <img loading="lazy" src="icons/b2sum.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***b2sum***](apps/b2sum.md) | *Check BLAKE2 message digest. This is part of "am-utils" suite.*..[ *read more* ](apps/b2sum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/b2sum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/b2sum) |

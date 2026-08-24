@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **909** programs and **10** items for this category.
+#### Here are listed **910** programs and **10** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -138,6 +138,7 @@
 | <img loading="lazy" src="icons/aretext.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***aretext***](apps/aretext.md) | *Minimalist text editor with vim-compatible key bindings.*..[ *read more* ](apps/aretext.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aretext) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aretext) |
 | <img loading="lazy" src="icons/as.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***as***](apps/as.md) | *GNU assembler.. This is part of "am-utils" suite.*..[ *read more* ](apps/as.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/as) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/as) |
 | <img loading="lazy" src="icons/atuin.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***atuin***](apps/atuin.md) | *Magical shell history.*..[ *read more* ](apps/atuin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/atuin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/atuin) |
+| <img loading="lazy" src="icons/atuin-server.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***atuin-server***](apps/atuin-server.md) | *Magical shell history (server).*..[ *read more* ](apps/atuin-server.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/atuin-server) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/atuin-server) |
 | <img loading="lazy" src="icons/azaharplus-pkg-extractor.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***azaharplus-pkg-extractor***](apps/azaharplus-pkg-extractor.md) | *Standalone PKG extractor CLI based on code that used to be in ShadPS4 PlayStation 4 emulator written in C++.*..[ *read more* ](apps/azaharplus-pkg-extractor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/azaharplus-pkg-extractor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/azaharplus-pkg-extractor) |
 | <img loading="lazy" src="icons/b2sum.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***b2sum***](apps/b2sum.md) | *Check BLAKE2 message digest. This is part of "am-utils" suite.*..[ *read more* ](apps/b2sum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/b2sum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/b2sum) |
 | <img loading="lazy" src="icons/bandwhich.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bandwhich***](apps/bandwhich.md) | *Terminal bandwidth utilization tool.*..[ *read more* ](apps/bandwhich.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bandwhich) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bandwhich) |

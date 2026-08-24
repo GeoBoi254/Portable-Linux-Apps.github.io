@@ -1044,6 +1044,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "atuin-server",
+    "description": "Magical shell history (server)...",
+    "icon": "https://portable-linux-apps.github.io/icons/atuin-server.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "audacious",
     "description": "Unofficial. An open source audio and music player, descendant of XMMS...",
     "icon": "https://portable-linux-apps.github.io/icons/audacious.png",
@@ -12690,6 +12696,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "openssh-gui",
+    "description": "A simple GUI front-end for OpenSSH for Windows, Linux and Mac!...",
+    "icon": "https://portable-linux-apps.github.io/icons/openssh-gui.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "openstickies",
     "description": "Sticky notes for your desktop. Simple, fast, private. Drop files, paste screenshots, set reminders, keep things visible where you work...",
     "icon": "https://portable-linux-apps.github.io/icons/openstickies.png",
@@ -17956,6 +17968,12 @@
     "description": "Official desktop version of Telegram messaging app...",
     "icon": "https://portable-linux-apps.github.io/icons/telegram.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "telegram-drive",
+    "description": "Turn your Telegram account into an unlimited, secure cloud storage drive. It provides a desktop-style workspace over Saved Messages and Telegram channels, with uploads, downloads, folders, previews, streaming, sharing tools, a local REST API, themes, localization, and an opt-in encrypted-transfer mode...",
+    "icon": "https://portable-linux-apps.github.io/icons/telegram-drive.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "telly-skout",
