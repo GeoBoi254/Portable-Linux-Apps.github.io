@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **88** programs for this category.
+#### Here are listed **87** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -105,7 +105,6 @@
 | <img loading="lazy" src="icons/armcord.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***armcord***](apps/armcord.md) | *Custom client designed to enhance your Discord experience.*..[ *read more* ](apps/armcord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/armcord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/armcord) |
 | <img loading="lazy" src="icons/bastyon.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bastyon***](apps/bastyon.md) | *Decentralized social network based on the blockchain.*..[ *read more* ](apps/bastyon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bastyon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bastyon) |
 | <img loading="lazy" src="icons/betterbird.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***betterbird***](apps/betterbird.md) | *Unofficial, Betterbird is a fine-tuned version of Mozilla Thunderbird, a free and open-source email client.*..[ *read more* ](apps/betterbird.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/betterbird) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/betterbird) |
-| <img loading="lazy" src="icons/botclient.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***botclient***](apps/botclient.md) | *A discord botclient built with Electron and React.*..[ *read more* ](apps/botclient.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/botclient) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/botclient) |
 | <img loading="lazy" src="icons/bts-ce-lite.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bts-ce-lite***](apps/bts-ce-lite.md) | *Telecommunication network management application.*..[ *read more* ](apps/bts-ce-lite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bts-ce-lite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bts-ce-lite) |
 | <img loading="lazy" src="icons/caprine.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***caprine***](apps/caprine.md) | *Unofficial, elegant privacy focused Facebook Messenger app.*..[ *read more* ](apps/caprine.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/caprine) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/caprine) |
 | <img loading="lazy" src="icons/chatterino2.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***chatterino2***](apps/chatterino2.md) | *Second installment of the Twitch chat client.*..[ *read more* ](apps/chatterino2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatterino2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatterino2) |

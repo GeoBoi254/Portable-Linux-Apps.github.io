@@ -1956,12 +1956,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "botclient",
-    "description": "A discord botclient built with Electron and React...",
-    "icon": "https://portable-linux-apps.github.io/icons/botclient.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "botframework-emulator",
     "description": "Test and debug chat bots built with Bot Framework SDK...",
     "icon": "https://portable-linux-apps.github.io/icons/botframework-emulator.png",
