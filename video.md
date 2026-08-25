@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **172** programs for this category.
+#### Here are listed **173** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -170,6 +170,7 @@
 | <img loading="lazy" src="icons/mp4grep.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mp4grep***](apps/mp4grep.md) | *CLI for transcribing and searching audio/video files.*..[ *read more* ](apps/mp4grep.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mp4grep) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mp4grep) |
 | <img loading="lazy" src="icons/mpc-qt.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mpc-qt***](apps/mpc-qt.md) | *Media Player Classic Qute Theater.*..[ *read more* ](apps/mpc-qt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mpc-qt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mpc-qt) |
 | <img loading="lazy" src="icons/mpv.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mpv***](apps/mpv.md) | *Unofficial, A free, open source, and cross-platform media player, Multiple-choices.*..[ *read more* ](apps/mpv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mpv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mpv) |
+| <img loading="lazy" src="icons/mpv-nightly.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***mpv-nightly***](apps/mpv-nightly.md) | *Unofficial nightly build, A free, open source, and cross-platform media player.*..[ *read more* ](apps/mpv-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mpv-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mpv-nightly) |
 | <img loading="lazy" src="icons/muffon.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***muffon***](apps/muffon.md) | *Music streaming browser,retrieves audio, video and metadata.*..[ *read more* ](apps/muffon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/muffon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/muffon) |
 | <img loading="lazy" src="icons/nazuna.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***nazuna***](apps/nazuna.md) | *Download Twitter videos using your terminal!*..[ *read more* ](apps/nazuna.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nazuna) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nazuna) |
 | <img loading="lazy" src="icons/negpy.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***negpy***](apps/negpy.md) | *Tool for processing film negatives.*..[ *read more* ](apps/negpy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/negpy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/negpy) |

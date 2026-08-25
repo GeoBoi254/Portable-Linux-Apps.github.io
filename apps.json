@@ -11196,6 +11196,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "mpv-nightly",
+    "description": "Unofficial nightly build, A free, open source, and cross-platform media player...",
+    "icon": "https://portable-linux-apps.github.io/icons/mpv-nightly.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "mpz",
     "description": "Folder player for big local music collections...",
     "icon": "https://portable-linux-apps.github.io/icons/mpz.png",
