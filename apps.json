@@ -9895,9 +9895,9 @@
   },
   {
     "packageName": "linuxqq",
-    "description": "New Linux QQ based on Electron...",
+    "description": "腾讯QQ), also known as QQ, is an instant messaging software service and web portal developed by the Chinese technology company Tencent...",
     "icon": "https://portable-linux-apps.github.io/icons/linuxqq.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "linuxtoys",
