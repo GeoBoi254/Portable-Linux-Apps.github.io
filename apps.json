@@ -1032,6 +1032,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "asyar",
+    "description": "A fast, open-source launcher with the power of Raycast, speed of Alfred and privacy by design...",
+    "icon": "https://portable-linux-apps.github.io/icons/asyar.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "atomicwallet",
     "description": "Atomic vue-electron...",
     "icon": "https://portable-linux-apps.github.io/icons/atomicwallet.png",
@@ -3222,6 +3228,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "copyq-enhanced",
+    "description": "Unofficial AppImage of CopyQ Fork made using the Anylinux-AppImages tools...",
+    "icon": "https://portable-linux-apps.github.io/icons/copyq-enhanced.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "copytranslator",
     "description": "Foreign language reading and translation assistant...",
     "icon": "https://portable-linux-apps.github.io/icons/copytranslator.png",
@@ -3532,6 +3544,12 @@
     "description": "Map Editor for CrossCode...",
     "icon": "https://portable-linux-apps.github.io/icons/crosscode-map-editor.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "crossdirstat",
+    "description": "Free open-source cross-platform file & directory statistics...",
+    "icon": "https://portable-linux-apps.github.io/icons/crossdirstat.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "crossmacro",
@@ -4437,7 +4455,7 @@
     "packageName": "draw.io",
     "description": "draw.io desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/draw.io.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "drawish",
@@ -4582,6 +4600,12 @@
     "description": "It is an application that can find duplicated images (jpg, png, bitmap, etc) in a collection...",
     "icon": "https://portable-linux-apps.github.io/icons/duplicate-image-finder.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "duplicati",
+    "description": "Store securely encrypted backups on cloud storage services...",
+    "icon": "https://portable-linux-apps.github.io/icons/duplicati.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "dusklight",
@@ -9502,6 +9526,12 @@
     "description": "LAN file transfer app for any kind and size of files and folders...",
     "icon": "https://portable-linux-apps.github.io/icons/lanshare.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "lap",
+    "description": "An offline-first photo manager for large local libraries...",
+    "icon": "https://portable-linux-apps.github.io/icons/lap.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "lapce",
@@ -17946,6 +17976,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "tectonic",
+    "description": "A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive...",
+    "icon": "https://portable-linux-apps.github.io/icons/tectonic.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "tee",
     "description": "Read from standard input and write to standard output and. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/tee.png",
@@ -19954,6 +19990,12 @@
     "description": "A beautiful, modern & feature-rich Terminal Emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/wives.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "wizestream",
+    "description": ".Electron based private streaming client...",
+    "icon": "https://portable-linux-apps.github.io/icons/wizestream.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "wiznoteplus",
