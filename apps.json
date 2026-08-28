@@ -9630,6 +9630,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "legacylauncher",
+    "description": "Unofficial AppImage for Legacy Launcher, a Minecraft launcher that is stable, fast and simple...",
+    "icon": "https://portable-linux-apps.github.io/icons/legacylauncher.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "legcord",
     "description": "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight...",
     "icon": "https://portable-linux-apps.github.io/icons/legcord.png",
