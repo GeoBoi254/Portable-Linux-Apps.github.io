@@ -3102,6 +3102,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "comic-strip-browser",
+    "description": "A standalone PyQt6 application for browsing a selection of comic strips from GoComics and Comics Kingdom...",
+    "icon": "https://portable-linux-apps.github.io/icons/comic-strip-browser.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "comics-downloader",
     "description": "Tool to download comics and manga in pdf/epub/cbr/cbz from a website...",
     "icon": "https://portable-linux-apps.github.io/icons/comics-downloader.png",
@@ -18466,6 +18472,12 @@
     "description": "Cli tool to inspect/create/edit BitTorrent metafiles...",
     "icon": "https://portable-linux-apps.github.io/icons/torrenttools.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "torrserver",
+    "description": "Torrent stream server, a program that allows users to view torrents online without the need for preliminary file downloading. The core functionality of TorrServer includes caching torrents and subsequent data transfer via the HTTP protocol, allowing the cache size to be adjusted according to the system parameters and the user's internet connection speed...",
+    "icon": "https://portable-linux-apps.github.io/icons/torrserver.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "toru",
