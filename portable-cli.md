@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **495** command line utilities: static and dynamic ELF binaries, or simple scripts.
+#### Here are listed **496** command line utilities: static and dynamic ELF binaries, or simple scripts.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -536,6 +536,7 @@
 | <img loading="lazy" src="icons/tty.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***tty***](apps/tty.md) | *Print the file name of the terminal connected to standard. This is part of "am-utils" suite.*..[ *read more* ](apps/tty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tty) |
 | <img loading="lazy" src="icons/ttyper.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ttyper***](apps/ttyper.md) | *Terminal-based typing test.*..[ *read more* ](apps/ttyper.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ttyper) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ttyper) |
 | <img loading="lazy" src="icons/tuxplorer.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***tuxplorer***](apps/tuxplorer.md) | *Tuxplorer is a terminal based file explorer.*..[ *read more* ](apps/tuxplorer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tuxplorer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tuxplorer) |
+| <img loading="lazy" src="icons/tx.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***tx***](apps/tx.md) | *The Transifex command-line client.*..[ *read more* ](apps/tx.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tx) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tx) |
 | <img loading="lazy" src="icons/typioca.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***typioca***](apps/typioca.md) | *Cozy typing speed tester in terminal.*..[ *read more* ](apps/typioca.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/typioca) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/typioca) |
 | <img loading="lazy" src="icons/ul.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***ul***](apps/ul.md) | *Translate underline sequences for terminals. This is part of "am-utils" suite.*..[ *read more* ](apps/ul.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ul) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ul) |
 | <img loading="lazy" src="icons/umount.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***umount***](apps/umount.md) | *Unmount filesystems. This is part of "am-utils" suite.*..[ *read more* ](apps/umount.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/umount) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/umount) |

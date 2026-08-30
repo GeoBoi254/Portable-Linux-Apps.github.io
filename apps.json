@@ -18774,6 +18774,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "tx",
+    "description": "The Transifex command-line client...",
+    "icon": "https://portable-linux-apps.github.io/icons/tx.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "typioca",
     "description": "Cozy typing speed tester in terminal...",
     "icon": "https://portable-linux-apps.github.io/icons/typioca.png",
