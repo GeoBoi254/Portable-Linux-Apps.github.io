@@ -16956,12 +16956,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "spmp",
-    "description": "A YouTube Music client with a focus on customisation of colours and song metadata...",
-    "icon": "https://portable-linux-apps.github.io/icons/spmp.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "sponge-hash-aes256",
     "description": "A sponge-based secure hash function that uses AES-256 as its internal PRF...",
     "icon": "https://portable-linux-apps.github.io/icons/sponge-hash-aes256.png",
