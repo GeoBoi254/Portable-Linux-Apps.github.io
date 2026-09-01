@@ -8743,9 +8743,9 @@
   },
   {
     "packageName": "kate",
-    "description": "A multi-document editor part of KDE. This is part of \"kdeutils\"...",
+    "description": "Unofficial Anylinux AppImage of Kate (and kwrite), a feature-packed text editor by KDE...",
     "icon": "https://portable-linux-apps.github.io/icons/kate.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "katomic",
