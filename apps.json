@@ -391,7 +391,7 @@
   },
   {
     "packageName": "am-gui",
-    "description": "AM-GUI is a graphical Front for AM...",
+    "description": "A simple, experimental graphical frontend for AM...",
     "icon": "https://portable-linux-apps.github.io/icons/am-gui.png",
     "arch": ["x86_64"]
   },
@@ -6825,12 +6825,6 @@
     "packageName": "gitlight",
     "description": "GitHub & GitLab notifications on your desktop...",
     "icon": "https://portable-linux-apps.github.io/icons/gitlight.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "gitnote",
-    "description": "A modern note taking app based on GIT...",
-    "icon": "https://portable-linux-apps.github.io/icons/gitnote.png",
     "arch": ["x86_64"]
   },
   {
