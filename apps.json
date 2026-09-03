@@ -14958,6 +14958,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "radmin-vpn",
+    "description": "Run Radmin VPN on Linux via Wine — custom driver, TAP bridge, zero packet loss...",
+    "icon": "https://portable-linux-apps.github.io/icons/radmin-vpn.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "rainbow-board",
     "description": "22nd Century Whiteboard App...",
     "icon": "https://portable-linux-apps.github.io/icons/rainbow-board.png",
