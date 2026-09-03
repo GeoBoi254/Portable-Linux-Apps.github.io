@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **13** programs for this category.
+#### Here are listed **14** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -112,6 +112,7 @@
 | <img loading="lazy" src="icons/wine-stable.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wine-stable***](apps/wine-stable.md) | *Unofficial. Compatibility layer to run x86_64 Windows programs, Stable.*..[ *read more* ](apps/wine-stable.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-stable) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-stable) |
 | <img loading="lazy" src="icons/wine-staging.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wine-staging***](apps/wine-staging.md) | *Unofficial. Compatibility layer to run x86_64 Windows programs, Staging.*..[ *read more* ](apps/wine-staging.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging) |
 | <img loading="lazy" src="icons/wine-staging-ge-proton.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wine-staging-ge-proton***](apps/wine-staging-ge-proton.md) | *Unofficial. Run x86_64 Windows programs, Staging GE Proton.*..[ *read more* ](apps/wine-staging-ge-proton.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging-ge-proton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging-ge-proton) |
+| <img loading="lazy" src="icons/wine32-cli.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wine32-cli***](apps/wine32-cli.md) | *Unofficial WINE Anylinux AppImage for 32 bit CLI windows apps.*..[ *read more* ](apps/wine32-cli.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine32-cli) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine32-cli) |
 | <img loading="lazy" src="icons/wine32-deploy.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wine32-deploy***](apps/wine32-deploy.md) | *Tool for creating AppImages for 32-bit Microsoft Windows apps.*..[ *read more* ](apps/wine32-deploy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine32-deploy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine32-deploy) |
 
 

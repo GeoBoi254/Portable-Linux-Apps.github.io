@@ -13734,6 +13734,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "pixelflasher",
+    "description": "An application to flash (update) Pixel™ phones (possibly all Google™ made phones/tablets, YMMV...",
+    "icon": "https://portable-linux-apps.github.io/icons/pixelflasher.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "pixelhopper",
     "description": "Animated GIF player for Linux (X11)...",
     "icon": "https://portable-linux-apps.github.io/icons/pixelhopper.png",
@@ -19959,6 +19965,12 @@
     "packageName": "wine-staging-ge-proton",
     "description": "Unofficial. Run x86_64 Windows programs, Staging GE Proton...",
     "icon": "https://portable-linux-apps.github.io/icons/wine-staging-ge-proton.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "wine32-cli",
+    "description": "Unofficial WINE Anylinux AppImage for 32 bit CLI windows apps...",
+    "icon": "https://portable-linux-apps.github.io/icons/wine32-cli.png",
     "arch": ["x86_64"]
   },
   {
