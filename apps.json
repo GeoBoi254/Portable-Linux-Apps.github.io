@@ -13872,6 +13872,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "playtorrio",
+    "description": "All-in-One Media Streaming — Movies, Series, Manga, Audiobooks, and Music...",
+    "icon": "https://portable-linux-apps.github.io/icons/playtorrio.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "playyourdamnturn",
     "description": "Desktop Client to assist with playing your damn turns...",
     "icon": "https://portable-linux-apps.github.io/icons/playyourdamnturn.png",

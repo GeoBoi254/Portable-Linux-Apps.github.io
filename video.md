@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **174** programs for this category.
+#### Here are listed **175** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -190,6 +190,7 @@
 | <img loading="lazy" src="icons/parsec-linux.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***parsec-linux***](apps/parsec-linux.md) | *Parsec game streaming client.*..[ *read more* ](apps/parsec-linux.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parsec-linux) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parsec-linux) |
 | <img loading="lazy" src="icons/phreshplayer.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***phreshplayer***](apps/phreshplayer.md) | *Electron based media player app.*..[ *read more* ](apps/phreshplayer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/phreshplayer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/phreshplayer) |
 | <img loading="lazy" src="icons/playerctl.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***playerctl***](apps/playerctl.md) | *Unofficial, MPRIS media player command-line controller.*..[ *read more* ](apps/playerctl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playerctl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playerctl) |
+| <img loading="lazy" src="icons/playtorrio.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***playtorrio***](apps/playtorrio.md) | *All-in-One Media Streaming — Movies, Series, Manga, Audiobooks, and Music.*..[ *read more* ](apps/playtorrio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/playtorrio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/playtorrio) |
 | <img loading="lazy" src="icons/pstube.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***pstube***](apps/pstube.md) | *Watch and download videos without ads.*..[ *read more* ](apps/pstube.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pstube) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pstube) |
 | <img loading="lazy" src="icons/qimgv.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***qimgv***](apps/qimgv.md) | *Unofficial, Image viewer. Fast, easy to use. Optional video support.*..[ *read more* ](apps/qimgv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qimgv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qimgv) |
 | <img loading="lazy" src="icons/qmmp.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***qmmp***](apps/qmmp.md) | *Unofficial, Qt-based multimedia player.*..[ *read more* ](apps/qmmp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmmp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmmp) |
