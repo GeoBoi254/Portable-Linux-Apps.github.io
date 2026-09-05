@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **16** programs for this category.
+#### Here are listed **17** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -116,6 +116,7 @@
 | <img loading="lazy" src="icons/steamdepotdownloadergui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***steamdepotdownloadergui***](apps/steamdepotdownloadergui.md) | *Easily download older versions of games from Steam.*..[ *read more* ](apps/steamdepotdownloadergui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/steamdepotdownloadergui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/steamdepotdownloadergui) |
 | <img loading="lazy" src="icons/vapour.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***vapour***](apps/vapour.md) | *An alternative open source Steam client.*..[ *read more* ](apps/vapour.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vapour) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vapour) |
 | <img loading="lazy" src="icons/wlx-overlay-s.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wlx-overlay-s***](apps/wlx-overlay-s.md) | *Access your Wayland/X11 desktop from Monado/WiVRn/SteamVR.*..[ *read more* ](apps/wlx-overlay-s.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wlx-overlay-s) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wlx-overlay-s) |
+| <img loading="lazy" src="icons/xstreamingdesktop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***xstreamingdesktop***](apps/xstreamingdesktop.md) | *Xbox streaming application, XStreaming client for windows/macOS/Linux(steamOS).*..[ *read more* ](apps/xstreamingdesktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xstreamingdesktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xstreamingdesktop) |
 
 
 ---
