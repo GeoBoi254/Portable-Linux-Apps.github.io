@@ -18960,12 +18960,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "unofficial-zalo",
-    "description": "Unofficial Zalo App...",
-    "icon": "https://portable-linux-apps.github.io/icons/unofficial-zalo.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "unreel",
     "description": "A GUI to create Reveal presentations...",
     "icon": "https://portable-linux-apps.github.io/icons/unreel.png",
@@ -20817,6 +20811,12 @@
     "packageName": "yuview",
     "description": "YUV player with an advanced analytic toolset...",
     "icon": "https://portable-linux-apps.github.io/icons/yuview.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "zalo",
+    "description": "An unofficial, community-driven port of the Zalo desktop application for Linux only...",
+    "icon": "https://portable-linux-apps.github.io/icons/zalo.png",
     "arch": ["x86_64"]
   },
   {
