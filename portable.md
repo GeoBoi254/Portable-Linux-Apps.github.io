@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **586** portable programs NOT in AppImage format.
+#### Here are listed **587** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -677,6 +677,7 @@
 | <img loading="lazy" src="icons/yup.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***yup***](apps/yup.md) | *Arch Linux AUR Helper with ncurses functionality and better searching and sorting.*..[ *read more* ](apps/yup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yup) |
 | <img loading="lazy" src="icons/zap.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***zap***](apps/zap.md) | *Delightful command line AppImage package manager for appimage.github.io.*..[ *read more* ](apps/zap.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zap) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zap) |
 | <img loading="lazy" src="icons/zcat.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***zcat***](apps/zcat.md) | *Zcat - compress or expand files. This is part of "am-utils" suite.*..[ *read more* ](apps/zcat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zcat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zcat) |
+| <img loading="lazy" src="icons/zcode.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***zcode***](apps/zcode.md) | *ZCode is next-gen vibe coding for complex goals—with multiple agents and control from anywhere.*..[ *read more* ](apps/zcode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zcode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zcode) |
 | <img loading="lazy" src="icons/zed.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***zed***](apps/zed.md) | *High-performance, multiplayer code editor from the creators of Atom.*..[ *read more* ](apps/zed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zed) |
 | <img loading="lazy" src="icons/zellij.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***zellij***](apps/zellij.md) | *A terminal workspace with batteries included.*..[ *read more* ](apps/zellij.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zellij) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zellij) |
 | <img loading="lazy" src="icons/zfind.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***zfind***](apps/zfind.md) | *Search files, even inside tar/zip/7z/rar using a SQL-WHERE filter.*..[ *read more* ](apps/zfind.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zfind) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zfind) |

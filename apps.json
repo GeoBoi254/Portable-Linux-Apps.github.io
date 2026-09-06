@@ -12906,6 +12906,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "opengoal",
+    "description": "Cool decompilation client for the Jak and Daxter games, 1 to 3...",
+    "icon": "https://portable-linux-apps.github.io/icons/opengoal.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "opengothic",
     "description": "Unofficial AppImage of OpenGothic...",
     "icon": "https://portable-linux-apps.github.io/icons/opengothic.png",
@@ -21363,6 +21369,12 @@
     "packageName": "zcat",
     "description": "Zcat - compress or expand files. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/zcat.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "zcode",
+    "description": "ZCode is next-gen vibe coding for complex goals—with multiple agents and control from anywhere...",
+    "icon": "https://portable-linux-apps.github.io/icons/zcode.png",
     "arch": ["x86_64","aarch64"]
   },
   {
