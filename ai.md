@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **115** programs for this category.
+#### Here are listed **114** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -116,7 +116,6 @@
 | <img loading="lazy" src="icons/bezique.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bezique***](apps/bezique.md) | *Plays bezique game against the AI.*..[ *read more* ](apps/bezique.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bezique) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bezique) |
 | <img loading="lazy" src="icons/binglite.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***binglite***](apps/binglite.md) | *A lightweight new Bing (AI chat) desktop application based on Tauri.*..[ *read more* ](apps/binglite.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/binglite) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/binglite) |
 | <img loading="lazy" src="icons/bottlebats.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bottlebats***](apps/bottlebats.md) | *Client for the 2018 edition of the BottleBats AI competition.*..[ *read more* ](apps/bottlebats.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bottlebats) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bottlebats) |
-| <img loading="lazy" src="icons/browseros.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***browseros***](apps/browseros.md) | *The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.*..[ *read more* ](apps/browseros.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/browseros) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/browseros) |
 | <img loading="lazy" src="icons/chat-gpt.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***chat-gpt***](apps/chat-gpt.md) | *Unofficial. ChatGPT Desktop Application.*..[ *read more* ](apps/chat-gpt.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chat-gpt) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chat-gpt) |
 | <img loading="lazy" src="icons/chatall.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***chatall***](apps/chatall.md) | *Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca and more.*..[ *read more* ](apps/chatall.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatall) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatall) |
 | <img loading="lazy" src="icons/chatbox.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***chatbox***](apps/chatbox.md) | *Chatbox is a desktop app for GPT-4 / GPT-3.5, OpenAI API.*..[ *read more* ](apps/chatbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chatbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chatbox) |

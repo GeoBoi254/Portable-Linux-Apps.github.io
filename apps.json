@@ -36,12 +36,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "4ktube",
-    "description": "4KTUBE is a fast, powerful, and user-friendly application designed to Download YouTube Videos, Playlists, and Music in high-definition (HD, 4K, 8K) effortlessly...",
-    "icon": "https://portable-linux-apps.github.io/icons/4ktube.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "4kwall",
     "description": "Browse, search, download, organize and automatically rotate millions of beautiful HD, 4K & 8K wallpapers...",
     "icon": "https://portable-linux-apps.github.io/icons/4kwall.png",
@@ -2169,12 +2163,6 @@
     "packageName": "brisqi",
     "description": "Offline-first Personal Kanban app...",
     "icon": "https://portable-linux-apps.github.io/icons/brisqi.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "browseros",
-    "description": "The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia...",
-    "icon": "https://portable-linux-apps.github.io/icons/browseros.png",
     "arch": ["x86_64"]
   },
   {
