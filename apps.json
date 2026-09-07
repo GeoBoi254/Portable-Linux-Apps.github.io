@@ -12606,6 +12606,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "oleafly",
+    "description": "The local-first AI assisted research workspace for scientific writing & publishing...",
+    "icon": "https://portable-linux-apps.github.io/icons/oleafly.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "olive",
     "description": "Free open-source non-linear video editor, nightly build...",
     "icon": "https://portable-linux-apps.github.io/icons/olive.png",
@@ -13590,6 +13596,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "pawse",
+    "description": "A fast, native music player for your local library, built in Rust and GPUI, with a buttery-smooth, customizable 120+ fps interface, exclusive (bit-perfect) output, and a rich feature set...",
+    "icon": "https://portable-linux-apps.github.io/icons/pawse.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "pay-respects",
     "description": "Terminal command correction, alternative to thefuck written in Rust...",
     "icon": "https://portable-linux-apps.github.io/icons/pay-respects.png",
@@ -13749,6 +13761,12 @@
     "packageName": "peep",
     "description": "The CLI text viewer tool that works like less command on small pane within the terminal window...",
     "icon": "https://portable-linux-apps.github.io/icons/peep.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "peersky-browser",
+    "description": "A peer-to-peer web browser...",
+    "icon": "https://portable-linux-apps.github.io/icons/peersky-browser.png",
     "arch": ["x86_64"]
   },
   {
@@ -19875,6 +19893,12 @@
     "packageName": "virtualbox",
     "description": "Powerful x86 virtualization for enterprise as well as home use...",
     "icon": "https://portable-linux-apps.github.io/icons/virtualbox.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "visigrid",
+    "description": "A fast, keyboard-first, local-only spreadsheet for people who care about flow...",
+    "icon": "https://portable-linux-apps.github.io/icons/visigrid.png",
     "arch": ["x86_64"]
   },
   {
