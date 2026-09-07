@@ -1026,6 +1026,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "asbru-cm",
+    "description": "A user interface that helps organizing remote terminal sessions and automating repetitive tasks...",
+    "icon": "https://portable-linux-apps.github.io/icons/asbru-cm.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "ascendara",
     "description": "Skip extracting files, navigating setup processes, or any unnecessary hassles...",
     "icon": "https://portable-linux-apps.github.io/icons/ascendara.png",
@@ -9492,6 +9498,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "kopuz",
+    "description": "A modern, lightweight, music player application built with Rust and the Dioxus framework. It provides a clean and responsive interface for managing and enjoying your local music collection...",
+    "icon": "https://portable-linux-apps.github.io/icons/kopuz.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "koreader",
     "description": "A document viewer for E Ink devices. Supported fileformats include EPUB, PDF, DjVu, XPS, CBT, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, DOC, MOBI and ZIP files. It’s available for Kindle, Kobo, PocketBook, Android and desktop Linux...",
     "icon": "https://portable-linux-apps.github.io/icons/koreader.png",
@@ -10063,7 +10075,7 @@
   },
   {
     "packageName": "liko-12",
-    "description": "A fantasy computer that you can use to make, play and share tiny retro-looking games and programs...",
+    "description": "An open source fantasy computer made using LÖVE..",
     "icon": "https://portable-linux-apps.github.io/icons/liko-12.png",
     "arch": ["x86_64"]
   },
@@ -11004,6 +11016,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "meshtastic-android",
+    "description": "The Meshtastic client for Android and Compose Desktop — an app for communicating over open-source mesh radios...",
+    "icon": "https://portable-linux-apps.github.io/icons/meshtastic-android.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "meta-grabber",
     "description": "A tool to grab metadata for tv shows and rename files on PC...",
     "icon": "https://portable-linux-apps.github.io/icons/meta-grabber.png",
@@ -11560,6 +11578,12 @@
     "description": "A Tor-based Web Browser...",
     "icon": "https://portable-linux-apps.github.io/icons/mullvad-browser.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "multica",
+    "description": "Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable. Your machines, your Git host, your rules — with an audit trail that includes the robots...",
+    "icon": "https://portable-linux-apps.github.io/icons/multica.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "multimc",
@@ -13188,6 +13212,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "orca",
+    "description": "The ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS...",
+    "icon": "https://portable-linux-apps.github.io/icons/orca.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "orca-note",
     "description": "A note taking application that is good both for outlining and long-form writing...",
     "icon": "https://portable-linux-apps.github.io/icons/orca-note.png",
@@ -13798,6 +13828,12 @@
     "description": "A desktop application for Penpot, an open-source design tool...",
     "icon": "https://portable-linux-apps.github.io/icons/penpot.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "pensela",
+    "description": "The Swiss Army Knife of Screen Annotation Tools...",
+    "icon": "https://portable-linux-apps.github.io/icons/pensela.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "perfect-dark",
@@ -15186,6 +15222,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "qtscrcpy",
+    "description": "Android real-time display control software...",
+    "icon": "https://portable-linux-apps.github.io/icons/qtscrcpy.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "quamodbusclient",
     "description": "Modbus to OPC UA Gateway..",
     "icon": "https://portable-linux-apps.github.io/icons/quamodbusclient.png",
@@ -16353,6 +16395,12 @@
     "packageName": "screencloud",
     "description": "Capture and share screenshots easily...",
     "icon": "https://portable-linux-apps.github.io/icons/screencloud.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "screentranslator",
+    "description": "Screen capture, OCR and translation tool...",
+    "icon": "https://portable-linux-apps.github.io/icons/screentranslator.png",
     "arch": ["x86_64"]
   },
   {
@@ -18228,6 +18276,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "syncthing-gtk",
+    "description": "GTK3 & Python based GUI and notification area icon for Syncthing...",
+    "icon": "https://portable-linux-apps.github.io/icons/syncthing-gtk.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "syncthingctl",
     "description": "Tray control application and Dolphin/Plasma integration for Syncthing...",
     "icon": "https://portable-linux-apps.github.io/icons/syncthingctl.png",
@@ -18339,6 +18393,12 @@
     "packageName": "tag-editor",
     "description": "Tag Editor, supports MP4, ID3, Vorbis, Opus, FLAC and Matroska...",
     "icon": "https://portable-linux-apps.github.io/icons/tag-editor.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "tageditor",
+    "description": "A tag editor with a Qt GUI and a command-line interface. It supports MP4 (iTunes), ID3, Vorbis, Opus, FLAC, and Matroska...",
+    "icon": "https://portable-linux-apps.github.io/icons/tageditor.png",
     "arch": ["x86_64"]
   },
   {
@@ -18814,6 +18874,12 @@
     "description": "Run a command with a time limit. This is part of \"am-utils\" suite...",
     "icon": "https://portable-linux-apps.github.io/icons/timeout.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "timg",
+    "description": "A terminal image and video viewer...",
+    "icon": "https://portable-linux-apps.github.io/icons/timg.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "tipitaka-pali-reader",
@@ -19674,6 +19740,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "vengi",
+    "description": "Free and open source voxel art tools - editor, thumbnailer and format converter...",
+    "icon": "https://portable-linux-apps.github.io/icons/vengi.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "ventoy",
     "description": "Tool to create bootable USB drive for ISO/WIM/IMG/VHDx/EFI files...",
     "icon": "https://portable-linux-apps.github.io/icons/ventoy.png",
@@ -20529,6 +20601,12 @@
     "packageName": "wine32-deploy",
     "description": "Tool for creating AppImages for 32-bit Microsoft Windows apps...",
     "icon": "https://portable-linux-apps.github.io/icons/wine32-deploy.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "winpodx",
+    "description": "Windows apps as native Linux windows — real icons, real WM_CLASS, pin-to-taskbar. FreeRDP RemoteApp over dockur/windows. No permanent full-screen desktop, no manual setup...",
+    "icon": "https://portable-linux-apps.github.io/icons/winpodx.png",
     "arch": ["x86_64"]
   },
   {
@@ -21471,6 +21549,12 @@
     "packageName": "zenroomstudio",
     "description": "Extensible IDE which targets multiple dev platforms...",
     "icon": "https://portable-linux-apps.github.io/icons/zenroomstudio.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "zeroclaw",
+    "description": "one Rust binary on your machine, your keys or your local models...",
+    "icon": "https://portable-linux-apps.github.io/icons/zeroclaw.png",
     "arch": ["x86_64"]
   },
   {
