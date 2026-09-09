@@ -19668,6 +19668,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "v2rayN",
+    "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others...",
+    "icon": "https://portable-linux-apps.github.io/icons/v2rayN.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "vacuumtube",
     "description": "YouTube Leanback on the desktop, with enhancements...",
     "icon": "https://portable-linux-apps.github.io/icons/vacuumtube.png",
