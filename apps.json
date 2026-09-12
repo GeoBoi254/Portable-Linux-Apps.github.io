@@ -642,6 +642,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "any-listen-desktop",
+    "description": "A cross-platform private music playback service...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/any-listen-desktop.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "anydesk",
     "description": "Remote desktop application...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/anydesk.png",
