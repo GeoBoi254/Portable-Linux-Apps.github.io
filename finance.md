@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **64** programs for this category.
+#### Here are listed **65** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -163,6 +163,7 @@
 | <img loading="lazy" src="icons/trinity-desktop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***trinity-desktop***](apps/trinity-desktop.md) | *Desktop wallet for IOTA.*..[ *read more* ](apps/trinity-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/trinity-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/trinity-desktop) |
 | <img loading="lazy" src="icons/verto.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***verto***](apps/verto.md) | *A multi-currency crypto wallet with support for EOS & VTX.*..[ *read more* ](apps/verto.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/verto) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/verto) |
 | <img loading="lazy" src="icons/wallettech.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wallettech***](apps/wallettech.md) | *BytechCoin GUI Wallet.*..[ *read more* ](apps/wallettech.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wallettech) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wallettech) |
+| <img loading="lazy" src="icons/wealthfolio.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***wealthfolio***](apps/wealthfolio.md) | *A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.*..[ *read more* ](apps/wealthfolio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wealthfolio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wealthfolio) |
 | <img loading="lazy" src="icons/whirlpool-gui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***whirlpool-gui***](apps/whirlpool-gui.md) | *Desktop GUI for Whirlpool by Samourai-Wallet.*..[ *read more* ](apps/whirlpool-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whirlpool-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whirlpool-gui) |
 
 

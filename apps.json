@@ -12,6 +12,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "0xchat-app-main",
+    "description": "Security chat app built on Nostr..",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/0xchat-app-main.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "12to11",
     "description": "Unofficial. Tool for running Wayland applications on an X server...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/12to11.png",
@@ -2566,6 +2572,12 @@
     "description": "Command-line program for Content-Based Image Retrieval of images and videos. Includes tools for general search and de-duplication...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cbird.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "cc-switch",
+    "description": "ccswitch.io..",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cc-switch.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "cccp",
@@ -6774,6 +6786,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "genoffice",
+    "description": "Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing for macOS, Windows & Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/genoffice.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "geofs",
     "description": "GeoFS flight sim as a desktop application...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/geofs.png",
@@ -7900,6 +7918,12 @@
     "description": "A puppet manager for NationStates...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/henson.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "hermes",
+    "description": "Desktop Companion for Hermes Agent...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hermes.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "hermesmessenger",
@@ -10332,9 +10356,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "losslesscut",
+    "packageName": "lossless-cut",
     "description": "The swiss army knife of lossless video/audio editing...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/losslesscut.png",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lossless-cut.png",
     "arch": ["x86_64"]
   },
   {
@@ -12240,6 +12264,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "note-gen",
+    "description": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/note-gen.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "notedown",
     "description": "Note taking with react + rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/notedown.png",
@@ -12864,6 +12894,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "openbitfun",
+    "description": "OpenBitFun is an open-source desktop workspace for AI agents. It brings together a fast, reliable Rust Agent Runtime, a powerful, flexible Agent Harness, and a polished desktop experience to make working with agents straightforward...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openbitfun.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "openblok",
     "description": "A customizable falling block puzzle game like tetris...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openblok.png",
@@ -12945,6 +12981,12 @@
     "packageName": "opengothic",
     "description": "Night of the Raven...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opengothic.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "openhands",
+    "description": "AI-Driven Development...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openhands.png",
     "arch": ["x86_64"]
   },
   {
@@ -13551,6 +13593,12 @@
     "packageName": "parsec-linux",
     "description": "Parsec game streaming client...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/parsec-linux.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "paseo",
+    "description": "Orchestrate multiple coding agents from desktop and mobile...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/paseo.png",
     "arch": ["x86_64"]
   },
   {
@@ -19896,6 +19944,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "video2x",
+    "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/video2x.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "videomass",
     "description": "Free, open source and cross-platform GUI for FFmpeg...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/videomass.png",
@@ -20109,6 +20163,12 @@
     "packageName": "vocalinux",
     "description": "Free, open-source, 100% offline voice dictation for Linux. Speak and type anywhere via whisper.cpp, Whisper & VOSK engines, GPU-accelerated, works on X11 + Wayland!...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vocalinux.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "voicestudio",
+    "description": "The open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/voicestudio.png",
     "arch": ["x86_64"]
   },
   {
@@ -20340,6 +20400,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "wealthfolio",
+    "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wealthfolio.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "weatherdump",
     "description": "A WeatherDump GUI...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/weatherdump.png",
@@ -20404,6 +20470,12 @@
     "description": "WeekToDo is a Free and Open Source Weekly Planner...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/weektodo.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "wekan",
+    "description": "The Open Source kanban, built with Meteor...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wekan.png",
+    "arch": ["x86_64","aarch64","i686"]
   },
   {
     "packageName": "westeroscraftlauncher",
@@ -20775,6 +20847,12 @@
     "packageName": "world-monitor",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/world-monitor.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/worldmonitor.png",
     "arch": ["x86_64","aarch64"]
   },
   {
