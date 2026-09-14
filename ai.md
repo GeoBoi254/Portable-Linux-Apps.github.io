@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **128** programs for this category.
+#### Here are listed **127** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -208,7 +208,6 @@
 | <img loading="lazy" src="icons/warp-terminal.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***warp-terminal***](apps/warp-terminal.md) | *Terminal reimagined with AI and collaborative tools.*..[ *read more* ](apps/warp-terminal.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/warp-terminal) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/warp-terminal) |
 | <img loading="lazy" src="icons/waveterm.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***waveterm***](apps/waveterm.md) | *An open-source, AI-integrated, cross-platform terminal for seamless workflows.*..[ *read more* ](apps/waveterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/waveterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/waveterm) |
 | <img loading="lazy" src="icons/world-monitor.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***world-monitor***](apps/world-monitor.md) | *Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.*..[ *read more* ](apps/world-monitor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/world-monitor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/world-monitor) |
-| <img loading="lazy" src="icons/worldmonitor.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***worldmonitor***](apps/worldmonitor.md) | *Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.*..[ *read more* ](apps/worldmonitor.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/worldmonitor) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/worldmonitor) |
 | <img loading="lazy" src="icons/zeroclaw.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***zeroclaw***](apps/zeroclaw.md) | *one Rust binary on your machine, your keys or your local models.*..[ *read more* ](apps/zeroclaw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zeroclaw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zeroclaw) |
 
 

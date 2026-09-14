@@ -9198,6 +9198,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "keyguard",
+    "description": "A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/keyguard.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "keymanager",
     "description": "One-stop certificate app and certificate key management...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/keymanager.png",
@@ -11046,9 +11052,9 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "meshtastic-android",
-    "description": "The Meshtastic client for Android and Compose Desktop — an app for communicating over open-source mesh radios...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/meshtastic-android.png",
+    "packageName": "meshtastic",
+    "description": "The Meshtastic client app for communicating over open-source mesh radios...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/meshtastic.png",
     "arch": ["x86_64","aarch64"]
   },
   {
@@ -12687,6 +12693,12 @@
     "packageName": "ollama",
     "description": "Get up and running with Llama 3, Mistral, Gemma, and other LLMs...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ollama.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "omacal",
+    "description": "Native calendar for Google Calendar, iCloud and any CalDAV server...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omacal.png",
     "arch": ["x86_64"]
   },
   {
@@ -20847,12 +20859,6 @@
     "packageName": "world-monitor",
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/world-monitor.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "worldmonitor",
-    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/worldmonitor.png",
     "arch": ["x86_64","aarch64"]
   },
   {
