@@ -10038,6 +10038,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "librelane",
+    "description": "ASIC implementation flow infrastructure, successor to OpenLane...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/librelane.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "libremines",
     "description": "A Free/Libre and Open Source Software Qt based Minesweeper game..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/libremines.png",
@@ -10540,6 +10546,12 @@
     "description": "Multiplatform Matrix chat client (experimental CMP+rust app)...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mages.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "magic",
+    "description": "Magic VLSI Layout Tool...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/magic.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "magicfountain",
