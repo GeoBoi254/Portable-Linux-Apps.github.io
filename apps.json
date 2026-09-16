@@ -11934,6 +11934,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "neocord",
+    "description": "a terminal-native Discord client. keyboard-first. ships as one binary...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/neocord.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "neodlp",
     "description": "Modern Video/Audio Downloader based on YT-DLP with Browser Integration...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/neodlp.png",

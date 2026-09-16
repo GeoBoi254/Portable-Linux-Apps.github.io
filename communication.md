@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **90** programs for this category.
+#### Here are listed **91** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -136,6 +136,7 @@
 | <img loading="lazy" src="icons/meron.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***meron***](apps/meron.md) | *Mail app that sparks joy. Fast/secure email client with chat and kanban view.*..[ *read more* ](apps/meron.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/meron) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/meron) |
 | <img loading="lazy" src="icons/mirage.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mirage***](apps/mirage.md) | *Matrix chat client for encrypted and decentralized communication.*..[ *read more* ](apps/mirage.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mirage) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mirage) |
 | <img loading="lazy" src="icons/neochat.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***neochat***](apps/neochat.md) | *Unofficial. Client for Matrix communication written using Kirigami and KDE technology.*..[ *read more* ](apps/neochat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neochat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neochat) |
+| <img loading="lazy" src="icons/neocord.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***neocord***](apps/neocord.md) | *a terminal-native Discord client. keyboard-first. ships as one binary.*..[ *read more* ](apps/neocord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neocord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neocord) |
 | <img loading="lazy" src="icons/overlayed.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***overlayed***](apps/overlayed.md) | *A modern, open-source, and free voice chat overlay for Discord.*..[ *read more* ](apps/overlayed.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/overlayed) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/overlayed) |
 | <img loading="lazy" src="icons/pebble.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***pebble***](apps/pebble.md) | *A small yet beautiful email client.*..[ *read more* ](apps/pebble.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pebble) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pebble) |
 | <img loading="lazy" src="icons/pop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***pop***](apps/pop.md) | *Send emails from your terminal.*..[ *read more* ](apps/pop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pop) |

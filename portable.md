@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **588** portable programs NOT in AppImage format.
+#### Here are listed **589** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -428,6 +428,7 @@
 | <img loading="lazy" src="icons/nazuna.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***nazuna***](apps/nazuna.md) | *Download Twitter videos using your terminal!*..[ *read more* ](apps/nazuna.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nazuna) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nazuna) |
 | <img loading="lazy" src="icons/ncspot.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ncspot***](apps/ncspot.md) | *Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.*..[ *read more* ](apps/ncspot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ncspot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ncspot) |
 | <img loading="lazy" src="icons/neko.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***neko***](apps/neko.md) | *Neko is a cross-platform cursor-chasing cat.*..[ *read more* ](apps/neko.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neko) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neko) |
+| <img loading="lazy" src="icons/neocord.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***neocord***](apps/neocord.md) | *a terminal-native Discord client. keyboard-first. ships as one binary.*..[ *read more* ](apps/neocord.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neocord) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neocord) |
 | <img loading="lazy" src="icons/nerdfetch.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***nerdfetch***](apps/nerdfetch.md) | *A POSIX *nix fetch script using Nerdfonts.*..[ *read more* ](apps/nerdfetch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nerdfetch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nerdfetch) |
 | <img loading="lazy" src="icons/nice.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***nice***](apps/nice.md) | *Run a program with modified scheduling priority. This is part of "am-utils" suite.*..[ *read more* ](apps/nice.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nice) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nice) |
 | <img loading="lazy" src="icons/nitch.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***nitch***](apps/nitch.md) | *Incredibly fast system fetch written in nim.*..[ *read more* ](apps/nitch.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nitch) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nitch) |
