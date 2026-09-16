@@ -421,9 +421,15 @@
   },
   {
     "packageName": "am-gui",
-    "description": "A simple, experimental graphical frontend for AM...",
+    "description": "Graphical frontend for AM/AppMan — install, update and manage AppImages and other portable formats on Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/am-gui.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "am-gui-nightly",
+    "description": "Graphical frontend for AM/AppMan — install, update and manage AppImages and other portable formats on Linux (nightly/devel version)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/am-gui-nightly.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "amarok",
