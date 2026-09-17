@@ -13080,6 +13080,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "opennow",
+    "description": "Community-built GeForce NOW client...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opennow.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "openop2",
     "description": "Re-implementation of the game Outpost 2, using the OpenRA engine...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openop2.png",
