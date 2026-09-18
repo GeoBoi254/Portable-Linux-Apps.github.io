@@ -426,9 +426,9 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "am-gui-nightly",
-    "description": "Graphical frontend for AM/AppMan — install, update and manage AppImages and other portable formats on Linux (nightly/devel version)...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/am-gui-nightly.png",
+    "packageName": "am-gui-beta",
+    "description": "Graphical frontend for AM/AppMan — install, update and manage AppImages and other portable formats on Linux (beta version)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/am-gui-beta.png",
     "arch": ["x86_64","aarch64"]
   },
   {
