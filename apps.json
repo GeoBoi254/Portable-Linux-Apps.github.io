@@ -15084,12 +15084,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "qbz",
-    "description": "A native, full-featured hi-fi Qobuz desktop player for Linux and MacOS, with fast, bit-perfect audio playback...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/qbz.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "qdiskinfo",
     "description": "QDiskInfo is a frontend for smartctl. It provides a user experience similar to CrystalDiskInfo...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/qdiskinfo.png",
