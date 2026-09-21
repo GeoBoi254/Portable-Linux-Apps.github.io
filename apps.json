@@ -6834,6 +6834,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "getjmanga",
+    "description": "Retrieve and save images from 120+ japanese web comic sites...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/getjmanga.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "getthermal",
     "description": "Cross-platform Thermal Camera Viewer...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/getthermal.png",
@@ -14266,6 +14272,12 @@
     "description": "Another CLI fetch program with pixelized images written in Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pixfetch.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "pixiv-bulk-downloader",
+    "description": "Pixiv Bulk Downloader for bookmarks and works of following authors...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pixiv-bulk-downloader.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "pixsrt",

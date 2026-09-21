@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **36** programs for this category.
+#### Here are listed **37** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -115,6 +115,7 @@
 | <img loading="lazy" src="icons/cosmic-comics.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***cosmic-comics***](apps/cosmic-comics.md) | *Web Server based Comics / Manga Collectionner & viewer.*..[ *read more* ](apps/cosmic-comics.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cosmic-comics) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cosmic-comics) |
 | <img loading="lazy" src="icons/daisy.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***daisy***](apps/daisy.md) | *A beautiful, easy-to-use, ad-free manga and light novel client that supports both. (Anime Home).*..[ *read more* ](apps/daisy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/daisy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/daisy) |
 | <img loading="lazy" src="icons/fukayo.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***fukayo***](apps/fukayo.md) | *Manga reader.*..[ *read more* ](apps/fukayo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fukayo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fukayo) |
+| <img loading="lazy" src="icons/getjmanga.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***getjmanga***](apps/getjmanga.md) | *Retrieve and save images from 120+ japanese web comic sites.*..[ *read more* ](apps/getjmanga.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/getjmanga) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/getjmanga) |
 | <img loading="lazy" src="icons/goanime.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***goanime***](apps/goanime.md) | *A TUI tool to browse, stream, and download anime in English and Portuguese.*..[ *read more* ](apps/goanime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/goanime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/goanime) |
 | <img loading="lazy" src="icons/houdoku.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***houdoku***](apps/houdoku.md) | *Manga reader and library manager for the desktop.*..[ *read more* ](apps/houdoku.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/houdoku) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/houdoku) |
 | <img loading="lazy" src="icons/kcc.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***kcc***](apps/kcc.md) | *KCC (Kindle Comic Converter) is a comic and manga converter for ebook readers.*..[ *read more* ](apps/kcc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kcc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kcc) |
