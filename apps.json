@@ -894,6 +894,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "archductor",
+    "description": "A desktop control plane for running coding agents across isolated Git worktree workspaces — Electron UI + Rust CLI/daemon...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/archductor.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "archimage-cli",
     "description": "Build AppImage packages using JuNest, Arch Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/archimage-cli.png",
@@ -1782,6 +1788,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "bionic",
+    "description": "LM Studio's agent for open models...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bionic.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "biplanes-revival",
     "description": "An old cellphone arcade recreated for PC...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/biplanes-revival.png",
@@ -2596,6 +2608,12 @@
     "description": "Unofficial. Classic overhead run-and-gun game...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cdogs-sdl.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "celemod",
+    "description": "An alternative mod manager for Celeste...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/celemod.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "celeste64",
@@ -7638,6 +7656,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "grip",
+    "description": "Cross-platform TUI tool for finding and killing which processes are using files, directories, DLLs, and other open file handles...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/grip.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "grist-desktop",
     "description": "Desktop Grist, packaged with Electron...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/grist-desktop.png",
@@ -7822,6 +7846,12 @@
     "description": "Unofficial. An Atari ST and STE emulator...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hatari.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "haven",
+    "description": "Fork of Element Web, matrix client...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/haven.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "haveno-reto",
@@ -11818,6 +11848,12 @@
     "description": "A 2d action/rpg space game that combines elements from the action...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/naev.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "nak",
+    "description": "A CLI tool for doing all things nostr...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nak.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "nami",
@@ -16632,6 +16668,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "serein",
+    "description": "Tiny, Performant & 100% Native client for Discord made in Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/serein.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "serial-studio",
     "description": "Multi-purpose serial data view program...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/serial-studio.png",
@@ -18015,6 +18057,12 @@
     "packageName": "subillmanager",
     "description": "A simple Flutter app to manage electricity bill...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/subillmanager.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "substitcher",
+    "description": "Opus chaptered audiobook encoder, editor and player with colored subtitles and fancy fonts, quran translations...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/substitcher.png",
     "arch": ["x86_64"]
   },
   {
@@ -21483,6 +21531,12 @@
     "packageName": "youtubesearchfilter",
     "description": "YouTube searches with/without a pre-filter from CLI...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/youtubesearchfilter.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "youwee",
+    "description": "A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/youwee.png",
     "arch": ["x86_64"]
   },
   {
