@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **12** programs for this category.
+#### Here are listed **13** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -100,6 +100,7 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
+| <img loading="lazy" src="icons/appify.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***appify***](apps/appify.md) | *A streamlined automation tool that turns web apps into optimized desktop experiences in seconds.*..[ *read more* ](apps/appify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/appify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/appify) |
 | <img loading="lazy" src="icons/bauh.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bauh***](apps/bauh.md) | *GUI for managing AppImage, Arch/AUR, DEBs, Flatpak, Snap and webapps.*..[ *read more* ](apps/bauh.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bauh) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bauh) |
 | <img loading="lazy" src="icons/cowitness.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***cowitness***](apps/cowitness.md) | *A powerful web app testing tool that enhances the accuracy and efficiency of your testing efforts.*..[ *read more* ](apps/cowitness.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cowitness) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cowitness) |
 | <img loading="lazy" src="icons/godmode.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***godmode***](apps/godmode.md) | *AI Chat Browser fast, full webapp access to ChatGPT/Claude/Bard/Bing/Llama2.*..[ *read more* ](apps/godmode.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/godmode) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/godmode) |

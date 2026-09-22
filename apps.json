@@ -198,6 +198,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "aeroftp",
+    "description": "Cross-platform modern desktop client for FTP, FTPS, SFTP, WebDAV, S3-compatible storage, GitHub, and Cloud providers, built with Rust (Tauri) + React...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/aeroftp.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "afetch",
     "description": "A CLI system information tool written in Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/afetch.png",
@@ -741,6 +747,12 @@
     "packageName": "apphub",
     "description": "App that simplifies installation/management of .appImage packages...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/apphub.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "appify",
+    "description": "A streamlined automation tool that turns web apps into optimized desktop experiences in seconds...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/appify.png",
     "arch": ["x86_64"]
   },
   {
@@ -3324,6 +3336,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "conky-studio",
+    "description": "Conky can be hard for those who do not know how to code, or just want to manage their themes, that is what Conky studio is for, and it has many features, including a node system for easy wiring, managing your themes, plugins, and more...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/conky-studio.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "consoleworkbench",
     "description": "Console workbench...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/consoleworkbench.png",
@@ -4578,6 +4596,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "dotghostboard",
+    "description": "Advanced Cryptographic Clipboard Manager for Linux Part of the DotSuite ecosystem...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dotghostboard.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "dotline",
     "description": "A modern crosshair overlay app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dotline.png",
@@ -5622,6 +5646,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "fan-hub",
+    "description": "Fan Hub replicates a fan curve experience similar to what is found on Windows...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fan-hub.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "fantascene-dynamic-wallpaper",
     "description": "Dynamic wallpaper software for Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fantascene-dynamic-wallpaper.png",
@@ -5763,6 +5793,12 @@
     "packageName": "ferrix",
     "description": "Fast, modern, cross-platform download manager built with Rust and Tauri, supports resumable downloads, clean UI, and blazing performance...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ferrix.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "ferrumkix",
+    "description": "MP3 and Audio Player, Audio-CD Ripper, Lyrion Media Server Client, Audio Converter and MP3 Tagger...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ferrumkix.png",
     "arch": ["x86_64"]
   },
   {
@@ -7650,6 +7686,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "griffin-hub",
+    "description": "A tool that evolved from WinBridge. It tunes your system by getting access to Kernel Autotune and Sentry, and installs third party controllers and WiFi drivers...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/griffin-hub.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "grinplusplus",
     "description": "A C++ Grin Node & Wallet...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/grinplusplus.png",
@@ -8979,6 +9021,12 @@
     "packageName": "kalc",
     "description": "Complex numbers, 2d/3d graphing, arbitrary precision cli calculator...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kalc.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "kalium",
+    "description": "An MO2 environment builder that helps modding Bethesda games with NXM, backpatching Skyrim, handling prefixes, installing MO2 plugins, reconnecting NXK per prefix, auto-installs instances to non-steam games, and is disconnected from MO2. Based off NaK...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kalium.png",
     "arch": ["x86_64"]
   },
   {
@@ -13320,6 +13368,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "opolyglot",
+    "description": "Your Private Offline Translator...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opolyglot.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "optiimage",
     "description": "Unofficial. Optimize your images with OptiImage, a useful image compressor that supports PNG, JPEG, WebP and SVG file types...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/optiimage.png",
@@ -16251,6 +16305,12 @@
     "packageName": "rustdict",
     "description": "A dictionary CLI tool in Rust inspired by BetaPictoris's dict...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rustdict.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "rustled-4k",
+    "description": "Portable editor for composing, editing and exporting static banners for multi-screen LED walls, 4K Flat panels and defective F-LED controllers...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rustled-4k.png",
     "arch": ["x86_64"]
   },
   {
@@ -21381,6 +21441,12 @@
     "packageName": "yakit-legacy",
     "description": "Cyber Security ALL-IN-ONE Platform (legacy)...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yakit-legacy.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "yakuda-connect",
+    "description": "A sleek and intuitive GUI for WiVRn — Linux VR streaming made easy...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/yakuda-connect.png",
     "arch": ["x86_64"]
   },
   {

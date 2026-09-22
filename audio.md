@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **197** programs and **1** items for this category.
+#### Here are listed **198** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -146,6 +146,7 @@
 | <img loading="lazy" src="icons/easytag.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***easytag***](apps/easytag.md) | *Unofficial. View and edit audio tags for MP3, FLAC, Ogg, and other formats.*..[ *read more* ](apps/easytag.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/easytag) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/easytag) |
 | <img loading="lazy" src="icons/electronwmd.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***electronwmd***](apps/electronwmd.md) | *Upload music to NetMD MiniDisc devices.*..[ *read more* ](apps/electronwmd.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/electronwmd) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/electronwmd) |
 | <img loading="lazy" src="icons/feishin.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***feishin***](apps/feishin.md) | *Sonixd Rewrite, a desktop music player.*..[ *read more* ](apps/feishin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/feishin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/feishin) |
+| <img loading="lazy" src="icons/ferrumkix.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ferrumkix***](apps/ferrumkix.md) | *MP3 and Audio Player, Audio-CD Ripper, Lyrion Media Server Client, Audio Converter and MP3 Tagger.*..[ *read more* ](apps/ferrumkix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ferrumkix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ferrumkix) |
 | <img loading="lazy" src="icons/ffmpeg.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***ffmpeg***](apps/ffmpeg.md) | *Unofficial. A complete, cross-platform solution to record, convert and stream audio and video.*..[ *read more* ](apps/ffmpeg.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ffmpeg) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ffmpeg) |
 | <img loading="lazy" src="icons/firetail.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***firetail***](apps/firetail.md) | *An open source music player.*..[ *read more* ](apps/firetail.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/firetail) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/firetail) |
 | <img loading="lazy" src="icons/flacon.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***flacon***](apps/flacon.md) | *Audio File Encoder. Extracts audio tracks from audio CDs.*..[ *read more* ](apps/flacon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flacon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flacon) |
