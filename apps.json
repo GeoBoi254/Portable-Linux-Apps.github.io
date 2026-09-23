@@ -3072,6 +3072,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "cliamp",
+    "description": "A retro terminal music player inspired by winamp...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cliamp.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "clifm",
     "description": "The shell-like, command line terminal file manager simple, fast, extensible, and lightweight as hell...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/clifm.png",
@@ -13056,6 +13062,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "openclaw-ai",
+    "description": "The AI that really does things. Any OS. Any Platform...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openclaw-ai.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "opencloud",
     "description": "Desktop application to synchronize files from OpenCloud with your computer...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencloud.png",
@@ -18324,6 +18336,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "surge",
+    "description": "Blazing fast TUI download manager built in Go for power users...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/surge.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "surrealist",
     "description": "Surrealist is the ultimate way to visually manage your SurrealDB database...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/surrealist.png",
@@ -20823,12 +20841,6 @@
     "packageName": "wine-staging-ge-proton",
     "description": "Unofficial. Run x86_64 Windows programs, Staging GE Proton...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wine-staging-ge-proton.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "wine32-cli",
-    "description": "Unofficial. WINE AppImage for 32-bit CLI Windows applications...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wine32-cli.png",
     "arch": ["x86_64"]
   },
   {

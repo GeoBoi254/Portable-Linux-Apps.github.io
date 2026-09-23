@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **593** portable programs NOT in AppImage format.
+#### Here are listed **594** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -180,6 +180,7 @@
 | <img loading="lazy" src="icons/cksum.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***cksum***](apps/cksum.md) | *Compute and verify file checksums. This is part of "am-utils" suite.*..[ *read more* ](apps/cksum.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cksum) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cksum) |
 | <img loading="lazy" src="icons/clamtk.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***clamtk***](apps/clamtk.md) | *An easy to use, light-weight, on-demand virus scanner for Linux systems*..[ *read more* ](apps/clamtk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clamtk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clamtk) |
 | <img loading="lazy" src="icons/clear.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***clear***](apps/clear.md) | *Clear the terminal screen. This is part of "am-utils" suite.*..[ *read more* ](apps/clear.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clear) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clear) |
+| <img loading="lazy" src="icons/cliamp.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***cliamp***](apps/cliamp.md) | *A retro terminal music player inspired by winamp.*..[ *read more* ](apps/cliamp.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cliamp) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cliamp) |
 | <img loading="lazy" src="icons/clifm.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***clifm***](apps/clifm.md) | *The shell-like, command line terminal file manager simple, fast, extensible, and lightweight as hell.*..[ *read more* ](apps/clifm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clifm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clifm) |
 | <img loading="lazy" src="icons/clipse.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***clipse***](apps/clipse.md) | *Configurable TUI clipboard manager for Unix.*..[ *read more* ](apps/clipse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/clipse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/clipse) |
 | <img loading="lazy" src="icons/code.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***code***](apps/code.md) | *Visual Studio, VSCode, Original Editor to build/debug web/cloud apps.*..[ *read more* ](apps/code.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/code) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/code) |
