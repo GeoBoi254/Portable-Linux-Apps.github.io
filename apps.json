@@ -19257,7 +19257,7 @@
     "packageName": "tor-browser-alpha",
     "description": "Privacy-oriented Web Browser for sites blocked in your country...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tor-browser-alpha.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "torcs",
