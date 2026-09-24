@@ -2472,6 +2472,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "capptivo",
+    "description": "Create stunning screen recordings in seconds, not hours. Smart follow-cursor zoom, click-based auto zooms, editor presets, and on-device captions, your demos practically make themselves...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/capptivo.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "caprine",
     "description": "Unofficial. Elegant privacy focused Facebook Messenger app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/caprine.png",
@@ -13261,7 +13267,7 @@
   },
   {
     "packageName": "openscreen",
-    "description": "Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio...",
+    "description": "App for recording your screen and turning the result into polished product demos and walkthroughs. Free and open-source, GPU-accelerated, no watermarks, no subscriptions...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openscreen.png",
     "arch": ["x86_64"]
   },
@@ -15867,6 +15873,12 @@
     "packageName": "redriver2",
     "description": "Unofficial. Driver 2 Playstation game reverse engineering effort...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/redriver2.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "reframe",
+    "description": "backgrounds, layouts, zoom, trim, speed, annotations — and export to MP4...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/reframe.png",
     "arch": ["x86_64"]
   },
   {
