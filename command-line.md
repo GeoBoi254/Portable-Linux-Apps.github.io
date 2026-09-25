@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **931** programs and **10** items for this category.
+#### Here are listed **932** programs and **10** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -102,6 +102,7 @@
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/7z.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***7z***](apps/7z.md) | *Archiver with a high compression ratio. This is part of "am-utils" suite.*..[ *read more* ](apps/7z.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/7z) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/7z) |
 | <img loading="lazy" src="icons/7zip.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***7zip***](apps/7zip.md) | *7-Zip is a file archiver with a high compression ratio.*..[ *read more* ](apps/7zip.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/7zip) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/7zip) |
+| <img loading="lazy" src="icons/absotui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***absotui***](apps/absotui.md) | *"ABS" (Audiobookshelf) + "TUI" (terminal user interface) — read it like "absolutely. A fun, fast, and intuitive TUI client for Audiobookshelf — browse, play, and sync your audiobooks & podcasts, all in your terminal.*..[ *read more* ](apps/absotui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/absotui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/absotui) |
 | <img loading="lazy" src="icons/adb.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***adb***](apps/platform-tools.md) | *Command-line tool for communicating with Android devices or emulators. This is part of "platform-tools".*..[ *read more* ](apps/platform-tools.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/platform-tools) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/platform-tools) |
 | <img loading="lazy" src="icons/addr2line.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***addr2line***](apps/addr2line.md) | *Or symbol+offset into file names and. This is part of "am-utils" suite.*..[ *read more* ](apps/addr2line.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/addr2line) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/addr2line) |
 | <img loading="lazy" src="icons/advanced-rest-client.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***advanced-rest-client***](apps/advanced-rest-client.md) | *Advanced REST Client and API console, by Mulesoft.*..[ *read more* ](apps/advanced-rest-client.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/advanced-rest-client) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/advanced-rest-client) |
