@@ -9159,7 +9159,7 @@
     "packageName": "kcc",
     "description": "KCC (Kindle Comic Converter) is a comic and manga converter for ebook readers...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kcc.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "kcharselect",
