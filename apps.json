@@ -20370,6 +20370,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "vn",
+    "description": "Unofficial. Edit Like a Pro with VN AI Video Editor. The best free video editor for YouTube & Shorts. Featuring 4K resolution support, advanced keyframes, and zero ads...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vn.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "vnote",
     "description": "Note-taking application for pleasant Markdown...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vnote.png",
