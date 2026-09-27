@@ -11562,6 +11562,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "moonlight-qt-nightly",
+    "description": "An open source PC client for NVIDIA GameStream and Sunshine (Nightly build)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/moonlight-qt-nightly.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "moonplayer",
     "description": "AIO video player to play Youtube, Bilibili... and local videos...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/moonplayer.png",
@@ -15615,6 +15621,12 @@
     "packageName": "radmin-vpn",
     "description": "Run Radmin VPN on Linux via Wine — custom driver, TAP bridge, zero packet loss...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/radmin-vpn.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "rai-pal",
+    "description": "Mod manager for universal game mods...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rai-pal.png",
     "arch": ["x86_64"]
   },
   {
