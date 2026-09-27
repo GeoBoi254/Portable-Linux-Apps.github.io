@@ -12870,12 +12870,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "omniget",
-    "description": "Media downloader from various websites...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omniget.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "omnipull",
     "description": "Pull Everything. Everywhere. OmniPull is a powerful, cross-platform download manager...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omnipull.png",
