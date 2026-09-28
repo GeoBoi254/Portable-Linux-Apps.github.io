@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **92** programs for this category.
+#### Here are listed **93** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -120,6 +120,7 @@
 | <img loading="lazy" src="icons/dorion.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***dorion***](apps/dorion.md) | *Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!*..[ *read more* ](apps/dorion.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/dorion) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/dorion) |
 | <img loading="lazy" src="icons/elk.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***elk***](apps/elk.md) | *Native version of Elk, a nimble Mastodon web.*..[ *read more* ](apps/elk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/elk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/elk) |
 | <img loading="lazy" src="icons/equibop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***equibop***](apps/equibop.md) | *Equibop is a custom Discord App aiming to give you better performance and improve linux support.*..[ *read more* ](apps/equibop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/equibop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/equibop) |
+| <img loading="lazy" src="icons/expertisex.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***expertisex***](apps/expertisex.md) | *Electron & React.JS - Discord SelfBot Music (Software Interface).*..[ *read more* ](apps/expertisex.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/expertisex) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/expertisex) |
 | <img loading="lazy" src="icons/fluffychat.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***fluffychat***](apps/fluffychat.md) | *The cutest instant messenger in the matrix.*..[ *read more* ](apps/fluffychat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fluffychat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fluffychat) |
 | <img loading="lazy" src="icons/fluxer.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***fluxer***](apps/fluxer.md) | *A free and open source instant messaging and VoIP platform built for friends, groups, and communities.*..[ *read more* ](apps/fluxer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/fluxer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/fluxer) |
 | <img loading="lazy" src="icons/forkgram.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***forkgram***](apps/forkgram.md) | *Fork of Telegram Desktop messaging app.*..[ *read more* ](apps/forkgram.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/forkgram) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/forkgram) |

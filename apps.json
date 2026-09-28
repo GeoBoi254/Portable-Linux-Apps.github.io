@@ -1152,6 +1152,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "attu",
+    "description": "The Best GUI for Milvus. Attu is an AI-native management tool for Milvus vector databases...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/attu.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "atuin",
     "description": "Magical shell history...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/atuin.png",
@@ -4518,6 +4524,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "dnd-client",
+    "description": "Simple desktop client for playing your favorite Pen and Paper games...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dnd-client.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "dns-changer",
     "description": "An open-source DNS Changer app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dns-changer.png",
@@ -5238,6 +5250,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "emuze",
+    "description": "Launch your Retro Games fast and simple...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/emuze.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "en-croissant",
     "description": "The Ultimate Chess Toolkit...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/en-croissant.png",
@@ -5526,6 +5544,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "expertisex",
+    "description": "Electron & React.JS - Discord SelfBot Music (Software Interface)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/expertisex.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "explorook",
     "description": "Rookout’s site addon to support local files and folders...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/explorook.png",
@@ -5697,6 +5721,12 @@
     "packageName": "fastcompmgr",
     "description": "A fast compositor for X11...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fastcompmgr.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "fastdownloader",
+    "description": "FastDownloader, a fast video/audio downloader for over 1800 websites...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/fastdownloader.png",
     "arch": ["x86_64"]
   },
   {
@@ -7758,6 +7788,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "gshell",
+    "description": "Interactive graphical desktop environment for LiveG OS...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gshell.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "gsubs",
     "description": "Finds you the perfect subtitle match...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/gsubs.png",
@@ -9492,6 +9528,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "kkedit-qt",
+    "description": "This is the QT vesion of KKEdit...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kkedit-qt.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "kkeditqt",
     "description": "QT vesion of KKEdit, a deceptively simple text editor with syntax colouring...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kkeditqt.png",
@@ -9933,6 +9975,12 @@
     "packageName": "launcher",
     "description": "Generic application's launcher...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/launcher.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "lazap",
+    "description": "A native attempt to unify your clients with a fast, modern, and cross-platform solution...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lazap.png",
     "arch": ["x86_64"]
   },
   {
@@ -11166,6 +11214,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "meshinspector",
+    "description": "Mesh processing application...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/meshinspector.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "meshlab",
     "description": "Processor and editor of large 3D triangular meshes...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/meshlab.png",
@@ -11206,6 +11260,12 @@
     "description": "Unofficial. Game Boy Advance Emulator...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mgba-enhanced.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "microemacs",
+    "description": "Modern Jasspa's Microemacs fork - based on Dave Conroy and Daniel Lawrences code. Text editor with GUI and terminal mode, with syntax highlighting, folding, outlines, abbreviations, own extension language, calendar, games, notes...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/microemacs.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "micropad",
@@ -12870,6 +12930,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "omniget",
+    "description": "Open-source download manager for courses (Udemy/Hotmart), YouTube, music & 1,800+ sites. Built with Tauri 2.0, Rust & Svelte...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omniget.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "omnipull",
     "description": "Pull Everything. Everywhere. OmniPull is a powerful, cross-platform download manager...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omnipull.png",
@@ -13374,6 +13440,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "openxjv",
+    "description": "Viewer for XJustiz files used for file / data transfers between courts, lawyers, agencies, etc. in Germany's ERV-System...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openxjv.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "openxray",
     "description": "Unofficial. Improved open-source X-Ray Engine for the S.T.A.L.K.E.R. series...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/openxray.png",
@@ -13473,6 +13545,12 @@
     "packageName": "osu",
     "description": "A free-to-win rhythm game. Rhythm is just a click away!..",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/osu.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "osu-tracker",
+    "description": "Statistics tracker for osu! using osu!api v2...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/osu-tracker.png",
     "arch": ["x86_64"]
   },
   {
@@ -13780,6 +13858,12 @@
     "description": "Phrase-based password generator that can use your own list of words...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/passphraser.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "passy",
+    "description": "Offline password manager with cross-platform synchronization...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/passy.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "paste",
@@ -15909,6 +15993,12 @@
     "packageName": "rehex",
     "description": "Reverse Engineers' Hex Editor...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rehex.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "rememberli",
+    "description": "Simple and elegant note taking app...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rememberli.png",
     "arch": ["x86_64"]
   },
   {
@@ -19272,6 +19362,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "toolbelt",
+    "description": "An offline desktop toolbox for the small utilities you'd otherwise google every day — hashing, encoding, formatting, ID generation, regex testing, HTTP calls and more, in one native window...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/toolbelt.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "toolblex",
     "description": "Bluetooth Low Energy (and Classic) device scanner and analyzer...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/toolblex.png",
@@ -19752,6 +19848,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "undertale-spaghetti-project",
+    "description": "UNDERTALE is a video game released in 2015 by Toby Fox. This is the Italian-translated version...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/undertale-spaghetti-project.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "unetbootin",
     "description": "Install Linux/BSD distributions to a partition or USB drive...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unetbootin.png",
@@ -19791,6 +19893,12 @@
     "packageName": "unleashedrecomp",
     "description": "Unofficial. Static recompiled PC port of Sonic Unleashed...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unleashedrecomp.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "unlimotion",
+    "description": "Goal tracker with unlimited nesting levels...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/unlimotion.png",
     "arch": ["x86_64"]
   },
   {
