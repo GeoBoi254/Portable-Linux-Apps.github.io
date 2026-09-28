@@ -13182,6 +13182,18 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "opencoduo-client",
+    "description": "United Offensive multiplayer client...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencoduo-client.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "opencoduo-server",
+    "description": "United Offensive multiplayer server...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencoduo-server.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "opencomic",
     "description": "Comic and Manga reader, written with Node.js and using Electron...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencomic.png",
@@ -14241,6 +14253,12 @@
     "packageName": "photon",
     "description": "Cross-platform file-transfer application built using flutter. It uses http to transfer files between devices...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/photon.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "photon-studio",
+    "description": "Free, offline photo editor. Edit layered images, retouch photos, create designs, and open or save PSD files...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/photon-studio.png",
     "arch": ["x86_64"]
   },
   {
