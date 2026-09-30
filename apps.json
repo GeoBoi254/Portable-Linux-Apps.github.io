@@ -26994,6 +26994,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "xreader",
+    "description": "Xreader is a multi-page document viewer..",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xreader.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "xsnow",
     "description": "Unofficial. Let it snow on your desktop...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/xsnow.png",
