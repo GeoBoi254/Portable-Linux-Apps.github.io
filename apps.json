@@ -26646,6 +26646,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "wudict",
+    "description": "Fast, native, self-contained, multi-format dictionary server that runs in your browser at http://localhost:6888. Reads AARD2 (.slob), MDict (.mdx/.mdd), Babylon (.bgl), Stardict (.ifo), Lingvo (.dsl), ZIM (.zim), wudict markdown (.wudict.md/.wudict.md.gz) dictionary formats...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wudict.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "wxmaxima",
     "description": "A document based interface for the computer algebra system Maxima...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wxmaxima.png",
