@@ -16536,15 +16536,9 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "opencoduo-client",
-    "description": "United Offensive multiplayer client...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencoduo-client.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "opencoduo-server",
-    "description": "United Offensive multiplayer server...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencoduo-server.png",
+    "packageName": "opencoduo",
+    "description": "United Offensive multiplayer...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/opencoduo.png",
     "arch": ["x86_64"]
   },
   {
@@ -25924,6 +25918,12 @@
     "description": "Terminal reimagined with AI and collaborative tools...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/warp-terminal.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "warpinator",
+    "description": "Send and receive files across a local network...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/warpinator.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "warteschlangensimulator",
