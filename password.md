@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **28** programs for this category.
+#### Here are listed **29** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -103,6 +103,7 @@
 | <img loading="lazy" src="icons/advanced-passgen.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***advanced-passgen***](apps/advanced-passgen.md) | *Advanced Password Generator.*..[ *read more* ](apps/advanced-passgen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/advanced-passgen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/advanced-passgen) |
 | <img loading="lazy" src="icons/bitwarden.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***bitwarden***](apps/bitwarden.md) | *Password manager for individuals, teams and business.*..[ *read more* ](apps/bitwarden.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bitwarden) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bitwarden) |
 | <img loading="lazy" src="icons/buttercup.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***buttercup***](apps/buttercup.md) | *Free and Open Source password vault.*..[ *read more* ](apps/buttercup.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/buttercup) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/buttercup) |
+| <img loading="lazy" src="icons/cloaker.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***cloaker***](apps/cloaker.md) | *Simple, drag-and-drop, password-based file encryption.*..[ *read more* ](apps/cloaker.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cloaker) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cloaker) |
 | <img loading="lazy" src="icons/encryptpad.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***encryptpad***](apps/encryptpad.md) | *Secure text editor and binary encryptor with passwords.*..[ *read more* ](apps/encryptpad.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/encryptpad) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/encryptpad) |
 | <img loading="lazy" src="icons/ff-password-exporter.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ff-password-exporter***](apps/ff-password-exporter.md) | *Export your saved passwords from Firefox.*..[ *read more* ](apps/ff-password-exporter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ff-password-exporter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ff-password-exporter) |
 | <img loading="lazy" src="icons/gokey.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***gokey***](apps/gokey.md) | *A simple vaultless password manager in Go.*..[ *read more* ](apps/gokey.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gokey) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gokey) |
