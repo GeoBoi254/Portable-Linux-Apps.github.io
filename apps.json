@@ -17778,6 +17778,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "nuvio",
+    "description": "Nuvio Desktop is a media client for browsing metadata, managing collections and watch progress, downloading media, and playing streams from user-installed extensions or user-provided sources...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nuvio.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "nvim",
     "description": "NeoVim, Vim fork focused on extensibility and usability...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nvim.png",
@@ -22791,6 +22797,12 @@
     "packageName": "rowel",
     "description": "Free Offline-first Password Manager...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rowel.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "rox",
+    "description": "If Foobar2000 music player was made in the current year...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rox.png",
     "arch": ["x86_64"]
   },
   {
