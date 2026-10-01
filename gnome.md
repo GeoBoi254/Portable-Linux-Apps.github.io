@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **23** programs for this category.
+#### Here are listed **24** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -102,6 +102,7 @@
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/baobab.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***baobab***](apps/baobab.md) | *A graphical directory tree analyzer for the GNOME desktop environment, to keep your disk usage and available space under control.*..[ *read more* ](apps/baobab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/baobab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/baobab) |
 | <img loading="lazy" src="icons/eog.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***eog***](apps/eog.md) | *Eye of Gnome is an image viewing and cataloging program.*..[ *read more* ](apps/eog.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eog) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eog) |
+| <img loading="lazy" src="icons/eshot.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***eshot***](apps/eshot.md) | *Fast, lightweight Windows and Linux(KDE Plasma 6 and GNOME) screenshot tool with annotations, OCR, uploads, pinned captures, GIF recording, and MP4 screen recording.*..[ *read more* ](apps/eshot.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eshot) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eshot) |
 | <img loading="lazy" src="icons/extension-manager.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***extension-manager***](apps/extension-manager.md) | *A native tool for browsing, installing, and managing GNOME Shell Extensions.*..[ *read more* ](apps/extension-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/extension-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/extension-manager) |
 | <img loading="lazy" src="icons/file-roller.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***file-roller***](apps/file-roller.md) | *File Roller is an archive manager for the GNOME desktop environment. Create and modify archives.*..[ *read more* ](apps/file-roller.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/file-roller) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/file-roller) |
 | <img loading="lazy" src="icons/folio.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***folio***](apps/folio.md) | *A beautiful markdown note-taking app for GNOME (forked from Paper).*..[ *read more* ](apps/folio.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/folio) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/folio) |

@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **29** programs for this category.
+#### Here are listed **30** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -124,6 +124,7 @@
 | <img loading="lazy" src="icons/privacynotes.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***privacynotes***](apps/privacynotes.md) | *no email, no password, no account to leak.*..[ *read more* ](apps/privacynotes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/privacynotes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/privacynotes) |
 | <img loading="lazy" src="icons/qmasterpassword.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***qmasterpassword***](apps/qmasterpassword.md) | *A password manager based on Qt.*..[ *read more* ](apps/qmasterpassword.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qmasterpassword) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qmasterpassword) |
 | <img loading="lazy" src="icons/qtpass.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***qtpass***](apps/qtpass.md) | *QtPass is a multi-platform GUI for pass, the standard unix password manager.*..[ *read more* ](apps/qtpass.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qtpass) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qtpass) |
+| <img loading="lazy" src="icons/randpass.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***randpass***](apps/randpass.md) | *CLI password generator with interactive TUI and cryptographic-grade RNG (BigCrush/Dieharder validated).*..[ *read more* ](apps/randpass.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/randpass) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/randpass) |
 | <img loading="lazy" src="icons/rbw.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***rbw***](apps/rbw.md) | *Unofficial. Bitwarden password manager CLI client.*..[ *read more* ](apps/rbw.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rbw) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rbw) |
 | <img loading="lazy" src="icons/rowel.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***rowel***](apps/rowel.md) | *Free Offline-first Password Manager.*..[ *read more* ](apps/rowel.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/rowel) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/rowel) |
 | <img loading="lazy" src="icons/secrets.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***secrets***](apps/secrets.md) | *Unofficial. Password manager for GNOME that uses the KeePass format.*..[ *read more* ](apps/secrets.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/secrets) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/secrets) |
