@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **134** programs and **1** items for this category.
+#### Here are listed **135** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -144,6 +144,7 @@
 | <img loading="lazy" src="icons/eka2l1.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***eka2l1***](apps/eka2l1.md) | *A Symbian OS/N-Gage emulator*..[ *read more* ](apps/eka2l1.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/eka2l1) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/eka2l1) |
 | <img loading="lazy" src="icons/emucenter.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***emucenter***](apps/emucenter.md) | *Emulator Game Hub.*..[ *read more* ](apps/emucenter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/emucenter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/emucenter) |
 | <img loading="lazy" src="icons/epsxe.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***epsxe***](apps/epsxe.md) | *Unofficial. Enhanced PSX emulator.*..[ *read more* ](apps/epsxe.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/epsxe) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/epsxe) |
+| <img loading="lazy" src="icons/erings.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***erings***](apps/erings.md) | *A Sega Saturn Emulator.*..[ *read more* ](apps/erings.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/erings) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/erings) |
 | <img loading="lazy" src="icons/flycast.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***flycast***](apps/flycast.md) | *A Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.*..[ *read more* ](apps/flycast.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flycast) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flycast) |
 | <img loading="lazy" src="icons/flycast-dojo.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***flycast-dojo***](apps/flycast-dojo.md) | *Flycast fork, multiplatform Sega Dreamcast, Naomi and Atomiswave emulator for netplay, training & online tournament gameplay.*..[ *read more* ](apps/flycast-dojo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flycast-dojo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flycast-dojo) |
 | <img loading="lazy" src="icons/flycast-enhanced.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***flycast-enhanced***](apps/flycast-enhanced.md) | *Unofficial. A Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.*..[ *read more* ](apps/flycast-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/flycast-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/flycast-enhanced) |

@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **24** programs for this category.
+#### Here are listed **25** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -123,6 +123,7 @@
 | <img loading="lazy" src="icons/top.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***top***](apps/top.md) | *Display Linux processes. This is part of "am-utils" suite.*..[ *read more* ](apps/top.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/top) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/top) |
 | <img loading="lazy" src="icons/tube2go.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***tube2go***](apps/tube2go.md) | *One-click YouTube downloader for Linux & Windows. Save videos, playlists & music in HD or MP3, with batch downloads, subtitles and a built-in system monitor.*..[ *read more* ](apps/tube2go.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tube2go) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tube2go) |
 | <img loading="lazy" src="icons/tux-manager.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***tux-manager***](apps/tux-manager.md) | *A Linux Task Manager alternative built with Qt6, inspired by the Windows Task Manager but designed to go further - providing deep visibility into system processes, performance metrics, users, and services.*..[ *read more* ](apps/tux-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/tux-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/tux-manager) |
+| <img loading="lazy" src="icons/will-be-done.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***will-be-done***](apps/will-be-done.md) | *Local-first task manager with a visual weekly timeline. Works offline, syncs across devices, and self-hosts with one Docker command. Uses SQLite by default, so no external database is needed.*..[ *read more* ](apps/will-be-done.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/will-be-done) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/will-be-done) |
 | <img loading="lazy" src="icons/xenon.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***xenon***](apps/xenon.md) | *A 100% local all-in-one dashboard for any screen, tablet or phone. Windows, with macOS and Linux in beta. System monitor, media and mic, a voice AI that can build dashboard pages for you, a Stream Deck style grid, RGB lighting, and Twitch/OBS control. Free and source-available, no account, no telemetry.*..[ *read more* ](apps/xenon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xenon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xenon) |
 
 
