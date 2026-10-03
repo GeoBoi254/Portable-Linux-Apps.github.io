@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **31** programs for this category.
+#### Here are listed **32** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -121,6 +121,7 @@
 | <img loading="lazy" src="icons/loginized.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***loginized***](apps/loginized.md) | *Loginized Gnome GDM Login Theme Manager.*..[ *read more* ](apps/loginized.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/loginized) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/loginized) |
 | <img loading="lazy" src="icons/masterkey.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***masterkey***](apps/masterkey.md) | *Unofficial. A password manager application for the GNOME desktop.*..[ *read more* ](apps/masterkey.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/masterkey) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/masterkey) |
 | <img loading="lazy" src="icons/mtsync.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mtsync***](apps/mtsync.md) | *A Gnome frontend to rclone to (auto)mount and sync your data.*..[ *read more* ](apps/mtsync.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mtsync) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mtsync) |
+| <img loading="lazy" src="icons/parla.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***parla***](apps/parla.md) | *Native Gnome DeltaChat client.*..[ *read more* ](apps/parla.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parla) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parla) |
 | <img loading="lazy" src="icons/planify.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***planify***](apps/planify.md) | *Unofficial. Task manager and todo list application designed for GNOME.*..[ *read more* ](apps/planify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/planify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/planify) |
 | <img loading="lazy" src="icons/ptyxis.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ptyxis***](apps/ptyxis.md) | *Unofficial. Container-oriented terminal emulator for GNOME.*..[ *read more* ](apps/ptyxis.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ptyxis) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ptyxis) |
 | <img loading="lazy" src="icons/secrets.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***secrets***](apps/secrets.md) | *Unofficial. Password manager for GNOME that uses the KeePass format.*..[ *read more* ](apps/secrets.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/secrets) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/secrets) |
