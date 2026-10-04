@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **10** programs for this category.
+#### Here are listed **11** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -110,6 +110,7 @@
 | <img loading="lazy" src="icons/scummvm.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***scummvm***](apps/scummvm.md) | *Unofficial. A 'virtual machine' for several classic graphical point-and-click adventure games*..[ *read more* ](apps/scummvm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/scummvm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/scummvm) |
 | <img loading="lazy" src="icons/virt-manager.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***virt-manager***](apps/virt-manager.md) | *Unofficial. Desktop interface for managing virtual machines through libvirt.*..[ *read more* ](apps/virt-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/virt-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/virt-manager) |
 | <img loading="lazy" src="icons/virtualbox.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***virtualbox***](apps/virtualbox.md) | *Powerful x86 virtualization for enterprise as well as home use.*..[ *read more* ](apps/virtualbox.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/virtualbox) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/virtualbox) |
+| <img loading="lazy" src="icons/vm-curator.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***vm-curator***](apps/vm-curator.md) | *Vm-curator is a fast and friendly TUI to build and manage QEMU/KVM virtual machines for desktop use with working 3D acceleration (para-virtualized and pass-through.).*..[ *read more* ](apps/vm-curator.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vm-curator) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vm-curator) |
 
 
 ---

@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **30** programs and **64** items for this category.
+#### Here are listed **31** programs and **64** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -182,6 +182,7 @@
 | <img loading="lazy" src="icons/kweather.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***kweather***](apps/kdeutils.md) | *A convergent weather application. This is part of "kdeutils".*..[ *read more* ](apps/kdeutils.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdeutils) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdeutils) |
 | <img loading="lazy" src="icons/kwrite.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***kwrite***](apps/kdeutils.md) | *KWrite is a text editor by KDE. This is part of "kdeutils".*..[ *read more* ](apps/kdeutils.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdeutils) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdeutils) |
 | <img loading="lazy" src="icons/lskat.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***lskat***](apps/kdegames.md) | *Fun and engaging card game for two players. This is part of "kdegames".*..[ *read more* ](apps/kdegames.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdegames) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdegames) |
+| <img loading="lazy" src="icons/mailove.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mailove***](apps/mailove.md) | *Mailove - The fast, friendly KDE-first email client.*..[ *read more* ](apps/mailove.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mailove) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mailove) |
 | <img loading="lazy" src="icons/neochat.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***neochat***](apps/neochat.md) | *Unofficial. Client for Matrix communication written using Kirigami and KDE technology.*..[ *read more* ](apps/neochat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/neochat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/neochat) |
 | <img loading="lazy" src="icons/palapeli.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***palapeli***](apps/kdegames.md) | *Jigsaw puzzle game. This is part of "kdegames".*..[ *read more* ](apps/kdegames.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdegames) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdegames) |
 | <img loading="lazy" src="icons/picmi.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***picmi***](apps/kdegames.md) | *Single player logic-based puzzle game. This is part of "kdegames".*..[ *read more* ](apps/kdegames.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/kdegames) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/kdegames) |

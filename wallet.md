@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **74** programs for this category.
+#### Here are listed **75** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -157,6 +157,7 @@
 | <img loading="lazy" src="icons/papergen.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***papergen***](apps/papergen.md) | *Bitcoin paperwallet generator by mic entropy or by webcam entropy.*..[ *read more* ](apps/papergen.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/papergen) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/papergen) |
 | <img loading="lazy" src="icons/parallelcoin.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***parallelcoin***](apps/parallelcoin.md) | *Parallelcoin qt wallet appimage binary.*..[ *read more* ](apps/parallelcoin.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parallelcoin) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parallelcoin) |
 | <img loading="lazy" src="icons/parity-fether.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***parity-fether***](apps/parity-fether.md) | *Fether Wallet.*..[ *read more* ](apps/parity-fether.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/parity-fether) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/parity-fether) |
+| <img loading="lazy" src="icons/qeth.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***qeth***](apps/qeth.md) | *Ethereum wallet in Qt.*..[ *read more* ](apps/qeth.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/qeth) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/qeth) |
 | <img loading="lazy" src="icons/radix-wallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***radix-wallet***](apps/radix-wallet.md) | *Radix DLT desktop wallet.*..[ *read more* ](apps/radix-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/radix-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/radix-wallet) |
 | <img loading="lazy" src="icons/ryowallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ryowallet***](apps/ryowallet.md) | *Modern GUI interface for Ryo Currency.*..[ *read more* ](apps/ryowallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ryowallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ryowallet) |
 | <img loading="lazy" src="icons/sheikah.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***sheikah***](apps/sheikah.md) | *A Witnet compatible desktop wallet.*..[ *read more* ](apps/sheikah.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sheikah) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sheikah) |
