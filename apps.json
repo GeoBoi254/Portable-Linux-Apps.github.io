@@ -24786,6 +24786,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "neo",
+    "description": "A distraction-free word processor for authors, by a wannabe author...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/neo.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "neo-mofox-launcher",
     "description": "An elegant Neo-MoFox QQ bot instance management launcher...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/neo-mofox-launcher.png",
