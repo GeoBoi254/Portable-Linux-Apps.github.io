@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **40** programs for this category.
+#### Here are listed **41** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -140,6 +140,7 @@
 | <img loading="lazy" src="icons/securevault.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***securevault***](apps/securevault.md) | *🔐 Purely native cross-platform desktop password manager based on Tauri v2 + React 19 + Rust. Supports Argon2id/PBKDF2 + AES-256-GCM encryption, data is 100% offline and never connected to the Internet. ..*..[ *read more* ](apps/securevault.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/securevault) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/securevault) |
 | <img loading="lazy" src="icons/sesame.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***sesame***](apps/sesame.md) | *Local-first password, 2FA and recovery vault for Windows. Your vault is encrypted on your device and never sent to a server. AGPL.*..[ *read more* ](apps/sesame.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/sesame) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/sesame) |
 | <img loading="lazy" src="icons/swifty.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***swifty***](apps/swifty.md) | *Free Offline-first Password Manager.*..[ *read more* ](apps/swifty.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/swifty) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/swifty) |
+| <img loading="lazy" src="icons/vigil.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***vigil***](apps/vigil.md) | *Password manager/Vault based on keepass with modern UI, biometric features, yubikey support and pwnd checks.*..[ *read more* ](apps/vigil.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/vigil) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/vigil) |
 
 
 ---
