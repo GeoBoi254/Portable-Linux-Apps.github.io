@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **11** programs for this category.
+#### Here are listed **12** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -101,6 +101,7 @@
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
 | <img loading="lazy" src="icons/aranym.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***aranym***](apps/aranym.md) | *Virtual Machine for Atari 32-bit applications.*..[ *read more* ](apps/aranym.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/aranym) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/aranym) |
+| <img loading="lazy" src="icons/cdj3k-emu.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***cdj3k-emu***](apps/cdj3k-emu.md) | *An emulator for the CDJs in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network.*..[ *read more* ](apps/cdj3k-emu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cdj3k-emu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cdj3k-emu) |
 | <img loading="lazy" src="icons/gnome-boxes.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***gnome-boxes***](apps/gnome-boxes.md) | *Unofficial. A simple GNOME application to access virtual machines.*..[ *read more* ](apps/gnome-boxes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/gnome-boxes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/gnome-boxes) |
 | <img loading="lazy" src="icons/pcsx2.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***pcsx2***](apps/pcsx2.md) | *PCSX2 is a free and open-source PlayStation 2 (PS2) emulator, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits.*..[ *read more* ](apps/pcsx2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx2) |
 | <img loading="lazy" src="icons/pcsx2-nightly.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***pcsx2-nightly***](apps/pcsx2-nightly.md) | *PCSX2 is a free and open-source PlayStation 2 (PS2) emulator, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits. This is the nightly version.*..[ *read more* ](apps/pcsx2-nightly.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pcsx2-nightly) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pcsx2-nightly) |
