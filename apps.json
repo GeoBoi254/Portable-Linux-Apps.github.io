@@ -31356,6 +31356,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "photosuite",
+    "description": "picture,photo,png,paint,pixel,wallpaper...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/photosuite.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "photovault",
     "description": "Smriti — offline-first photo library for your drives. No server, no cloud. On-device face recognition, Google Photos Takeout import. Windows/macOS/Linux...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/photovault.png",
