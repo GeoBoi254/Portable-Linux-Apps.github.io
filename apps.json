@@ -17496,6 +17496,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "hoptodesk",
+    "description": "Free remote desktop software for remote support, screen sharing and file transfer...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hoptodesk.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "hostid",
     "description": "Print the numeric identifier for the current host. This is part of \"am-utils\" suite...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/hostid.png",
