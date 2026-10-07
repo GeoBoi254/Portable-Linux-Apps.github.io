@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **25** programs for this category.
+#### Here are listed **26** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -124,6 +124,7 @@
 | <img loading="lazy" src="icons/wine-staging.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wine-staging***](apps/wine-staging.md) | *Unofficial. Compatibility layer to run x86_64 Windows programs, Staging.*..[ *read more* ](apps/wine-staging.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging) |
 | <img loading="lazy" src="icons/wine-staging-ge-proton.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wine-staging-ge-proton***](apps/wine-staging-ge-proton.md) | *Unofficial. Run x86_64 Windows programs, Staging GE Proton.*..[ *read more* ](apps/wine-staging-ge-proton.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine-staging-ge-proton) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine-staging-ge-proton) |
 | <img loading="lazy" src="icons/wine32-deploy.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wine32-deploy***](apps/wine32-deploy.md) | *Tool for creating AppImages for 32-bit Microsoft Windows apps.*..[ *read more* ](apps/wine32-deploy.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wine32-deploy) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wine32-deploy) |
+| <img loading="lazy" src="icons/winebar.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***winebar***](apps/winebar.md) | *A Wine prefix manager.*..[ *read more* ](apps/winebar.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/winebar) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/winebar) |
 | <img loading="lazy" src="icons/winegui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***winegui***](apps/winegui.md) | *At last, a user-friendly Wine graphical interface (mirror from Gitlab).*..[ *read more* ](apps/winegui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/winegui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/winegui) |
 
 
