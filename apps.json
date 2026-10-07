@@ -22290,12 +22290,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "kylinwork",
-    "description": "Simply give a command, and the AI ​​handles the planning and execution, delivering the finished PPT, Word, Excel, or web content directly to you...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kylinwork.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "kzi-cartridge-generator",
     "description": "KZI Cartridge Generator...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kzi-cartridge-generator.png",
