@@ -23832,6 +23832,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "logseq-og",
+    "description": "Logseq og (file version)...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/logseq-og.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "logsquirl",
     "description": "Fast open-source log explorer for Windows, macOS and Linux. Search multi-gigabyte files, follow live logs, and chart what you find. Qt6/C++, based on klogg and glogg...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/logsquirl.png",
@@ -50158,6 +50164,12 @@
     "description": "Desktop application for the lightning network...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zapdesktop.png",
     "arch": ["x86_64"]
+  },
+  {
+    "packageName": "zapfast",
+    "description": "a fast, native WhatsApp client in Rust and egui...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zapfast.png",
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "zapkube",
