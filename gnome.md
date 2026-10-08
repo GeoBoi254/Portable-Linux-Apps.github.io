@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **36** programs for this category.
+#### Here are listed **37** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -100,6 +100,7 @@
 
 | ICON | PACKAGE NAME | DESCRIPTION | INSTALLER |
 | --- | --- | --- | --- |
+| <img loading="lazy" src="icons/actioneer-gtk.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***actioneer-gtk***](apps/actioneer-gtk.md) | *A native GNOME desktop client for GitHub Actions.*..[ *read more* ](apps/actioneer-gtk.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/actioneer-gtk) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/actioneer-gtk) |
 | <img loading="lazy" src="icons/baobab.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***baobab***](apps/baobab.md) | *A graphical directory tree analyzer for the GNOME desktop environment, to keep your disk usage and available space under control.*..[ *read more* ](apps/baobab.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/baobab) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/baobab) |
 | <img loading="lazy" src="icons/chrome-isolation.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***chrome-isolation***](apps/chrome-isolation.md) | *Isolated Docker-backed Chrome profiles managed from a native GNOME/Wayland Electron desktop app.*..[ *read more* ](apps/chrome-isolation.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/chrome-isolation) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/chrome-isolation) |
 | <img loading="lazy" src="icons/emojify.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***emojify***](apps/emojify.md) | *Emojify is a lightweight, native emoji picker for the Linux desktop. Built with C++ and gtkmm-4.0 it provides a fast, responsive, and visually consistent experience for GNOME and other modern desktop environments.*..[ *read more* ](apps/emojify.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/emojify) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/emojify) |
