@@ -30072,12 +30072,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "omatrack",
-    "description": "Native cross-format motorsport telemetry analysis workstation...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/omatrack.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "ombra-chat",
     "description": "Privacy-boosted Telegram desktop client with OpenPGP layer...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/ombra-chat.png",
