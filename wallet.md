@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **81** programs for this category.
+#### Here are listed **82** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -180,6 +180,7 @@
 | <img loading="lazy" src="icons/wallettech.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***wallettech***](apps/wallettech.md) | *BytechCoin GUI Wallet.*..[ *read more* ](apps/wallettech.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/wallettech) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/wallettech) |
 | <img loading="lazy" src="icons/whirlpool-gui.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***whirlpool-gui***](apps/whirlpool-gui.md) | *Desktop GUI for Whirlpool by Samourai-Wallet.*..[ *read more* ](apps/whirlpool-gui.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/whirlpool-gui) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/whirlpool-gui) |
 | <img loading="lazy" src="icons/zingo-pc.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***zingo-pc***](apps/zingo-pc.md) | *Zingo PC is a shielded Zcash light-client wallet for desktop.*..[ *read more* ](apps/zingo-pc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zingo-pc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zingo-pc) |
+| <img loading="lazy" src="icons/zkas-wallet.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***zkas-wallet***](apps/zkas-wallet.md) | *ZKas (private).*..[ *read more* ](apps/zkas-wallet.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zkas-wallet) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zkas-wallet) |
 | <img loading="lazy" src="icons/zkool2.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***zkool2***](apps/zkool2.md) | *Zkool - Wallet for Zcash (sucessor to ywallet).*..[ *read more* ](apps/zkool2.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zkool2) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zkool2) |
 
 
