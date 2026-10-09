@@ -6702,6 +6702,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "chatgpt-community",
+    "description": "Unofficial ChatGPT desktop app for Linux, built locally from OpenAI’s official Linux app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, Homebrew Cask, and AppImage, with Wayland and X11 support...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chatgpt-community.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "chatgpt-conversation-pruner",
     "description": "ChatGPT web page performance optimization....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chatgpt-conversation-pruner.png",
@@ -9570,6 +9576,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "crunchyroll-linux",
+    "description": "Unofficial Crunchyroll TV/HTPC App for Linux...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/crunchyroll-linux.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "crush-forensics",
     "description": "Open-source desktop workbench for digital forensic analysis. Inspect ZIP/TAR/7z/UFDR archives, raw disk images/EWF, and iTunes/Android backups. Parse and view ABX, SQLite, SEGB, (B)PLIST, REALM, Protobuf, MMKV, Logs, hex, JSON, XML, images, audio/video, PDF, and more — all in one GUI...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/crush-forensics.png",
@@ -11211,6 +11223,12 @@
     "packageName": "disbox",
     "description": "Disbox adalah aplikasi desktop penyimpanan awan (cloud storage) modern yang memanfaatkan Discord sebagai media penyimpanan tak terbatas. Disbox kini hadir dengan arsitektur Cloud-Native Database-First, di mana seluruh struktur file Anda dikelola secara efisien menggunakan Supabase, memberikan performa yang jauh lebih cepat dan andal...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/disbox.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "disc-xplorer",
+    "description": "Disc Xplorer is a free, lightweight, cross-platform app for optical disc image browsing, extracting, analyzing, and so much more...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/disc-xplorer.png",
     "arch": ["x86_64"]
   },
   {
@@ -28734,6 +28752,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "nearcade",
+    "description": "Nearcade is an open source game streaming platform. It functions as a self hosted alternative to Steam Remote Play Together, allowing you to share your screen and play local couch co-op multiplayer games with friends over the internet with low latency...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nearcade.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "nebula",
     "description": "AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nebula.png",
@@ -37842,6 +37866,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "reblue",
+    "description": "Recompilation of Blue Dragon...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/reblue.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "rebos",
     "description": "Rebos is a tool that aims at mimicking what NixOS does (repeatability), for any Linux distribution...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rebos.png",
@@ -43014,6 +43044,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "steam-art-manager",
+    "description": "Simple and elegant Steam library customization...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/steam-art-manager.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "steam-manifest-downloader",
     "description": "🎮 Modern desktop app for downloading Steam depot manifests using DepotDownloaderMod. Upload .lua files, select manifests, and download with real-time progress tracking. Built with Tauri v2 (Rust + WebView)...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/steam-manifest-downloader.png",
@@ -47412,12 +47448,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "utilso",
-    "description": "Regex Tester, JWT Verify, Image Converter, Format JSON, Decode.....",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/utilso.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "utool",
     "description": "Utool is the Swiss Army Knife of Underspecification. It is a GUI and library written in Java for performing computations with dominance graphs and other formalisms, which are used to represent semantic ambiguities in natural language processing...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/utool.png",
@@ -49416,12 +49446,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "weflow",
-    "description": "WeChat data export & analysis tool with native Rust CLI...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/weflow.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "wekan",
     "description": "The Open Source kanban, built with Meteor...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wekan.png",
@@ -50199,12 +50223,6 @@
     "packageName": "workbuddy-switch",
     "description": "Features account switching for WorkBuddy and CodeBuddy, monitoring of point expiration, statistics for points and tokens, and a floating window for agent status...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/workbuddy-switch.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "workbuddy-switch-gateway",
-    "description": "Account management + OpenAI-compatible gateway (based on the integration of workbuddy-switch and workbuddy2api)...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/workbuddy-switch-gateway.png",
     "arch": ["x86_64"]
   },
   {
