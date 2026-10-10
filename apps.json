@@ -4800,12 +4800,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "blazify-desktop",
-    "description": "streaming, offline downloads, synced lyrics and a 10-band equalizer. No ads, no tracking, no account needed...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/blazify-desktop.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "bldesk",
     "description": "BLDesk is a fast, native desktop client for BinaryLane Cloud...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/bldesk.png",
@@ -6592,12 +6586,6 @@
     "description": "Ark Ascended Server Manager...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cerious-aasm.png",
     "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "cf-compass",
-    "description": "A cross-platform Codeforces desktop companion for personalized practice, contest review, training plans, and algorithm templates...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cf-compass.png",
-    "arch": ["x86_64"]
   },
   {
     "packageName": "cgtimer",
@@ -9741,12 +9729,6 @@
     "packageName": "cubyz",
     "description": "Unofficial. Voxel sandbox game with large render distance and procedurally generated content...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cubyz.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "cudatext",
-    "description": "A cross-platform text editor, written in Object Pascal...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cudatext.png",
     "arch": ["x86_64"]
   },
   {

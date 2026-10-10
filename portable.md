@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **595** portable programs NOT in AppImage format.
+#### Here are listed **594** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -202,7 +202,6 @@
 | <img loading="lazy" src="icons/crock.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***crock***](apps/crock.md) | *Crock is rock clock.*..[ *read more* ](apps/crock.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/crock) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/crock) |
 | <img loading="lazy" src="icons/csplit.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***csplit***](apps/csplit.md) | *File into sections determined by context. This is part of "am-utils" suite.*..[ *read more* ](apps/csplit.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/csplit) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/csplit) |
 | <img loading="lazy" src="icons/ctop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***ctop***](apps/ctop.md) | *Top-like interface for container metrics.*..[ *read more* ](apps/ctop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/ctop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/ctop) |
-| <img loading="lazy" src="icons/cudatext.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***cudatext***](apps/cudatext.md) | *A cross-platform text editor, written in Object Pascal.*..[ *read more* ](apps/cudatext.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cudatext) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cudatext) |
 | <img loading="lazy" src="icons/curl.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***curl***](apps/curl.md) | *Command line tool and library for transferring data with URLs. This is part of "am-utils" suite.*..[ *read more* ](apps/curl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/curl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/curl) |
 | <img loading="lazy" src="icons/curlie.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***curlie***](apps/curlie.md) | *The power of curl, the ease of use of httpie.*..[ *read more* ](apps/curlie.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/curlie) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/curlie) |
 | <img loading="lazy" src="icons/cut.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***cut***](apps/cut.md) | *From each line of files. This is part of "am-utils" suite.*..[ *read more* ](apps/cut.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/cut) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/cut) |
