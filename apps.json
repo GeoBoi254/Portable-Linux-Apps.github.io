@@ -33786,6 +33786,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "pdf-metadata-editor",
+    "description": "An advanced GUI/CLI editor for PDF Metadata...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pdf-metadata-editor.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "pdf-scholar",
     "description": "A PDF reader and annotator for Windows and macOS, built for research. Free, MIT-licensed, and offline unless you ask a question...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pdf-scholar.png",
