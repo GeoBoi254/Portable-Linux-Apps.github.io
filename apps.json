@@ -7477,7 +7477,7 @@
   },
   {
     "packageName": "claude-terminal",
-    "description": " A cross-platform desktop application for managing Claude Code projects with an integrated terminal environment, git workflows, plugin management, and more. ..",
+    "description": " A cross-platform desktop application for managing Claude Code projects with an integrated terminal environment, git workflows, plugin management, and more...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/claude-terminal.png",
     "arch": ["x86_64"]
   },
@@ -11904,6 +11904,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "drawx",
+    "description": "Offline-first brainstorming and whiteboard app...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/drawx.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "drawy",
     "description": "Your handy, infinite, brainstorming tool...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/drawy.png",
@@ -15765,6 +15771,12 @@
     "packageName": "free-google-index-checker",
     "description": "Unlimited Free Google Index Checker by IndexBolt...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/free-google-index-checker.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "freebo",
+    "description": "Freebo — a free, open-source desktop media client, built to connect your media library with your favorite local player. No subscriptions or format unlock fees...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/freebo.png",
     "arch": ["x86_64"]
   },
   {
@@ -19948,6 +19960,12 @@
     "description": "IMessage client over Bluetooth MAP/PBAP...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/imsg.png",
     "arch": ["x86_64","aarch64"]
+  },
+  {
+    "packageName": "imsprog",
+    "description": "Unofficial. Software for CH341A-based programmers to work with I2C, SPI and MicroWire EEPROM/Flash chips...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/imsprog.png",
+    "arch": ["x86_64"]
   },
   {
     "packageName": "imthemes",
