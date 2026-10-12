@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **147** programs and **1** items for this category.
+#### Here are listed **148** programs and **1** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -182,6 +182,7 @@
 | <img loading="lazy" src="icons/melonds.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***melonds***](apps/melonds.md) | *DS emulator, sorta.*..[ *read more* ](apps/melonds.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melonds) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melonds) |
 | <img loading="lazy" src="icons/melonds-enhanced.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***melonds-enhanced***](apps/melonds-enhanced.md) | *Unofficial. Fast and accurate Nintendo DS and DSi emulator.*..[ *read more* ](apps/melonds-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melonds-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melonds-enhanced) |
 | <img loading="lazy" src="icons/melonmix.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***melonmix***](apps/melonmix.md) | *KH Melon Mix (DS Emulator) DS emulator, sorta DS emulator, sorta.*..[ *read more* ](apps/melonmix.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/melonmix) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/melonmix) |
+| <img loading="lazy" src="icons/metroidprimeport.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***metroidprimeport***](apps/metroidprimeport.md) | *bring your own disc image.*..[ *read more* ](apps/metroidprimeport.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/metroidprimeport) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/metroidprimeport) |
 | <img loading="lazy" src="icons/mgba.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mgba***](apps/mgba.md) | *Game Boy Advance Emulator.*..[ *read more* ](apps/mgba.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mgba) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mgba) |
 | <img loading="lazy" src="icons/mgba-enhanced.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***mgba-enhanced***](apps/mgba-enhanced.md) | *Unofficial. Game Boy Advance Emulator.*..[ *read more* ](apps/mgba-enhanced.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mgba-enhanced) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mgba-enhanced) |
 | <img loading="lazy" src="icons/mini-vmac.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***mini-vmac***](apps/mini-vmac.md) | *Unofficial. A miniature Macintosh 68K emulator.*..[ *read more* ](apps/mini-vmac.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mini-vmac) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mini-vmac) |
