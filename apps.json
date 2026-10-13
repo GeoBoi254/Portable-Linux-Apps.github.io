@@ -26124,12 +26124,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "mcp-dock",
-    "description": "MCP Server & Config Manager for 14 AI Clients — Cursor, VS Code, Claude Code, Gemini CLI, Windsurf, Zed, TRAE, Kiro, JetBrains & more. 8500+ servers, 4400+ skills...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mcp-dock.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "mcp-manager",
     "description": "One app to install, authenticate, proxy, filter, and manage every MCP server across all your AI tools...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mcp-manager.png",
@@ -26901,12 +26895,6 @@
     "packageName": "microemacs",
     "description": "Modern Jasspa's Microemacs fork - based on Dave Conroy and Daniel Lawrences code. Text editor with GUI and terminal mode, with syntax highlighting, folding, outlines, abbreviations, own extension language, calendar, games, notes...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/microemacs.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "micromatrix-workbench",
-    "description": "Use the web-based AI model for inference and the Pi tool for local execution...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/micromatrix-workbench.png",
     "arch": ["x86_64"]
   },
   {
@@ -28533,12 +28521,6 @@
     "packageName": "mxb-app",
     "description": "The desktop mod manager for MX Bikes, from mxbsecure...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mxb-app.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "mxterm",
-    "description": "A lightweight and easy-to-use terminal connection tool...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mxterm.png",
     "arch": ["x86_64"]
   },
   {

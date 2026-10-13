@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **1293** programs and **10** items for this category.
+#### Here are listed **1292** programs and **10** items for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -640,7 +640,6 @@
 | <img loading="lazy" src="icons/multimc.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***multimc***](apps/multimc.md) | *A Minecraft launcher.*..[ *read more* ](apps/multimc.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/multimc) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/multimc) |
 | <img loading="lazy" src="icons/music-dl.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***music-dl***](apps/music-dl.md) | *CLI tool for downloading music from Tidal.*..[ *read more* ](apps/music-dl.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/music-dl) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/music-dl) |
 | <img loading="lazy" src="icons/mv.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***mv***](apps/mv.md) | *Move (rename) files. This is part of "am-utils" suite.*..[ *read more* ](apps/mv.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mv) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mv) |
-| <img loading="lazy" src="icons/mxterm.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***mxterm***](apps/mxterm.md) | *A lightweight and easy-to-use terminal connection tool.*..[ *read more* ](apps/mxterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/mxterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/mxterm) |
 | <img loading="lazy" src="icons/n8n-desktop.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***n8n-desktop***](apps/n8n-desktop.md) | *no manual Node.js environment configuration required, no Docker installation needed.*..[ *read more* ](apps/n8n-desktop.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/n8n-desktop) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/n8n-desktop) |
 | <img loading="lazy" src="icons/nak.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***nak***](apps/nak.md) | *A CLI tool for doing all things nostr.*..[ *read more* ](apps/nak.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nak) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nak) |
 | <img loading="lazy" src="icons/nami.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***nami***](apps/nami.md) | *A clean and tidy decentralized package manager.*..[ *read more* ](apps/nami.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/nami) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/nami) |
