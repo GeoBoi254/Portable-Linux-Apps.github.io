@@ -51747,7 +51747,7 @@
     "packageName": "zapzap",
     "description": "WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zapzap.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "zarmanager",
