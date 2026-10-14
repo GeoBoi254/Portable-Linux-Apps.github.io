@@ -14436,6 +14436,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "figcraft",
+    "description": "Interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/figcraft.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "figma-linux",
     "description": "First interface design tool based in the browser, graphics...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/figma-linux.png",
@@ -33516,12 +33522,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "passwall-desktop",
-    "description": "PassWall Desktop is the desktop client for PassWall Server written with Electron Vue...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/passwall-desktop.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "passy",
     "description": "Offline password manager with cross-platform synchronization...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/passy.png",
@@ -34218,21 +34218,9 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "photo-tinder-desktop",
-    "description": "Photo Tinder - Desktop app for image triage and ranking (Tauri)...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/photo-tinder-desktop.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "photocraft",
     "description": "The open-source image editor you already know how to use...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/photocraft.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "photocrea",
-    "description": "Unofficial. Photopea wrapper, image editor with layers, filters, and selection tools...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/photocrea.png",
     "arch": ["x86_64"]
   },
   {
@@ -35019,18 +35007,6 @@
     "packageName": "playme",
     "description": "Elegant YouTube Music desktop app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/playme.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "playtorrio",
-    "description": "All-in-One Media Streaming — Movies, Series, Manga, Audiobooks, and Music...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/playtorrio.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "playtorriov2",
-    "description": "Stream anything, anywhere. Movies, TV shows, music, manga, comics, audiobooks, live sports. All in one app...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/playtorriov2.png",
     "arch": ["x86_64"]
   },
   {
@@ -36699,12 +36675,6 @@
     "packageName": "qbittorrent",
     "description": "A powerful QT-based Bittorrent Client, official AppImage...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/qbittorrent.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "qbz-downloader",
-    "description": "Desktop-first Qobuz downloader EXE for Hi-Res audio, metadata automation, and local library management...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/qbz-downloader.png",
     "arch": ["x86_64"]
   },
   {
@@ -39672,12 +39642,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "sam",
-    "description": "A free, private, local-first AI assistant that actually does the work — 167 tools, a team of 78 AI agents, 40 rotating free AI brains, 25 skills. Not a chatbot, a doer. It doesn't just answer — it handles it...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/sam.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "samba-util",
     "description": "Unified GUI and CLI front‑end for the Linux Samba service stack. Provides share management, user administration, and configuration editing with direct interaction through smb.conf and smbd...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/samba-util.png",
@@ -41907,12 +41871,6 @@
     "packageName": "snap2link",
     "description": "Paste screenshots into Claude Code, Cursor, or any terminal AI. Hotkey → region capture → public link in your clipboard. Cross-platform, open source...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/snap2link.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "snapboard",
-    "description": "A minimal, local‑first kanban board designed as a companion to **SnapDock**...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/snapboard.png",
     "arch": ["x86_64"]
   },
   {
@@ -45948,12 +45906,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "tokenclock",
-    "description": "Native Liquid Glass AI token tracker for macOS. Breakdown into sessions/models/tools...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tokenclock.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "tokenicode",
     "description": "A Claude Code GUI — Tauri 2 + React 19 + TypeScript + Tailwind CSS 4...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tokenicode.png",
@@ -48660,12 +48612,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "vizza",
-    "description": "A desktop application featuring interactive simulations built with Tauri, Svelte, and WebGPU...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vizza.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "vk-desktop",
     "description": "Cross-platform client VKontakte...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vk-desktop.png",
@@ -50280,12 +50226,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "woocommerce-pos",
-    "description": "Electron Desktop App for WooCommerce POS..",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/woocommerce-pos.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "woof-doom",
     "description": "Woof! is a continuation of the Boom/MBF bloodline of Doom source ports...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/woof-doom.png",
@@ -51730,12 +51670,6 @@
     "description": "The fastest Kubernetes desktop client...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zapkube.png",
     "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "zaplo",
-    "description": "CRM, AI & Agent Hub tu dong, Kho bai & rai lich, Auto-comment, Workflow no-code, ERP noi bo. Local-first, du lieu luu cuc bo...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zaplo.png",
-    "arch": ["x86_64"]
   },
   {
     "packageName": "zaptide",

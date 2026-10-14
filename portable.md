@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **595** portable programs NOT in AppImage format.
+#### Here are listed **594** portable programs NOT in AppImage format.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -480,7 +480,6 @@
 | <img loading="lazy" src="icons/pfetch-rs.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***pfetch-rs***](apps/pfetch-rs.md) | *A rewrite of the pfetch system information tool in Rust.*..[ *read more* ](apps/pfetch-rs.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pfetch-rs) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pfetch-rs) |
 | <img loading="lazy" src="icons/pget.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***pget***](apps/pget.md) | *The fastest, resumable file download CLI client.*..[ *read more* ](apps/pget.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pget) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pget) |
 | <img loading="lazy" src="icons/pho.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***pho***](apps/pho.md) | *The AppImage Manager that Linux always deserved.*..[ *read more* ](apps/pho.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/pho) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/pho) |
-| <img loading="lazy" src="icons/photocrea.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***photocrea***](apps/photocrea.md) | *Unofficial. Photopea wrapper, image editor with layers, filters, and selection tools.*..[ *read more* ](apps/photocrea.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photocrea) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photocrea) |
 | <img loading="lazy" src="icons/photon.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***photon***](apps/photon.md) | *Cross-platform file-transfer application built using flutter. It uses http to transfer files between devices.*..[ *read more* ](apps/photon.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/photon) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/photon) |
 | <img loading="lazy" src="icons/picocrypt-ng.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***picocrypt-ng***](apps/picocrypt-ng.md) | *A very small, very simple, yet very secure encryption tool.*..[ *read more* ](apps/picocrypt-ng.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picocrypt-ng) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picocrypt-ng) |
 | <img loading="lazy" src="icons/picterm.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***picterm***](apps/picterm.md) | *CLI, TUI image viewer.*..[ *read more* ](apps/picterm.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/picterm) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/picterm) |

@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **175** programs for this category.
+#### Here are listed **174** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -272,7 +272,6 @@
 | <img loading="lazy" src="icons/xiphos.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***xiphos***](apps/xiphos.md) | *Unofficial. A Bible study tool using GTK.*..[ *read more* ](apps/xiphos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xiphos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xiphos) |
 | <img loading="lazy" src="icons/youtube-dl-pro.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***youtube-dl-pro***](apps/youtube-dl-pro.md) | *All-in-one video downloader for Linux and Windows. Save video & audio from YouTube, Instagram, TikTok, Facebook and 1400+ sites in HD or MP3. No ads.*..[ *read more* ](apps/youtube-dl-pro.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/youtube-dl-pro) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/youtube-dl-pro) |
 | <img loading="lazy" src="icons/yt-forge.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***yt-forge***](apps/yt-forge.md) | *A free, universal video downloader and yt-dlp GUI for macOS, Windows, and Linux. Download from YouTube, Instagram, TikTok, Facebook, and 1000+ other sites.*..[ *read more* ](apps/yt-forge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/yt-forge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/yt-forge) |
-| <img loading="lazy" src="icons/zaplo.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***zaplo***](apps/zaplo.md) | *CRM, AI & Agent Hub tu dong, Kho bai & rai lich, Auto-comment, Workflow no-code, ERP noi bo. Local-first, du lieu luu cuc bo.*..[ *read more* ](apps/zaplo.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zaplo) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zaplo) |
 | <img loading="lazy" src="icons/zegrapher.png" width="48" height="48"><span class="arch-data" data-arch="x86_64" hidden></span> | [***zegrapher***](apps/zegrapher.md) | *Math graphing software.*..[ *read more* ](apps/zegrapher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zegrapher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zegrapher) |
 | <img loading="lazy" src="icons/zhijiao-reader.png" width="48" height="48"><span class="arch-data" data-arch="x86_64 aarch64" hidden></span> | [***zhijiao-reader***](apps/zhijiao-reader.md) | *AI document reading tool supports PDF translation, terminology explanation, and questioning, and has been adapted to Jiaotong University API..*..[ *read more* ](apps/zhijiao-reader.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/zhijiao-reader) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/zhijiao-reader) |
 
