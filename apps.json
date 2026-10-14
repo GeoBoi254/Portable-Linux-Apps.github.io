@@ -33777,7 +33777,7 @@
     "packageName": "pdf-metadata-editor",
     "description": "An advanced GUI/CLI editor for PDF Metadata...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/pdf-metadata-editor.png",
-    "arch": ["x86_64"]
+    "arch": ["x86_64","aarch64"]
   },
   {
     "packageName": "pdf-scholar",
